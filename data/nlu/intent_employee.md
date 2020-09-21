@@ -1,0 +1,53 @@
+## intent: intent_employee
+- Số lượng tuyển bao nhiêu
+- Số lượng tuyển như thế nào
+- Tuyển có đông không
+- Tuyển bao nhiêu người
+- Chỉ tiêu tuyển thế nào
+- Chỉ tiêu tuyển có nhiều không
+- Chỉ tiêu tuyển có đông không
+- Chỉ tiêu tuyển mỗi năm là bao nhiêu
+- Mỗi năm tuyển bao nhiêu người
+- Mỗi năm tuyển có đông không
+- Số lượng người tuyển trong mỗi năm
+- Số lượng tuyển trong mỗi năm là bao nhiêu
+- Mỗi đợt có bao nhiều người đỗ
+- Số lượng người đỗ có đông không
+- Số lượng người trúng tuyển có đông không
+- Cả năm tuyển bao nhiêu người
+- Cả năm bao nhiêu người đỗ
+- Cả năm bao nhiêu người trúng tuyển
+- Một năm tuyển bao nhiêu người
+- Một năm bao nhiêu người đỗ
+- Một năm bao nhiêu người trúng tuyển
+- Lượng người trúng tuyển mỗi năm là bao nhiêu
+- Lượng người trúng tuyển vào công ty có đông không
+- Lượng người trúng tuyển vào SVMC có đông không
+- Số người trúng tuyển vào SVMC là bao nhiêu
+- Ad cho xin chỉ tiêu tuyển nhân viên mỗi năm
+- Ad cho xin thông tin lượng người trúng tuyển mỗi năm
+- Hằng năm tuyển bao nhiêu đợt
+- Hằng năm có bao nhiêu đợt tuyển
+- Mỗi năm có mấy đợt tuyển
+- Mỗi năm tuyển mấy đợt
+- Mỗi năm có bao nhiêu đợt tuyển
+- Mỗi năm có tổng cộng mấy đợt tuyển
+- Mỗi năm có tổng cộng tuyển mấy đợt
+- Mỗi năm có nhiều đợt tuyển không
+- Có bao nhiêu đợt tuyển trong 1 năm
+- Có mấy đợt tuyển trong 1 năm
+- Có tổng cộng bao nhiêu đợt tuyển trong 1 năm
+- Có nhiều đợt tuyển trong 1 năm không
+- Công ty có mấy đợt tuyển mỗi năm
+- Công ty có bao nhiêu đợt tuyển mỗi năm
+- Công ty có nhiều đợt tuyển trong 1 năm không
+- Số đợt tuyển trong 1 năm
+- Số đợt tuyển trong 1 năm là bao nhiêu
+- Số đợt tuyển trong 1 năm có nhiều không
+- Ad cho xin số đợt tuyển trong 1 năm
+- Ad cho xin số lần tuyển trong 1 năm
+- Ad cho xin số đợt tuyển của công ty
+- SVMC có mấy đợt tuyển trong 1 năm
+- SVMC có nhiều đợt tuyển trong 1 năm không
+- SVMC 1 năm tuyển mấy lần
+- SVMC có bao nhiêu đợt tuyển trong 1 năm

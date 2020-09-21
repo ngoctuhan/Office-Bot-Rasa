@@ -1,0 +1,27 @@
+language: vi
+pipeline:
+- name: src.nlu.featurizer.spacy_utils.SpacyNLP
+- name: src.nlu.featurizer.spacy_tokenizer.SpacyTokenizer
+- name: src.nlu.featurizer.spacy_featurizer.SpacyFeaturizer
+- name: RegexFeaturizer
+- name: src.nlu.ner.regex_extractor.RegexEntityExtractor
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 1
+  max_ngram: 4
+- name: src.nlu.classifier.diet_classifier.DIETClassifier
+  BILOU_flag: false
+  epochs: 100
+  batch_size: [32,64]
+  entity_recognition: False
+  tensorboard_log_directory: resources/logs
+  tensorboard_log_level: "epoch"
+  learning_rate: 0.0001
+  random_seed: 666
+policies:
+- name: src.policies.memoization_policy.MemoizationPolicy
+# - name: FallbackPolicy
+#   nlu_threshold: 0.3
+#   core_threshold: 0.3
+#   ambiguity_threshold: -1.0
+#   fallback_action_name: action_quit

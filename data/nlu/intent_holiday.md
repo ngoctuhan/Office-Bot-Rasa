@@ -1,0 +1,16 @@
+## intent: intent_holiday
+- Nghỉ lễ của công ty như nào
+- Chính sách nghỉ lễ của công ty như thế nào
+- Chính sách nghỉ lễ của công ty thế nào
+- Chính sách nghỉ lễ của công ty thì sao
+- Chính sách nghỉ lễ của công ty có gì đặc sắc không
+- Chính sách nghỉ lễ của công ty so với các công ty khác thì sao
+- Những ngày lễ có được nghỉ nhiều không
+- Những ngày lễ được nghỉ nhiều hay ít
+- Lịch nghỉ lễ thế nào
+- Lịch nghỉ lễ của công ty có giống nhà Nước không
+- Chính sách nghỉ lễ của công ty thế nào hả ad
+- Ad cho xin thông tin lịch nghỉ lễ
+- Ad cho xin chính sách nghỉ lễ của công ty
+- Công ty có lịch nghỉ lễ không
+- Công ty có chính sách nghỉ lễ không

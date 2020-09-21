@@ -1,0 +1,27 @@
+## intent: intent_where
+- Trụ sở công ty ở đâu
+- Trụ sở ở đâu
+- Trụ sở công ty ở chỗ nào
+- Trụ sở SVMC ở đâu
+- Trụ sở SVMC nằm ở đâu
+- Trụ sở SVMC nằm ở chỗ nào
+- Công ty nằm ở đâu
+- Công ty ở đâu
+- Công ty nằm ở chỗ nào
+- Địa chỉ
+- Địa chỉ ở đâu
+- Địa chỉ công ty nằm ở đâu
+- Địa chỉ công ty ở chỗ nào
+- Địa chỉ SVMC nằm ở đâu
+- Địa chỉ SVMC nằm ở chỗ nào
+- Xin địa chỉ
+- Xin địa chỉ công ty
+- Ad cho xin địa chỉ công ty
+- Ad cho xin địa chỉ công ty với
+- Cho tao địa chỉ công ty
+- SVMC nằm ở đâu
+- SVMC nằm ở chỗ nào
+- SVMC nằm ở đâu của Hà Nội
+- SVMC nằm ở đường nào
+- SVMC xa không
+- SVMC nằm ở quận/huyện nào

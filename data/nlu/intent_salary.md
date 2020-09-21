@@ -1,0 +1,44 @@
+## intent: intent_salary
+- Mức lương ở [công ty](business) thế nào?
+- Mức lương ở [công ty](business) thế nào
+- Lương [thực tập sinh](intership) là bao nhiêu?
+- Lương [thực tập sinh](intership) là bao nhiêu
+- Lương cho [fresher](fresher) là bao nhiêu?
+- Lương cho [fresher](fresher) là bao nhiêu
+- Mức thu nhập trung bình ở [công ty](business) là bao nhiêu
+- Lương lậu ra sao
+- Mức lương khởi điểm cho [dev](coding) là bao nhiêu
+- Mức lương khởi điểm cho [developer](coding) là bao nhiêu
+- Mức lương khởi điểm là bao nhiêu
+- Mức lương ban đầu là bao nhiêu
+- Mức lương như thế nào
+- Vị trí lập trình viên [Android](android) lương bao nhiêu 
+- Vị trí lập trình viên [web](web) là bao nhiêu
+- [Fresher android](android) là bao nhiêu
+- [Intership](intership) có được hỗ trợ lương không
+- [Thực tập sinh](intership) có được hỗ trợ lương không
+- Mức lương cho [fresher](fresher) [front-end](web) là bao nhiêu
+- Mức lương cho [fresher](fresher) [frontend](web) là bao nhiêu
+- Mức lương cho [fresher](fresher) [back-end](web) là bao nhiêu
+- Mức lương cho [fresher](fresher) [backend]eb) là bao nhiêu
+- Mức lương cho [fresher](fresher) [fullstack](web) là bao nhiêu
+- Mức lương cho [fresher](fresher) [full stack](web) là bao nhiêu
+- Mức lương cho [fresher](fresher) [full stack web](web) là bao nhiêu
+- Lương cho [fresher](fresher) [front-end](web) là bao nhiêu
+- Lương cho [fresher](fresher) [frontend](web) là bao nhiêu
+- Lương cho [fresher](fresher) [back-end](web) là bao nhiêu
+- Lương cho [fresher](fresher) [backend](web) là bao nhiêu
+- Lương cho [fresher](fresher) [fullstack](web) là bao nhiêu
+- Lương cho [fresher](fresher) [full stack](web) là bao nhiêu
+- Lương cho [fresher](fresher) [full stack web](web) là bao nhiêu
+- Lương [dev java](java) là bao nhiêu
+- Lương [tester](java) là bao nhiêu 
+- Lương [java dev](java) là bao nhiêu
+- Mức lương [java core](java) là bao nhiêu
+- Lập trình viên [java](java) mức lương khởi điểm là bao nhiêu
+- [Fresher](fresher) [Java](java) lương bao nhiêu 
+- [Fresher](fresher) [front-end](web) lương bao nhiêu
+- [Fresher](fresher) [back-end](web) lương bao nhiêu
+- [Fresher](fresher) [fullstack](web) lương bao nhiêu
+- [Fresher](fresher) [frontend](web) lương bao nhiêu
+- [Fresher](fresher) [backend](web) lương bao nhiêu

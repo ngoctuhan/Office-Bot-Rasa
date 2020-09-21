@@ -1,0 +1,40 @@
+## intent: intent_hellow
+- chào bạn
+- chào cậu
+- xin chào
+- rất vui được gặp bạn
+- xin chào
+- chào bot
+- ê bot
+- ê
+- cho mình hỏi chút được không
+- Ad cho mình hỏi chút được không
+- Admin cho mình hỏi chút được không
+- Bạn gì ơi
+- Em gì ơi
+- Ê em yêu
+- Chào em yêu
+- Hello
+- Hi
+- Chào
+- 2
+- Hú
+- Đang làm gì đấy
+- Bot ơi
+- Bot à
+- Bot ngu
+- Bot ảo tưởng ơi
+- Bạn ơi cho mình hỏi chút được không
+- Bạn ơi mình có thắc mắc này ạ
+- Bạn ơi giúp mình được không
+- Chào bạn
+- Bạn ơi
+- Bạn cho mình hỏi xíu được không
+- Bạn cho mình hỏi cái này với
+- Bạn ơi cho mình hỏi
+- Bạn ơi mình hỏi cái này với
+- Hey
+- He lo
+- Helo
+
+

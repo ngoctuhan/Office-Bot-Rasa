@@ -1,0 +1,19 @@
+## intent: intent_GPA
+- Để vào công ty cần điểm GPA là bao nhiêu
+- Để vào công ty thì điểm GPA thế nào
+- Điểm GPA là bao nhiêu mới có thể vào công ty
+- Điểm GPA có quan trong khi xin vào công ty không
+- Điểm GPA tối thiểu là bao nhiêu để xin vào công ty
+- Công ty có đưa ra yêu cầu gì về điểm GPA
+- Công ty yêu cầu điểm GPA là bao nhiêu
+- Công ty yêu cầu điểm GPA có cao không
+- Tôi cần điểm GPA bao nhiêu để có thể vào công ty
+- Điểm GPA của tôi bằng X có vào được công ty không
+- Tôi muốn vào công ty thì điểm GPA cần bao nhiêu
+- Vào công ty có cần điểm GPA cao không
+- Muốn vào công ty thì đểm GPA tối thiểu là bao nhiêu
+- Điểm GPA của tôi không quá cao có vào được công ty không
+- Ad cho xin thông tin về điểm GPA khi xin vào công ty
+- Để vào SVMC điểm GPA cần bao nhiêu
+- Điểm GPA bằng bao nhiêu là đủ để vào công ty
+- Điểm GPA=x có vào được công ty không

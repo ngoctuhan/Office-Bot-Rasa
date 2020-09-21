@@ -1,0 +1,31 @@
+## intent: intent_resignation
+- Trước khi nghỉ cần báo trước bao lâu
+- Nếu muốn nghỉ cần báo trước mấy tháng
+- Trước khi nghỉ hẳn cần báo trước mấy tháng
+- Nghỉ làm có cần báo trước không
+- Nghỉ làm không báo trước có sao không
+- Tôi muốn nghỉ làm thì có cần báo trước không
+- Anh muốn nghỉ làm có cần báo trước không
+- Tôi muốn nghỉ hẳn thì báo trước bao lâu
+- Tôi muốn nghỉ làm cần báo trước bao lâu
+- Tôi muốn bỏ làm thì cần báo trước mấy tháng
+- Không làm nữa thì phải báo trước không
+- Không làm nữa thì báo trước bao lâu
+- Bỏ làm thì báo cho ai
+- Nghỉ làm thì báo cho ai
+- Không làm nữa thì báo cho ai
+- Báo trước bao lâu trước khi nghỉ làm
+- Xin nghỉ làm trước bao lâu thì không bị trừ lương
+- Xin nghỉ làm trước bao lâu là được
+- Xin nghỉ làm
+- Nghỉ việc
+- Thôi việc
+- Chuyển công tác
+- Tôi muốn nghỉ việc cần làm gì
+- Làm sao để có thể nghỉ việc
+- Nghỉ việc cần xem xét bao lâu
+- Thôi việc cần báo trước bao lâu
+- Thôi việc thì cần làm gì
+- Thôi việc sẽ làm gì
+- Sao để thôi việc
+- Thôi việc làm sao được

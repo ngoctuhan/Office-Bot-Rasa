@@ -1,0 +1,212 @@
+{
+  "action_hellow": [
+    {
+      "status": "END",
+      "text": "Xin chào mình là BOT tự động của SVMC, mình có thể giúp gì cho bạn vậy?",
+      "text_tts": "Xin chào mình là BOT tự động của SVMC, mình có thể giúp gì cho bạn vậy?"
+    }
+  ],
+  "action_bye": [
+    {
+      "status": "END",
+      "text": "Cảm ơn bạn đã quan tâm đến SVMC. Vì mới được phát triển nên mình có thể tư vấn sai mong bạn thông cảm. Chúc bạn một ngày tốt lành.",
+      "text_tts": "Cảm ơn bạn đã quan tâm đến SVMC. Vì mới được phát triển nên mình có thể tư vấn sai mong bạn thông cảm. Chúc bạn một ngày tốt lành."
+    }
+  ],
+  "action_laudatory": [
+    {
+      "status": "END",
+      "text": "SVMC luôn có những chính sách khen thưởng, trợ cấp cần thiết, thưởng lương tháng thứ 19... đảm bảo đáp ứng được mong muốn của nhân viên.",
+      "text_tts": "SVMC luôn có những chính sách khen thưởng, trợ cấp cần thiết,thưởng lương tháng thứ 19... đảm bảo đáp ứng được mong muốn của nhân viên."
+    }
+  ],
+  "action_condition": [
+    {
+      "status": "END",
+      "text": "Svmc tạo điều kiện cho nhân viên phát triển theo các ngôn ngữ, các lĩnh vực mà các bạn muốn theo đuổi. Việc phát triển được hay không, tốt hay không thì do chính bản thân bạn quyết định nhé.",
+      "text_tts": "Svmc tạo điều kiện cho nhân viên phát triển theo các ngôn ngữ, các lĩnh vực mà các bạn muốn theo đuổi. Việc phát triển được hay không, tốt hay không thì do chính bản thân bạn quyết định nhé."
+    }
+  ],
+  "action_brief": [
+    {
+      "status": "END",
+      "text": "Hồ sơ tuyển dụng bắt buộc phải có bản sao có công chứng cmnd/cccd, sổ hộ khẩu, sơ yếu lý lịch, 3 ảnh 4x6 ghi đầy đủ thông tin... bạn check mail để đảm bảo đủ yêu cầu về giấy tờ nhé",
+      "text_tts": "Hồ sơ tuyển dụng bắt buộc phải có bản sao có công chứng cmnd/cccd, sổ hộ khẩu, sơ yếu lý lịch, 3 ảnh 4x6 ghi đầy đủ thông tin... bạn check mail để đảm bảo đủ yêu cầu về giấy tờ nhé"
+    }
+  ],
+  "action_step_interview": [
+    {
+      "status": "END",
+      "text": "Quy trình ứng tuyển svmc gồm test (code thuật toán nhân viên để vào SVMC cần đạt trình độ advance), phỏng vấn, khám sức khỏe nhé",
+      "text_tts": "Quy trình ứng tuyển svmc gồm test (code thuật toán nhân viên để vào SVMC cần đạt trình độ advance), phỏng vấn, khám sức khỏe nhé"
+    }
+  ],
+  "action_old": [
+    {
+      "status": "END",
+      "text": "Độ tuổi quy định để được ứng tuyển vào SVMC là từ 18-35 tuổi nhé bạn",
+      "text_tts": "Độ tuổi quy định để được ứng tuyển vào SVMC là từ 18-35 tuổi nhé bạn"
+    }
+  ],
+  "action_club": [
+    {
+      "status": "END",
+      "text": "SVMC có các club thể thao, nhảy, gym... để giúp nhân viên có điều kiện phát triển toàn diện",
+      "text_tts": "SVMC có các club thể thao, nhảy, gym... để giúp nhân viên có điều kiện phát triển toàn diện"
+    }
+  ],
+  "action_laptop": [
+    {
+      "status": "END",
+      "text": "SVMC cung cấp sẵn máy tính với đầy đủ chức năng và đảm bảo hiệu năng cho nhân viên dùng và bạn không được mang laptop cá nhân vào công ty đâu nhé",
+      "text_tts": "SVMC cung cấp sẵn máy tính với đầy đủ chức năng và đảm bảo hiệu năng cho nhân viên dùng và bạn không được mang laptop cá nhân vào công ty đâu nhé"
+    }
+  ],
+  "action_resignation": [
+    {
+      "status": "END",
+      "text": "Trước khi nghỉ việc bạn cần nộp đơn trước một tháng cho trưởng phòng nếu không bạn sẽ bị trừ hoàn toàn tiền lương của tháng đó",
+      "text_tts": "Trước khi nghỉ việc bạn cần nộp đơn trước một tháng cho trưởng phòng nếu không bạn sẽ bị trừ hoàn toàn tiền lương của tháng đó"
+    }
+  ],
+  "action_employee": [
+    {
+      "status": "END",
+      "text": "Mỗi năm SVMC sẽ tùy theo nhu cầu để tuyển dụng và thường có nhiều đợt, mỗi đợt không cố định số lượng tuyển",
+      "text_tts": "Mỗi năm SVMC sẽ tùy theo nhu cầu để tuyển dụng và thường có nhiều đợt, mỗi đợt không cố định số lượng tuyển"
+    }
+  ],
+  "action_englishDegree": [
+    {
+      "status": "END",
+      "text": "SVMC yêu cầu nhân viên phải đạt tối thiểu 520 TOEIC (đổi điểm tương ứng với các chứng chỉ khác) và chứng chỉ cần có thời gian thi sau khi đã vào công ty nhé bạn",
+      "text_tts": "SVMC yêu cầu nhân viên phải đạt tối thiểu 520 TOEIC (đổi điểm tương ứng với các chứng chỉ khác) và chứng chỉ cần có thời gian thi sau khi đã vào công ty nhé bạn"
+    }
+  ],
+  "action_exp": [
+    {
+      "status": "END",
+      "text": "Vào SVMC bạn sẽ được đào tạo để bổ sung kiến thức nên không có kinh nghiệm cũng cứ tự tin ứng tuyển nhé. Dĩ nhiên nếu bạn có kinh nghiệm trước thì càng được khuyến khích và ưu tiên hơn.",
+      "text_tts": "Vào SVMC bạn sẽ được đào tạo để bổ sung kiến thức nên không có kinh nghiệm cũng cứ tự tin ứng tuyển nhé. Dĩ nhiên nếu bạn có kinh nghiệm trước thì càng được khuyến khích và ưu tiên hơn."
+    }
+  ],
+  "action_fields": [
+    {
+      "status": "END",
+      "text": "SVMC có tất cả các lĩnh vực mà bạn muốn học và phát triển",
+      "text_tts": "SVMC có tất cả các lĩnh vực mà bạn muốn học và phát triển"
+    }
+  ],
+  "action_GPA": [
+    {
+      "status": "END",
+      "text": "SVMC yêu cầu GPA phải đạt tối thiểu 2.5/4 nhé",
+      "text_tts": "SVMC yêu cầu GPA phải đạt tối thiểu 2.5/4 nhé"
+    }
+  ],
+  "action_health": [
+    {
+      "status": "END",
+      "text": "SVMC tổ chức khám sức khỏe cho nhân viên định kỳ 1 lần  mỗi năm nhé bạn",
+      "text_tts": "SVMC tổ chức khám sức khỏe cho nhân viên định kỳ 1 lần  mỗi năm nhé bạn"
+    }
+  ],
+  "action_holiday": [
+    {
+      "status": "END",
+      "text": "SVMC cho nhân viên nghỉ lễ theo lịch của nhà nước, ngoài ra nhân viên sẽ được nghỉ những ngày đặc biệt như đại hội thể thao, ngày thành lập... nhé bạn",
+      "text_tts": "SVMC cho nhân viên nghỉ lễ theo lịch của nhà nước, ngoài ra nhân viên sẽ được nghỉ những ngày đặc biệt như đại hội thể thao, ngày thành lập... nhé bạn"
+    }
+  ],
+  "action_overtime": [
+    {
+      "status": "END",
+      "text": "Bạn có thể làm thêm giờ trong ngày từ t2-t6 lương thêm giờ x1.5 lương cơ bản, vào cuối tuần thì x2 lương cơ bản còn ngày lễ thì sẽ x3 nhé",
+      "text_tts": "Bạn có thể làm thêm giờ trong ngày từ t2-t6 lương thêm giờ x1.5 lương cơ bản, vào cuối tuần thì x2 lương cơ bản còn ngày lễ thì sẽ x3 nhé"
+    }
+  ],
+  "action_salary": [
+    {
+      "status": "END",
+      "text": "Mỗi bộ phận, chức vụ khác nhau sẽ có các mức lương khác nhau. Vì lương không được public hơn nữa lương thay đổi theo từng năm nên mình không thể tư vấn cho bạn được. Tuy nhiên bạn yên tâm lương của SVMC được đánh giá là cao hơn so với công ty công nghệ khác đó.",
+      "text_tts": "Mỗi bộ phận, chức vụ khác nhau sẽ có các mức lương khác nhau. Vì lương không được public hơn nữa lương thay đổi theo từng năm nên mình không thể tư vấn cho bạn được. Tuy nhiên bạn yên tâm lương của SVMC được đánh giá là cao hơn so với công ty công nghệ khác đó."
+    }
+  ],
+  "action_sport": [
+    {
+      "status": "END",
+      "text": "SVMC có các hoạt động thể dục thể thao như chạy bộ, tập gym,... hàng năm có các đại hội thể thao cho nhân viên",
+      "text_tts": "SVMC có các hoạt động thể dục thể thao như chạy bộ, tập gym,... hàng năm có các đại hội thể thao cho nhân viên"
+    }
+  ],
+  "action_submitCV": [
+    {
+      "status": "END",
+      "text": "Bạn cần nộp CV online tại địa chỉ ... và hồ sơ xin việc vào hôm phỏng vấn",
+      "text_tts": "Bạn cần nộp CV online tại địa chỉ ... và hồ sơ xin việc vào hôm phỏng vấn"
+    }
+  ],
+  "action_timework": [
+    {
+      "status": "END",
+      "text": "SVMC làm việc theo giờ hành chính 8 tiếng mỗi ngày từ thứ 2 đến t6 và được nghỉ 1 tiếng buổi trưa. Mỗi tháng bạn được nghỉ phép 1 ngày, bạn có thể  để dành và nghỉ nhiều ngày một lúc.",
+      "text_tts": "SVMC làm việc theo giờ hành chính 8 tiếng mỗi ngày từ thứ 2 đến t6 và được nghỉ 1 tiếng buổi trưa. Mỗi tháng bạn được nghỉ phép 1 ngày, bạn có thể  để dành và nghỉ nhiều ngày một lúc."
+    }
+  ],
+  "action_trainning": [
+    {
+      "status": "END",
+      "text": "SVMC sẽ đào tạo kiến thức căn bản và cần thiết cho nhân viên trước khi vào làm việc rất tiếc mình không thể liệt kê hết các chương trình đào tạo ra được",
+      "text_tts": "SVMC sẽ đào tạo kiến thức căn bản và cần thiết cho nhân viên trước khi vào làm việc rất tiếc mình không thể liệt kê hết các chương trình đào tạo ra được"
+    }
+  ],
+  "action_where": [
+    {
+      "status": "END",
+      "text": "SVMC có trụ sở tại số 1 Phạm Văn Bạch, Yên Hoà, Cầu Giấy, Hà Nội",
+      "text_tts": "SVMC có trụ sở tại số 1 Phạm Văn Bạch, Yên Hoà, Cầu Giấy, Hà Nội"
+    }
+  ],
+  "action_partTime": [
+    {
+      "status": "END",
+      "text": "Cảm ơn bạn đã quan tâm rất tiếc SVMC không tuyển part-time nhé bạn",
+      "text_tts": "Cảm ơn bạn đã quan tâm rất tiếc SVMC không tuyển part-time nhé bạn"
+    }
+  ],
+  "action_maternity": [
+    {
+      "status": "END",
+      "text": "SVMC hỗ trợ nhân viên nghỉ thai sản theo luật lao động và theo bảo hiểm mà nhân viên đã đóng rất xin lỗi mình không thể tư vấn kĩ cho bạn được!!!",
+      "text_tts": "SVMC hỗ trợ nhân viên nghỉ thai sản theo luật lao động và theo bảo hiểm mà nhân viên đã đóng rất xin lỗi mình không thể tư vấn kĩ cho bạn được!!!"
+    }
+  ],
+  "action_canteen": [
+    {
+      "status": "END",
+      "text": "SVMC có sẵn đồ uống đa dạng tại mỗi tầng và có nấu ăn trên tầng 19 để tiện cho nhân viên có thể ăn trưa tại đó. Tương lai khi chuyển sang Hồ Tây có lẽ sẽ được bổ sung thêm tạo cho nhân viên điều kiện thuận tiện nhất.",
+      "text_tts": "SVMC có sẵn đồ uống đa dạng tại mỗi tầng và có nấu ăn trên tầng 19 để tiện cho nhân viên có thể ăn trưa tại đó. Tương lai khi chuyển sang Hồ Tây có lẽ sẽ được bổ sung thêm tạo cho nhân viên điều kiện thuận tiện nhất."
+    }
+  ],
+  "action_insurrance": [
+    {
+      "status": "END",
+      "text": "SVMC có chế độ bảo hiểm lao động cho tất cả các nhân viên như luật nhà nước đã đề ra nhé",
+      "text_tts": "SVMC có chế độ bảo hiểm lao động cho tất cả các nhân viên như luật nhà nước đã đề ra nhé"
+    }
+  ],
+  "action_commit": [
+    {
+      "status": "END",
+      "text": "Bạn đọc kỹ hợp đồng lao động để biết cam kết bao nhiêu tháng nhé. Còn đối với bạn STP thì sẽ cam kết 2, 3 năm tùy từng học bổng.",
+      "text_tts": "Bạn đọc kỹ hợp đồng lao động để biết cam kết bao nhiêu tháng nhé. Còn đối với bạn STP thì sẽ cam kết 2, 3 năm tùy từng học bổng."
+    }
+  ],
+  "action_degree": [
+    {
+      "status": "END",
+      "text": "Khi có điểm cao các bằng ngôn ngữ như TOEIC, IELTS,... bạn sẽ được thưởng tiền, nếu có bằng tiếng Hàn bạn sẽ được tăng lương. Các bằng bạn có cũng sẽ giúp bạn có lợi thế trong vòng loại hồ sơ và phỏng vấn.",
+      "text_tts": "Khi có điểm cao các bằng ngôn ngữ như TOEIC, IELTS,... bạn sẽ được thưởng tiền, nếu có bằng tiếng Hàn bạn sẽ được tăng lương. Các bằng bạn có cũng sẽ giúp bạn có lợi thế trong vòng loại hồ sơ và phỏng vấn."
+    }
+  ]
+}

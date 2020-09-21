@@ -1,0 +1,33 @@
+## intent: intent_overtime
+- Công ty có OT không
+- Chính sách OT ở công ty như nào
+- Tôi muốn làm OT có được không
+- Công ty có làm thêm giờ không
+- Làm thêm giờ ở công ty được ưu đãi gì
+- Chính sách overtime ở công ty thế nào
+- OT thì trả lương thế nào
+- Thời gian OT có thường xuyên không
+- overtime thì trả lương thế nào
+- overtime lương thế nào
+- Chính sách lương overtime của công ty thế nào
+- Lương cho nhân viên overtime thế nào
+- Công ty có làm quá giờ không
+- Công ty có làm tăng ca không
+- Tăng ca lương thế nào
+- Qúa giờ lương thế nào
+- Làm thêm giờ thì lương thế nào
+- Thứ bảy và chủ nhật có OT không
+- Thứ bảy và chủ nhật có cần đi làm không
+- Thứ bảy và chủ nhật có overtime không
+- Làm thêm giờ vào thứ bảy không
+- Thứ bảy và chủ nhật có được nghỉ không
+- Tôi có phải đi làm thứ bảy chủ nhật không
+- Cuối tuần có được nghỉ không
+- Có tăng ca vào cuối tuần không
+- Cuối tuần có tăng ca không
+- Cuối tuần có OT không
+- Cuối tuần có overtime không
+- OT tại công ty như thế nào
+- Tôi muốn OT có được không
+- Công ty có yêu cầu nhân viên làm việc cuối tuần không
+- Tôi muốn về nhà lúc 5h và không muốn OT

@@ -1,0 +1,20 @@
+## intent:intent_timework
+- Thời gian làm việc công ty thế nào
+- Thời gian làm việc ở công ty ra sao
+- Công ty bắt đầu làm việc lúc mấy giờ
+- Công ty làm việc lúc mấy h 
+- Một tháng làm việc bao nhiêu ngày
+- Một tuần làm việc bao nhiêu ngày
+- Một tuần làm việc mấy ngày
+- Tuần công ty làm việc từ thứ mấy đến thứ mấy
+- Thời gian làm việc của công ty bắt đầu từ khi nào
+- Công ty bắt đầu làm việc buổi sáng từ lúc mấy giờ
+- Thời gian nghỉ trưa công ty là bao lâu
+- Thời gian biểu làm việc của công ty
+- Thời gian làm việc tại công ty
+- Giờ hành chính tại công ty thế nào
+- Công ty bắt đầu buổi chiều làm việc lúc mấy giờ
+- Công ty làm việc mấy ngày một tuần
+- Công ty làm việc tuần bao nhiêu ngày
+- Công ty làm việc tuần mấy ngày
+- Thời gian ăn trưa ở công ty là mấy giờ

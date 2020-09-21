@@ -1,0 +1,30 @@
+## intent: intent_canteen
+- Trong công ty có canteen không
+- Công ty có canteen không
+- Công ty có chỗ ăn không
+- Công ty có chỗ ăn nào không
+- Có canteen không
+- Canteen có không
+- Canteen của công ty nằm ở đâu
+- Canteen công ty nằm chỗ nào
+- Canteen công ty thế nào
+- Ăn uông ở công ty thế nào
+- Trong công ty ăn uông ở đâu
+- Có chỗ bán thức ăn trong công ty không
+- Trong công ty có phòng ăn không
+- Phòng ăn ở đâu
+- Căng tin ở đâu
+- Có căng tin không
+- Căng tin ở chỗ nào
+- Trong công ty chỗ ăn nào không
+- Công ty có mở căng tin không
+- Trong công ty căng tin bán những gì
+- Trong công ty đang làm đói thì làm sao
+- Tôi đói trong công ty phải làm thế nào
+- Làm sao để hết đói trong công ty
+- Căng tin có không
+- Chỗ bán đồ ăn gần công ty không
+- Có hàng quán gì quanh công ty không
+- Có bán gì cho nhân viên không
+- Công ty có căn tin bán đồ ăn nhanh không
+- Công ty có bán nước tại căng tin không

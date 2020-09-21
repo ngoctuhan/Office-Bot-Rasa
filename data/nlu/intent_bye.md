@@ -1,0 +1,45 @@
+## intent: intent_bye
+- Bye
+- Chào tạm biệt
+- Cảm ơn bạn nhé
+- Cảm ơn
+- Thank you
+- Thanks
+- Cảm ơn bạn nhiều
+- Many thanks
+- Cảm ơn bạn nhiều
+- Cảm ơn bot
+- Cảm ơn admin
+- Hẹn gặp lại
+- Thân ái và chào tạm biệt
+- Em cảm ơn ạ
+- Cảm ơn admin 
+- Cảm ơn ad
+- Chào 
+- Tạm biệt nhé
+- Tạm biệt
+- Vĩnh biệt
+- Cút đi
+- Biến đi
+- Xéo đi
+- Next
+- Lượn đi
+- Off đây
+- Nghỉ nhé
+- Dừng
+- Dẹp mẹ đi
+- Cút xéo đi
+- Mau mau lượn
+- Đi ngủ đây
+- Uhm
+- Uh
+- Ukm
+- Oke
+- Ok
+- Oke thanks
+- Oke cảm ơn
+- Oke la
+- Oke oke
+- Thôi được rồi
+- Thôi tôi xin ông
+- Dừng mẹ mày đi

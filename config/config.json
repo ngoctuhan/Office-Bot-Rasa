@@ -1,0 +1,54 @@
+{
+  "name_intent_start": [
+    "null_intent"
+  ],
+  "name_action_finsh": [
+    "action_quit",
+    "action_bye",
+    "action_hellow",
+    "action_laudatory",
+    "action_condition",
+    "action_brief",
+    "action_step_interview",
+    "action_old",
+    "action_club",
+    "action_laptop",
+    "action_resignation",
+    "action_employee",
+    "action_englishDegree",
+    "action_exp",
+    "action_fields",
+    "action_GPA",
+    "action_health",
+    "action_holiday",
+    "action_overtime",
+    "action_salary",
+    "action_sport",
+    "action_submitCV",
+    "action_timework",
+    "action_trainning",
+    "action_where",
+    "action_partTime",
+    "action_maternity",
+    "action_canteen",
+    "action_insurrance",
+    "action_commit",
+    "action_degree"
+  ],
+  "name_action_back": [],
+  "use_classifi_nlu": true,
+  "break_fallback_again": false,
+  "fallback_intents": [
+    "intent_fallback"
+  ],
+  "database": {
+    "host": "localhost",
+    "username": "root",
+    "password": "",
+    "db": "example",
+    "port": 3306,
+    "name_table_history": "history",
+    "name_table_user": "informuser"
+  },
+  "confidence_intent_fallback" : 0.0
+}

@@ -1,0 +1,3260 @@
+- [mười chín](amount)cốc [cà phê đen đá](product) sai [to](size)
+- [17](amount) [sữa đá](product) size [ét](size) bạn ơi
+- cho [bốn](amount)cốc [thạch vải](product) size [s](size) đi bạn
+- cho chị [3](amount)cốc [trà sen vàng](product) cỡ [l](size)
+- cho bà [19](amount)ly [cà phê sữa đá](product) [vừa](size) nhé em
+- cho tôi [20](amount)ly [cafe đen nóng](product) [m](size)
+- [15](amount)chiếc [trà thanh đào](product) [bé](size) đi ạ
+- cho bác [sáu](amount)cốc [phin đen đá](product) size [lờ](size) đi em
+- cho em [11](amount)chiếc [đen đá](product) size [m](size)
+- cho anh [13](amount)chiếc [cafe đen đá](product) loại [đại](size) đi em
+- [1](amount)cốc [thạch đào](product) [l](size) nha
+- cho tao [mười ba](amount)chiếc [sen vàng](product) size [lớn](size)
+- [mười](amount)ly [phin sữa đá](product) size [nhỏ](size) nhé bạn
+- [9](amount) [phin đen nóng](product) cỡ [mờ](size) bạn ạ
+- [12](amount)chiếc [cafe sữa đá](product) cỡ [s](size)
+- cho tui [5](amount)chiếc [đen nóng](product) cỡ [trung bình](size)
+- [mười một](amount)cốc [trà thạch vải](product) size [trung](size)
+- [10](amount) [cà phê đen nóng](product) đi
+- cho ông [bảy](amount)chiếc [trà thạch đào](product) sai [to](size)
+- cho tui [mười sáu](amount) [cà phê đen đá](product) size [ét](size)
+- cho tau [mười bảy](amount)cốc [sữa đá](product) size [s](size) em ạ
+- [thạch vải](product) cỡ [l](size) nha em
+- [4](amount)cốc [trà sen vàng](product) [vừa](size) em ơi
+- cho [mười bốn](amount)cốc [cà phê sữa đá](product) [m](size)
+- cho chị [mười hai](amount)ly [cafe đen nóng](product) [bé](size)
+- cho bà [16](amount)chiếc [trà thanh đào](product) size [lờ](size) nhé
+- cho tôi [18](amount)chiếc [phin đen đá](product) size [m](size) nha bạn
+- [năm](amount) [đen đá](product) loại [đại](size)
+- cho bác [2](amount) [cafe đen đá](product) [l](size) bạn ơi
+- cho em [hai](amount) [thạch đào](product) size [lớn](size) đi bạn
+- cho anh [ba](amount)ly [sen vàng](product) size [nhỏ](size)
+- [7](amount) [phin sữa đá](product) cỡ [mờ](size) nhé em
+- cho tao [8](amount)chiếc [phin đen nóng](product) cỡ [s](size)
+- [hai mươi](amount)ly [cafe sữa đá](product) cỡ [trung bình](size) đi ạ
+- [14](amount) [đen nóng](product) size [trung](size) đi em
+- [6](amount)cốc [trà thạch vải](product)
+- cho tui [chín](amount)cốc [cà phê đen nóng](product) sai [to](size) đi em
+- [một](amount)ly [trà thạch đào](product) size [ét](size) nha
+- [tám](amount)ly [cà phê đen đá](product) size [s](size)
+- cho ông [mười tám](amount)cốc [sữa đá](product) cỡ [l](size) nhé bạn
+- cho tui [mười lăm](amount)chiếc [thạch vải](product) [vừa](size) bạn ạ
+- [18](amount)chiếc [cà phê đen đá](product) cỡ [trung bình](size) nha
+- [11](amount)chiếc [trà thạch đào](product) size [lớn](size) đi ạ
+- cho ông [mười ba](amount)chiếc [đen đá](product) loại [đại](size) em ạ
+- cho tui [một](amount)ly [trà thanh đào](product) size [m](size) em ơi
+- [2](amount) [phin đen đá](product) [l](size) bạn ơi
+- cho tao [13](amount)chiếc [cà phê đen nóng](product) nhé bạn
+- cho bác [chín](amount)cốc [thạch vải](product) [bé](size)
+- cho [12](amount)chiếc [phin sữa đá](product) cỡ [s](size)
+- [17](amount) [sen vàng](product) [vừa](size)
+- cho tui [9](amount) [phin đen nóng](product) cỡ [l](size) nhé em
+- cho bà [mười bảy](amount)cốc [cafe đen đá](product) [m](size) đi
+- cho tau [hai mươi](amount)ly [đen nóng](product) sai [to](size) bạn ạ
+- [10](amount) [trà sen vàng](product) size [ét](size) nha em
+- cho tôi [3](amount)cốc [thạch đào](product) cỡ [mờ](size)
+- [mười hai](amount)ly [sữa đá](product) size [lờ](size)
+- [mười](amount)ly [cà phê sữa đá](product) size [s](size) nhé
+- [tám](amount)ly [trà thạch vải](product) size [nhỏ](size)
+- [mười lăm](amount)chiếc [cafe đen nóng](product) size [trung](size)
+- cho em [mười một](amount)cốc [cafe sữa đá](product) cỡ [trung bình](size)
+- cho anh [bốn](amount)cốc [cà phê đen đá](product) size [lớn](size) nha bạn
+- cho chị [hai](amount) [trà thạch đào](product) loại [đại](size)
+- [7](amount) [đen đá](product) size [m](size)
+- [14](amount) [trà thanh đào](product) [l](size) đi bạn
+- cho ông [15](amount)chiếc [phin đen đá](product) đi em
+- cho tui [cà phê đen nóng](product) [bé](size)
+- [mười bốn](amount)cốc [thạch vải](product) cỡ [s](size)
+- cho tao [1](amount)cốc [phin sữa đá](product) [vừa](size) đi em
+- cho bác [ba](amount)ly [sen vàng](product) cỡ [l](size) nha
+- cho [8](amount)chiếc [phin đen nóng](product) [m](size) đi ạ
+- [mười sáu](amount) [cafe đen đá](product) sai [to](size) em ạ
+- cho tui [mười chín](amount)cốc [đen nóng](product) size [ét](size) em ơi
+- cho bà [5](amount)chiếc [trà sen vàng](product) cỡ [mờ](size) bạn ơi
+- cho tau [19](amount)ly [thạch đào](product) size [lờ](size) nhé bạn
+- [sáu](amount)cốc [sữa đá](product) size [s](size)
+- cho tôi [bảy](amount)chiếc [cà phê sữa đá](product) size [nhỏ](size)
+- [20](amount)ly [trà thạch vải](product) size [trung](size)
+- [16](amount)chiếc [cafe đen nóng](product) cỡ [trung bình](size) nhé em
+- [mười tám](amount)cốc [cafe sữa đá](product) size [lớn](size) đi
+- [4](amount)cốc [cà phê đen đá](product) loại [đại](size) bạn ạ
+- cho em [6](amount)cốc [trà thạch đào](product) size [m](size) nha em
+- cho anh [năm](amount) [đen đá](product) [l](size)
+- cho ông [13](amount)chiếc [phin đen nóng](product) size [lờ](size) đi bạn
+- [ba](amount)ly [sen vàng](product) cỡ [trung bình](size) bạn ơi
+- [20](amount)ly [đen đá](product) size [s](size) nha em
+- cho tui [2](amount) [cafe đen đá](product) [bé](size) đi em
+- cho [sáu](amount)cốc [trà thạch vải](product) cỡ [s](size) nhé em
+- [9](amount) [trà sen vàng](product) [l](size)
+- cho em [4](amount)cốc [phin đen đá](product) đi ạ
+- cho tao [mười bảy](amount)cốc [cafe sữa đá](product) cỡ [l](size)
+- [18](amount)chiếc [cà phê đen đá](product) size [lớn](size) em ơi
+- cho anh [một](amount)ly [thạch đào](product) size [m](size) em ạ
+- [mười](amount)ly [cà phê đen nóng](product) size [nhỏ](size) bạn ạ
+- [8](amount)chiếc [trà thạch đào](product) cỡ [mờ](size)
+- [6](amount)cốc [trà thanh đào](product) loại [đại](size) nha bạn
+- cho bà [năm](amount) [đen nóng](product) [vừa](size)
+- cho tui [mười lăm](amount)chiếc [phin sữa đá](product) size [trung](size)
+- cho bác [tám](amount)ly [cà phê sữa đá](product) size [ét](size) nhé bạn
+- [hai mươi](amount)ly [thạch vải](product) [m](size)
+- cho tôi [11](amount)chiếc [sữa đá](product) sai [to](size)
+- cho chị [mười bốn](amount)cốc [cafe đen nóng](product) size [lờ](size)
+- cho tau [mười sáu](amount) [phin đen nóng](product) cỡ [trung bình](size) nha
+- [12](amount)chiếc [sen vàng](product) size [s](size) nhé
+- cho ông [15](amount)chiếc [đen đá](product) [bé](size)
+- [hai](amount) [cafe đen đá](product) cỡ [s](size) đi em
+- [bốn](amount)cốc [trà thạch vải](product) [l](size) đi
+- cho tui [14](amount) [trà sen vàng](product)
+- cho [1](amount)cốc [phin đen đá](product) cỡ [l](size)
+- [mười một](amount)cốc [cafe sữa đá](product) size [lớn](size)
+- cho em [16](amount)chiếc [cà phê đen đá](product) size [m](size) đi bạn
+- cho tao [chín](amount)cốc [thạch đào](product) size [nhỏ](size) bạn ơi
+- [19](amount)ly [cà phê đen nóng](product) cỡ [mờ](size) nha em
+- cho anh [trà thạch đào](product) loại [đại](size) đi em
+- [mười hai](amount)ly [trà thanh đào](product) [vừa](size) nhé em
+- [mười tám](amount)cốc [đen nóng](product) size [trung](size)
+- [3](amount)cốc [phin sữa đá](product) size [ét](size) đi ạ
+- cho bà [mười chín](amount)cốc [cà phê sữa đá](product) [m](size)
+- cho tui [7](amount) [thạch vải](product) sai [to](size) em ơi
+- cho bác [10](amount) [sữa đá](product) size [lờ](size) em ạ
+- [5](amount)chiếc [cafe đen nóng](product) cỡ [trung bình](size) bạn ạ
+- cho tôi [bảy](amount)chiếc [phin đen nóng](product) size [s](size)
+- cho chị [17](amount) [sen vàng](product) [bé](size) nha bạn
+- cho tau [mười ba](amount)chiếc [đen đá](product) cỡ [s](size)
+- [một](amount)ly [cà phê đen nóng](product) size [trung](size) nhé bạn
+- cho bác [mười ba](amount)chiếc [thạch đào](product) size [lờ](size) bạn ạ
+- [20](amount)ly [cafe đen đá](product) sai [to](size) nha bạn
+- cho chị [12](amount)chiếc [trà thạch vải](product) cỡ [l](size) nhé em
+- cho anh [mười chín](amount)cốc [phin đen nóng](product) loại [đại](size)
+- [4](amount)cốc [sen vàng](product) size [nhỏ](size) em ạ
+- cho tao [2](amount) [cà phê đen đá](product) [m](size) nhé
+- [mười một](amount)cốc [trà thanh đào](product) [l](size) em ơi
+- cho bà [mười bốn](amount)cốc [đen nóng](product) [vừa](size) bạn ơi
+- [1](amount)cốc [sữa đá](product) [bé](size) đi ạ
+- [7](amount) [trà sen vàng](product) size [s](size) đi
+- cho tui [9](amount) [cà phê sữa đá](product) size [m](size) đi em
+- cho ông [chín](amount)cốc [cafe đen nóng](product)
+- cho em [bảy](amount)chiếc [trà thạch đào](product) size [ét](size)
+- [10](amount) [phin đen đá](product) cỡ [mờ](size)
+- cho tau [mười sáu](amount) [thạch vải](product) cỡ [trung bình](size)
+- cho tui [18](amount)chiếc [phin sữa đá](product) size [lớn](size)
+- cho [sáu](amount)cốc [cafe sữa đá](product) cỡ [s](size) nha
+- [bốn](amount)cốc [đen đá](product) size [trung](size)
+- cho tôi [mười hai](amount)ly [cà phê đen nóng](product) size [lờ](size)
+- [16](amount)chiếc [thạch đào](product) sai [to](size) nha em
+- [năm](amount) [cafe đen đá](product) cỡ [l](size) đi bạn
+- cho bác [mười bảy](amount)cốc [trà thạch vải](product) loại [đại](size)
+- [17](amount) [phin đen nóng](product) size [nhỏ](size)
+- cho chị [15](amount)chiếc [sen vàng](product) [m](size) đi em
+- cho anh [mười](amount)ly [cà phê đen đá](product) [l](size)
+- [hai](amount) [trà thanh đào](product) [vừa](size)
+- cho tao [14](amount) [đen nóng](product) [bé](size) nhé bạn
+- [8](amount)chiếc [sữa đá](product) size [s](size) bạn ạ
+- cho bà [5](amount)chiếc [trà sen vàng](product) size [m](size) nha bạn
+- [cà phê sữa đá](product) nhé em
+- [13](amount)chiếc [cafe đen nóng](product) size [ét](size)
+- cho tui [11](amount)chiếc [trà thạch đào](product) cỡ [mờ](size) em ạ
+- cho ông [mười lăm](amount)chiếc [phin đen đá](product) cỡ [trung bình](size) nhé
+- cho em [3](amount)cốc [thạch vải](product) size [lớn](size) em ơi
+- [ba](amount)ly [phin sữa đá](product) cỡ [s](size) bạn ơi
+- cho tau [6](amount)cốc [cafe sữa đá](product) size [trung](size) đi ạ
+- cho tui [mười tám](amount)cốc [đen đá](product) size [lờ](size) đi
+- cho [hai mươi](amount)ly [cà phê đen nóng](product) sai [to](size) đi em
+- [tám](amount)ly [thạch đào](product) cỡ [l](size)
+- cho tôi [19](amount)ly [cafe đen đá](product) loại [đại](size)
+- cho em [mười lăm](amount)chiếc [phin đen nóng](product) cỡ [s](size) bạn ơi
+- cho anh [19](amount)ly [trà sen vàng](product) [bé](size)
+- [mười bảy](amount)cốc [thạch đào](product) size [ét](size) đi em
+- [mười ba](amount)chiếc [trà thạch đào](product) size [m](size) đi ạ
+- cho tau [18](amount)chiếc [thạch vải](product) loại [đại](size)
+- cho bà [mười hai](amount)ly [cà phê đen đá](product) size [lờ](size)
+- [mười tám](amount)cốc [cafe đen đá](product) [m](size) nha
+- [hai mươi](amount)ly [phin đen đá](product) size [s](size) nhé
+- cho chị [mười bốn](amount)cốc [cà phê sữa đá](product) size [trung](size) đi bạn
+- [4](amount)cốc [sữa đá](product) cỡ [mờ](size) nha em
+- [ba](amount)ly [đen nóng](product) size [nhỏ](size) em ơi
+- cho bác [8](amount)chiếc [cà phê đen nóng](product) [l](size) em ạ
+- [7](amount) [sen vàng](product) sai [to](size)
+- cho tui [bảy](amount)chiếc [cafe sữa đá](product) cỡ [l](size) nhé bạn
+- cho ông [mười một](amount)cốc [trà thanh đào](product) size [lớn](size) đi
+- cho tao [1](amount)cốc [phin sữa đá](product) cỡ [trung bình](size) nha bạn
+- [một](amount)ly [cafe đen nóng](product) [vừa](size)
+- [3](amount)cốc [đen đá](product)
+- cho tui [5](amount)chiếc [trà thạch vải](product) cỡ [s](size) đi em
+- cho tôi [mười sáu](amount) [phin đen nóng](product) [bé](size)
+- cho [mười](amount)ly [trà sen vàng](product) size [ét](size) nhé em
+- cho em [10](amount) [thạch đào](product) size [m](size) bạn ạ
+- cho anh [6](amount)cốc [trà thạch đào](product) loại [đại](size)
+- [tám](amount)ly [thạch vải](product) size [lờ](size)
+- [15](amount)chiếc [cà phê đen đá](product) [m](size)
+- cho tau [mười chín](amount)cốc [cafe đen đá](product) size [s](size)
+- cho bà [17](amount) [phin đen đá](product) size [trung](size)
+- [9](amount) [cà phê sữa đá](product) cỡ [mờ](size) bạn ơi
+- [sữa đá](product) size [nhỏ](size)
+- cho chị [hai](amount) [đen nóng](product) [l](size) đi em
+- [chín](amount)cốc [cà phê đen nóng](product) sai [to](size) đi ạ
+- [13](amount)chiếc [sen vàng](product) cỡ [l](size)
+- cho bác [năm](amount) [cafe sữa đá](product) size [lớn](size)
+- [2](amount) [trà thanh đào](product) cỡ [trung bình](size) nha
+- cho tui [sáu](amount)cốc [phin sữa đá](product) [vừa](size) nhé
+- cho ông [12](amount)chiếc [cafe đen nóng](product) đi bạn
+- cho tao [16](amount)chiếc [đen đá](product) cỡ [s](size) nha em
+- [bốn](amount)cốc [trà thạch vải](product) [bé](size) em ơi
+- [14](amount) [phin đen nóng](product) size [ét](size) em ạ
+- cho tui [20](amount)ly [trà sen vàng](product) size [m](size)
+- cho tôi [11](amount)chiếc [thạch đào](product) loại [đại](size) nhé bạn
+- cho em [sáu](amount)cốc [phin đen đá](product) bạn ạ
+- [mười chín](amount)cốc [cafe đen đá](product) size [nhỏ](size)
+- cho tui [9](amount) [thạch đào](product) [bé](size)
+- [hai](amount) [cafe đen nóng](product) cỡ [l](size) đi bạn
+- [mười](amount)ly [trà thạch vải](product) size [lớn](size)
+- [hai mươi](amount)ly [sen vàng](product) cỡ [s](size) nha
+- [mười ba](amount)chiếc [trà thanh đào](product) cỡ [mờ](size)
+- cho tôi [mười sáu](amount) [phin sữa đá](product) [m](size) em ạ
+- [tám](amount)ly [trà sen vàng](product) size [trung](size) đi ạ
+- cho [chín](amount)cốc [đen đá](product) cỡ [trung bình](size) nha em
+- cho chị [6](amount)cốc [phin đen nóng](product) sai [to](size)
+- cho bác [mười một](amount)cốc [thạch vải](product) size [s](size)
+- cho ông [mười lăm](amount)chiếc [trà thạch đào](product) [l](size) bạn ơi
+- cho tao [20](amount)ly [cà phê đen nóng](product) size [ét](size) nhé
+- cho tau [15](amount)chiếc [cà phê đen đá](product) size [m](size)
+- cho tui [17](amount) [cà phê sữa đá](product) loại [đại](size)
+- [ba](amount)ly [sữa đá](product) [vừa](size)
+- [8](amount)chiếc [cafe sữa đá](product) size [lờ](size)
+- cho bà [18](amount)chiếc [đen nóng](product)
+- cho anh [12](amount)chiếc [phin đen đá](product) size [nhỏ](size)
+- [một](amount)ly [cafe đen đá](product) [bé](size) em ơi
+- cho em [thạch đào](product) cỡ [l](size) đi
+- [19](amount)ly [cafe đen nóng](product) size [lớn](size) nhé em
+- cho tui [bảy](amount)chiếc [trà thạch vải](product) cỡ [s](size) nha bạn
+- [mười hai](amount)ly [sen vàng](product) cỡ [mờ](size) đi em
+- [mười tám](amount)cốc [trà thanh đào](product) [m](size) nhé bạn
+- [mười bảy](amount)cốc [phin sữa đá](product) size [trung](size) đi em
+- [7](amount) [trà sen vàng](product) cỡ [trung bình](size) bạn ạ
+- cho tôi [16](amount)chiếc [đen đá](product) sai [to](size)
+- [2](amount) [phin đen nóng](product) size [s](size)
+- cho [3](amount)cốc [thạch vải](product) [l](size) đi bạn
+- cho chị [năm](amount) [trà thạch đào](product) size [ét](size)
+- cho bác [14](amount) [cà phê đen nóng](product) size [m](size) nha
+- cho ông [11](amount)chiếc [cà phê đen đá](product) loại [đại](size)
+- cho tao [5](amount)chiếc [cà phê sữa đá](product) [vừa](size) em ạ
+- cho tau [bốn](amount)cốc [sữa đá](product) size [lờ](size) đi ạ
+- cho tui [mười bốn](amount)cốc [cafe sữa đá](product) nha em
+- [10](amount) [đen nóng](product) size [nhỏ](size)
+- [13](amount)chiếc [phin đen đá](product) [bé](size)
+- cho bà [4](amount)cốc [cafe đen đá](product) cỡ [l](size) bạn ơi
+- cho anh [1](amount)cốc [thạch đào](product) size [lớn](size) nhé
+- cho [sáu](amount)cốc [cafe đen nóng](product) size [s](size) đi bạn
+- [hai](amount) [đen đá](product) [bé](size) bạn ạ
+- [15](amount)chiếc [trà thạch đào](product) [m](size) em ạ
+- [6](amount)cốc [thạch đào](product)
+- [bốn](amount)cốc [trà thanh đào](product) cỡ [l](size) đi em
+- cho bác [9](amount) [cà phê đen nóng](product) cỡ [s](size)
+- cho em [10](amount) [cà phê đen đá](product) size [nhỏ](size)
+- [chín](amount)cốc [cà phê sữa đá](product) loại [đại](size) em ơi
+- [12](amount)chiếc [đen nóng](product) size [lờ](size)
+- cho tao [hai mươi](amount)ly [cafe sữa đá](product) size [m](size) đi em
+- [bảy](amount)chiếc [thạch vải](product) size [ét](size)
+- cho tôi [7](amount) [phin sữa đá](product) cỡ [mờ](size)
+- cho tui [5](amount)chiếc [phin đen nóng](product) size [trung](size)
+- cho anh [mười bốn](amount)cốc [phin đen đá](product) sai [to](size) nha bạn
+- cho chị [một](amount)ly [sữa đá](product) [vừa](size)
+- [ba](amount)ly [trà thạch vải](product) cỡ [trung bình](size) bạn ơi
+- cho tui [19](amount)ly [sen vàng](product) size [lớn](size) nhé em
+- cho bà [mười bảy](amount)cốc [cafe đen đá](product) [l](size)
+- cho ông [1](amount)cốc [trà sen vàng](product) size [s](size)
+- [16](amount)chiếc [cafe đen nóng](product) [bé](size)
+- cho tau [đen đá](product) [m](size) nhé bạn
+- cho [8](amount)chiếc [trà thạch đào](product) nha
+- [17](amount) [thạch đào](product) cỡ [l](size) đi ạ
+- [mười](amount)ly [trà thanh đào](product) cỡ [s](size) nha em
+- [20](amount)ly [cà phê đen nóng](product) size [nhỏ](size)
+- [18](amount)chiếc [cà phê đen đá](product) loại [đại](size) đi
+- cho bác [mười ba](amount)chiếc [cà phê sữa đá](product) size [lờ](size) nhé
+- cho em [mười sáu](amount) [đen nóng](product) size [m](size) đi bạn
+- [mười lăm](amount)chiếc [cafe sữa đá](product) size [ét](size) bạn ạ
+- [14](amount) [thạch vải](product) cỡ [mờ](size) em ạ
+- cho tao [13](amount)chiếc [phin sữa đá](product) size [trung](size)
+- [tám](amount)ly [phin đen nóng](product) sai [to](size) đi em
+- cho tôi [11](amount)chiếc [phin đen đá](product) [vừa](size)
+- cho tui [năm](amount) [sữa đá](product) cỡ [trung bình](size)
+- cho anh [3](amount)cốc [trà thạch vải](product) size [lớn](size) em ơi
+- cho chị [mười tám](amount)cốc [sen vàng](product) [l](size)
+- [mười một](amount)cốc [cafe đen đá](product) size [s](size) đi em
+- cho tui [4](amount)cốc [trà sen vàng](product) [bé](size)
+- cho bà [mười chín](amount)cốc [cafe đen nóng](product) [m](size)
+- cho ông [mười hai](amount)ly [đen đá](product)
+- [2](amount) [trà thạch đào](product) cỡ [l](size) nha bạn
+- cho tôi [3](amount)cốc [cà phê đen nóng](product) đi em
+- [mười chín](amount)cốc [phin đen nóng](product) [bé](size)
+- cho anh [17](amount) [trà sen vàng](product) [m](size)
+- [11](amount)chiếc [cafe đen đá](product) cỡ [mờ](size)
+- [13](amount)chiếc [sen vàng](product) size [nhỏ](size) đi bạn
+- cho tui [mười sáu](amount) [phin sữa đá](product) size [lớn](size) bạn ạ
+- [tám](amount)ly [thạch vải](product) cỡ [l](size) nha bạn
+- cho tau [mười bốn](amount)cốc [cà phê sữa đá](product) loại [đại](size) bạn ơi
+- [16](amount)chiếc [cafe sữa đá](product) [vừa](size) em ạ
+- cho tao [5](amount)chiếc [trà thạch đào](product) cỡ [s](size) đi ạ
+- cho chị [15](amount)chiếc [trà thanh đào](product) size [trung](size)
+- cho [7](amount) [thạch đào](product) size [s](size) em ơi
+- cho bác [mười bảy](amount)cốc [đen đá](product) size [m](size) nha em
+- [12](amount)chiếc [phin đen đá](product) cỡ [trung bình](size) nhé bạn
+- [2](amount) [trà thạch vải](product) [l](size) nha
+- cho em [ba](amount)ly [cafe đen nóng](product) sai [to](size)
+- [6](amount)cốc [đen nóng](product) size [lờ](size)
+- cho ông [8](amount)chiếc [cà phê đen đá](product) size [ét](size)
+- cho tui [bảy](amount)chiếc [sữa đá](product) đi
+- [14](amount) [cà phê đen nóng](product) [bé](size)
+- cho bà [mười lăm](amount)chiếc [phin đen nóng](product) [m](size) nhé em
+- cho tôi [19](amount)ly [trà sen vàng](product) cỡ [mờ](size)
+- [một](amount)ly [cafe đen đá](product) size [nhỏ](size) đi em
+- cho anh [năm](amount) [sen vàng](product) size [lớn](size) nhé
+- [mười hai](amount)ly [phin sữa đá](product) cỡ [l](size)
+- [9](amount) [thạch vải](product) loại [đại](size)
+- cho tui [4](amount)cốc [cà phê sữa đá](product) [vừa](size)
+- [20](amount)ly [cafe sữa đá](product) cỡ [s](size) đi em
+- cho tau [1](amount)cốc [trà thạch đào](product) size [trung](size)
+- [mười ba](amount)chiếc [trà thanh đào](product) size [s](size)
+- cho tao [hai](amount) [thạch đào](product) size [m](size)
+- cho chị [18](amount)chiếc [đen đá](product) cỡ [trung bình](size) đi bạn
+- cho [mười tám](amount)cốc [phin đen đá](product) [l](size) bạn ạ
+- cho bác [bốn](amount)cốc [trà thạch vải](product) sai [to](size) nha bạn
+- [sáu](amount)cốc [cafe đen nóng](product) size [lờ](size) bạn ơi
+- [hai mươi](amount)ly [đen nóng](product) size [ét](size) em ạ
+- cho em [chín](amount)cốc [cà phê đen đá](product) đi ạ
+- [10](amount) [sữa đá](product) [bé](size)
+- cho ông [cà phê đen nóng](product) [m](size) em ơi
+- cho tui [mười một](amount)cốc [phin đen nóng](product) cỡ [mờ](size) nha em
+- [mười](amount)ly [trà sen vàng](product) size [nhỏ](size) nhé bạn
+- cho bác [chín](amount)cốc [phin sữa đá](product) size [lớn](size)
+- [10](amount) [sữa đá](product) size [s](size)
+- cho tui [ba](amount)ly [cafe sữa đá](product) cỡ [s](size) đi ạ
+- cho ông [12](amount)chiếc [đen nóng](product) cỡ [trung bình](size) nhé em
+- cho [trà thanh đào](product) [vừa](size) đi
+- cho tôi [15](amount)chiếc [phin đen đá](product) sai [to](size) nhé bạn
+- [2](amount) [đen đá](product) size [trung](size) bạn ơi
+- [18](amount)chiếc [sen vàng](product) size [nhỏ](size)
+- cho chị [mười](amount)ly [thạch vải](product) [bé](size)
+- [9](amount) [trà sen vàng](product) size [lờ](size)
+- [mười tám](amount)cốc [thạch đào](product) cỡ [l](size) em ơi
+- [bảy](amount)chiếc [cafe đen nóng](product) loại [đại](size) em ạ
+- [bốn](amount)cốc [trà thạch đào](product) [l](size) đi bạn
+- [3](amount)cốc [cà phê đen đá](product) cỡ [mờ](size)
+- cho em [mười hai](amount)ly [phin đen nóng](product) [m](size) nha bạn
+- cho bà [sáu](amount)cốc [cafe đen đá](product) nhé
+- cho tao [7](amount) [cà phê sữa đá](product) size [ét](size)
+- [14](amount) [cà phê đen nóng](product) size [m](size)
+- cho anh [mười chín](amount)cốc [trà thạch vải](product) size [lớn](size) đi em
+- cho tau [hai](amount) [phin sữa đá](product) size [s](size) đi em
+- cho tui [6](amount)cốc [sữa đá](product) cỡ [s](size)
+- cho bác [mười bảy](amount)cốc [cafe sữa đá](product) cỡ [trung bình](size)
+- [5](amount)chiếc [đen nóng](product) [vừa](size) nha
+- cho tui [mười bốn](amount)cốc [trà thanh đào](product) sai [to](size) nha em
+- cho ông [mười lăm](amount)chiếc [phin đen đá](product) size [trung](size)
+- cho [16](amount)chiếc [đen đá](product) size [nhỏ](size)
+- cho tôi [19](amount)ly [sen vàng](product) [bé](size) bạn ạ
+- [13](amount)chiếc [thạch vải](product) size [lờ](size)
+- [một](amount)ly [trà sen vàng](product) cỡ [l](size)
+- cho chị [năm](amount) [thạch đào](product) loại [đại](size) đi ạ
+- [mười ba](amount)chiếc [cafe đen nóng](product) [l](size) nhé em
+- [tám](amount)ly [trà thạch đào](product) cỡ [mờ](size) đi
+- [11](amount)chiếc [cà phê đen đá](product) [m](size) nhé bạn
+- [hai mươi](amount)ly [phin đen nóng](product) bạn ơi
+- [1](amount)cốc [cafe đen đá](product) size [ét](size)
+- cho em [4](amount)cốc [cà phê sữa đá](product) size [m](size)
+- cho bà [8](amount)chiếc [cà phê đen nóng](product) size [lớn](size)
+- cho tao [mười một](amount)cốc [trà thạch vải](product) size [s](size) em ơi
+- [17](amount) [phin sữa đá](product) cỡ [s](size) em ạ
+- cho anh [mười sáu](amount) [sữa đá](product) cỡ [trung bình](size) đi bạn
+- cho tau [20](amount)ly [cafe sữa đá](product) [vừa](size)
+- cho anh [mười bốn](amount)cốc [trà sen vàng](product) loại [đại](size) đi
+- [mười hai](amount)ly [đen đá](product) size [m](size) đi ạ
+- cho [7](amount) [đen nóng](product) [bé](size) nha em
+- cho tau [năm](amount) [sữa đá](product) [m](size) nha
+- cho tui [bảy](amount)chiếc [cà phê sữa đá](product) cỡ [mờ](size)
+- cho em [4](amount)cốc [cafe đen nóng](product) size [trung](size) nha bạn
+- cho tui [18](amount)chiếc [cafe sữa đá](product) cỡ [l](size)
+- cho chị [15](amount)chiếc [thạch vải](product) nhé
+- [tám](amount)ly [phin đen nóng](product) cỡ [trung bình](size) bạn ơi
+- cho bác [19](amount)ly [cafe đen đá](product) size [lờ](size)
+- [hai mươi](amount)ly [sen vàng](product) size [nhỏ](size) bạn ạ
+- cho ông [12](amount)chiếc [trà thạch vải](product) sai [to](size) nhé bạn
+- cho bà [hai](amount) [trà thanh đào](product) cỡ [s](size)
+- cho tôi [mười chín](amount)cốc [phin sữa đá](product) [l](size) em ạ
+- [9](amount) [cà phê đen đá](product) [vừa](size)
+- [sáu](amount)cốc [trà thạch đào](product) size [ét](size) em ơi
+- [6](amount)cốc [thạch đào](product) size [lớn](size)
+- [cà phê đen nóng](product) size [s](size)
+- [mười một](amount)cốc [phin đen đá](product) loại [đại](size) nhé em
+- cho tao [17](amount) [trà sen vàng](product) size [m](size)
+- [14](amount) [đen đá](product) [bé](size) đi em
+- cho anh [13](amount)chiếc [đen nóng](product) [m](size) đi em
+- [mười sáu](amount) [sữa đá](product) cỡ [mờ](size)
+- cho [một](amount)ly [cà phê sữa đá](product) size [trung](size) đi bạn
+- cho tau [mười tám](amount)cốc [cafe đen nóng](product) cỡ [l](size)
+- cho tui [chín](amount)cốc [cafe sữa đá](product)
+- cho em [11](amount)chiếc [thạch vải](product) cỡ [trung bình](size)
+- cho tui [ba](amount)ly [phin đen nóng](product) size [lờ](size) đi
+- cho chị [2](amount) [cafe đen đá](product) size [nhỏ](size) đi ạ
+- [5](amount)chiếc [sen vàng](product) sai [to](size) nha em
+- cho bác [20](amount)ly [trà thạch vải](product) cỡ [s](size) nha
+- [mười lăm](amount)chiếc [trà thanh đào](product) [l](size)
+- cho ông [8](amount)chiếc [phin sữa đá](product) [vừa](size) nha bạn
+- cho bà [3](amount)cốc [cà phê đen đá](product) size [ét](size)
+- cho tôi [mười](amount)ly [trà thạch đào](product) size [lớn](size) nhé
+- [1](amount)cốc [thạch đào](product) size [s](size) bạn ơi
+- [mười bảy](amount)cốc [cà phê đen nóng](product) loại [đại](size)
+- [mười ba](amount)chiếc [phin đen đá](product) size [m](size) bạn ạ
+- [bốn](amount)cốc [trà sen vàng](product) [bé](size) nhé bạn
+- [10](amount) [đen đá](product) [m](size)
+- cho tao [16](amount)chiếc [đen nóng](product) cỡ [mờ](size) em ạ
+- cho tau [mười chín](amount)cốc [cafe đen đá](product) [bé](size)
+- [18](amount)chiếc [phin đen nóng](product) cỡ [mờ](size) nhé bạn
+- [mười ba](amount)chiếc [trà thanh đào](product) size [nhỏ](size) đi em
+- [1](amount)cốc [phin đen đá](product) size [lờ](size) em ơi
+- cho chị [bảy](amount)chiếc [phin sữa đá](product) nhé
+- cho tui [một](amount)ly [trà sen vàng](product) [vừa](size)
+- [sáu](amount)cốc [cà phê đen nóng](product) loại [đại](size)
+- [mười sáu](amount) [cà phê sữa đá](product) cỡ [l](size) em ạ
+- cho anh [mười bảy](amount)cốc [sen vàng](product) [l](size) nha em
+- cho [13](amount)chiếc [trà thạch vải](product) sai [to](size)
+- [5](amount)chiếc [cafe đen nóng](product) size [ét](size) đi ạ
+- [hai mươi](amount)ly [thạch đào](product) size [s](size) nha
+- [tám](amount)ly [đen nóng](product) [m](size)
+- cho bác [12](amount)chiếc [cafe sữa đá](product) size [trung](size)
+- cho tao [15](amount)chiếc [trà thạch đào](product) cỡ [trung bình](size)
+- [mười hai](amount)ly [đen đá](product) cỡ [s](size) bạn ơi
+- cho tôi [chín](amount)cốc [thạch vải](product) size [lớn](size) nha bạn
+- cho tui [cà phê đen đá](product) size [m](size)
+- cho ông [mười bốn](amount)cốc [sữa đá](product) [bé](size) bạn ạ
+- cho em [20](amount)ly [cafe đen đá](product) cỡ [mờ](size) đi em
+- cho bà [11](amount)chiếc [phin đen nóng](product) size [nhỏ](size)
+- cho tau [ba](amount)ly [trà thanh đào](product) size [lờ](size) nhé em
+- [14](amount) [phin đen đá](product) đi
+- [mười lăm](amount)chiếc [phin sữa đá](product) [vừa](size)
+- [mười](amount)ly [trà sen vàng](product) loại [đại](size)
+- cho chị [mười tám](amount)cốc [cà phê đen nóng](product) cỡ [l](size)
+- cho tui [6](amount)cốc [cà phê sữa đá](product) [l](size) đi bạn
+- [3](amount)cốc [sen vàng](product) sai [to](size)
+- [17](amount) [trà thạch vải](product) size [ét](size) nhé bạn
+- cho anh [năm](amount) [cafe đen nóng](product) size [s](size) đi em
+- cho [7](amount) [thạch đào](product) [m](size) em ơi
+- [mười một](amount)cốc [đen nóng](product) size [trung](size) nhé
+- [bốn](amount)cốc [cafe sữa đá](product) cỡ [trung bình](size)
+- [16](amount)chiếc [trà thạch đào](product) cỡ [s](size)
+- cho bác [10](amount) [đen đá](product) size [lớn](size) em ạ
+- cho tao [9](amount) [thạch vải](product) size [m](size) nha em
+- [8](amount)chiếc [cà phê đen đá](product) [bé](size)
+- cho tôi [4](amount)cốc [sữa đá](product) cỡ [mờ](size) đi ạ
+- cho tui [hai](amount) [cafe đen đá](product) size [nhỏ](size) nha
+- cho ông [2](amount) [phin đen nóng](product) size [lờ](size)
+- cho em [19](amount)ly [trà thanh đào](product)
+- cho tui [3](amount)cốc [trà thạch vải](product)
+- [20](amount)ly [cà phê sữa đá](product) cỡ [s](size) nha
+- [15](amount)chiếc [sen vàng](product) size [ét](size)
+- cho tao [sáu](amount)cốc [cafe sữa đá](product) size [lờ](size)
+- [18](amount)chiếc [cà phê đen nóng](product) [l](size)
+- [7](amount) [trà thạch đào](product) size [m](size)
+- cho tôi [mười chín](amount)cốc [trà thanh đào](product) cỡ [mờ](size) nhé em
+- [mười một](amount)cốc [thạch vải](product) [vừa](size) em ạ
+- cho tui [5](amount)chiếc [phin sữa đá](product) size [lớn](size) nha em
+- cho bà [năm](amount) [cafe đen nóng](product) size [trung](size)
+- cho ông [4](amount)cốc [sữa đá](product) [m](size) nhé
+- cho [mười lăm](amount)chiếc [trà sen vàng](product) [bé](size) bạn ơi
+- cho tau [bảy](amount)chiếc [cà phê đen đá](product) size [nhỏ](size)
+- cho bác [mười](amount)ly [phin đen nóng](product) cỡ [trung bình](size)
+- [19](amount)ly [đen nóng](product) cỡ [l](size)
+- [12](amount)chiếc [đen đá](product) sai [to](size)
+- cho chị [mười bốn](amount)cốc [cafe đen đá](product) loại [đại](size) đi ạ
+- [mười bảy](amount)cốc [phin đen đá](product) size [s](size) đi em
+- cho em [17](amount) [thạch đào](product) nha bạn
+- cho anh [6](amount)cốc [trà thạch vải](product) cỡ [s](size) đi
+- [10](amount) [cà phê sữa đá](product) size [ét](size)
+- cho tui [mười hai](amount)ly [sen vàng](product) size [lờ](size) em ơi
+- [mười tám](amount)cốc [cafe sữa đá](product) [l](size) bạn ạ
+- [hai mươi](amount)ly [cà phê đen nóng](product) size [m](size) đi bạn
+- cho tao [14](amount) [trà thạch đào](product) cỡ [mờ](size)
+- [trà thanh đào](product) [vừa](size) nhé bạn
+- [8](amount)chiếc [thạch vải](product) size [lớn](size) đi em
+- cho tôi [11](amount)chiếc [phin sữa đá](product) size [trung](size)
+- [bốn](amount)cốc [cafe đen nóng](product) [m](size) nha
+- cho tui [16](amount)chiếc [sữa đá](product) [bé](size)
+- cho bà [mười ba](amount)chiếc [trà sen vàng](product) size [nhỏ](size)
+- cho ông [mười sáu](amount) [cà phê đen đá](product) cỡ [trung bình](size)
+- cho [9](amount) [phin đen nóng](product) cỡ [l](size)
+- cho tau [13](amount)chiếc [đen nóng](product) sai [to](size) nhé em
+- cho bác [1](amount)cốc [đen đá](product) loại [đại](size) em ạ
+- [ba](amount)ly [cafe đen đá](product) size [s](size) nha em
+- [một](amount)ly [phin đen đá](product)
+- cho chị [tám](amount)ly [thạch đào](product) cỡ [s](size) nhé
+- [chín](amount)cốc [trà thạch vải](product) size [ét](size) bạn ơi
+- cho em [hai](amount) [cà phê sữa đá](product) size [lờ](size)
+- cho anh [2](amount) [sen vàng](product) [l](size)
+- cho bà [16](amount)chiếc [phin sữa đá](product) size [ét](size)
+- [mười một](amount)cốc [trà thanh đào](product) size [nhỏ](size)
+- cho anh [hai mươi](amount)ly [cafe đen đá](product) [bé](size) em ạ
+- [mười bốn](amount)cốc [trà sen vàng](product) cỡ [l](size) đi em
+- [10](amount) [cafe đen nóng](product) cỡ [s](size) đi bạn
+- [mười hai](amount)ly [đen nóng](product) cỡ [mờ](size)
+- cho ông [3](amount)cốc [sữa đá](product) size [lờ](size) nha em
+- cho chị [11](amount)chiếc [đen đá](product) [m](size)
+- [năm](amount) [cà phê đen nóng](product) sai [to](size) đi
+- cho em [mười ba](amount)chiếc [trà thạch vải](product) [vừa](size)
+- cho tôi [hai](amount) [cà phê sữa đá](product)
+- cho bác [mười](amount)ly [cafe sữa đá](product) loại [đại](size)
+- [20](amount)ly [phin đen đá](product) cỡ [trung bình](size) nhé bạn
+- cho [tám](amount)ly [trà thạch đào](product) [l](size) nhé em
+- cho tao [4](amount)cốc [cà phê đen đá](product) size [trung](size) nhé
+- cho tau [6](amount)cốc [phin đen nóng](product) size [s](size) bạn ơi
+- [17](amount) [thạch đào](product) size [m](size) nha
+- cho tui [13](amount)chiếc [thạch vải](product) size [lớn](size)
+- cho tui [5](amount)chiếc [sen vàng](product) size [ét](size) bạn ạ
+- [9](amount) [phin sữa đá](product) size [nhỏ](size) đi ạ
+- [12](amount)chiếc [trà thanh đào](product) [bé](size)
+- cho bà [mười bảy](amount)cốc [cafe đen đá](product) cỡ [l](size) em ơi
+- [8](amount)chiếc [trà sen vàng](product) cỡ [s](size)
+- cho anh [mười tám](amount)cốc [cafe đen nóng](product) cỡ [mờ](size) đi em
+- [chín](amount)cốc [đen nóng](product) size [lờ](size)
+- [sữa đá](product) [m](size)
+- [15](amount)chiếc [đen đá](product) sai [to](size) nha bạn
+- cho ông [ba](amount)ly [cà phê đen nóng](product) [vừa](size)
+- cho chị [sáu](amount)cốc [trà thạch vải](product)
+- [7](amount) [cà phê sữa đá](product) loại [đại](size) em ạ
+- cho em [14](amount) [cafe sữa đá](product) cỡ [trung bình](size) đi em
+- cho tôi [bốn](amount)cốc [phin đen đá](product) [l](size) đi bạn
+- cho bác [một](amount)ly [trà thạch đào](product) size [trung](size)
+- [mười lăm](amount)chiếc [cà phê đen đá](product) size [s](size) nha em
+- cho [mười sáu](amount) [phin đen nóng](product) size [m](size)
+- cho tao [mười chín](amount)cốc [thạch đào](product) size [lớn](size) đi
+- cho tau [bảy](amount)chiếc [thạch vải](product) size [ét](size)
+- [19](amount)ly [sen vàng](product) size [nhỏ](size)
+- cho tui [2](amount) [phin sữa đá](product) [bé](size)
+- cho tui [1](amount)cốc [trà thanh đào](product) cỡ [l](size) nhé bạn
+- [18](amount)chiếc [cafe đen đá](product) cỡ [s](size) nhé em
+- cho chị [7](amount) [cafe đen đá](product) size [trung](size) nhé bạn
+- [mười bảy](amount)cốc [trà thạch đào](product) cỡ [trung bình](size)
+- cho bác [14](amount) [đen nóng](product) cỡ [l](size) đi ạ
+- cho ông [hai](amount) [trà thạch vải](product) size [lờ](size) nhé
+- cho tui [20](amount)ly [trà sen vàng](product) cỡ [s](size)
+- [15](amount)chiếc [cafe sữa đá](product) size [lớn](size) nha em
+- cho em [10](amount) [cà phê sữa đá](product) size [ét](size) đi bạn
+- cho bà [16](amount)chiếc [phin đen nóng](product) [m](size)
+- cho tôi [4](amount)cốc [thạch vải](product) size [m](size)
+- [sáu](amount)cốc [sen vàng](product) size [nhỏ](size)
+- cho [2](amount) [cà phê đen đá](product) [vừa](size) đi
+- cho tui [bốn](amount)cốc [cafe đen nóng](product) cỡ [mờ](size)
+- [mười lăm](amount)chiếc [trà thanh đào](product) loại [đại](size)
+- [5](amount)chiếc [thạch đào](product) sai [to](size) đi em
+- [mười chín](amount)cốc [phin sữa đá](product) [bé](size) em ạ
+- [9](amount) [sữa đá](product) size [s](size) bạn ơi
+- [1](amount)cốc [đen đá](product) [l](size)
+- cho anh [3](amount)cốc [phin đen đá](product) nha bạn
+- cho tao [8](amount)chiếc [cà phê đen nóng](product) size [trung](size) nhé em
+- cho tau [18](amount)chiếc [cafe đen đá](product) cỡ [trung bình](size)
+- [trà thạch đào](product) cỡ [l](size)
+- cho chị [tám](amount)ly [đen nóng](product) size [lờ](size) nha
+- [mười ba](amount)chiếc [trà thạch vải](product) cỡ [s](size)
+- cho bác [mười sáu](amount) [trà sen vàng](product) size [lớn](size)
+- cho ông [mười](amount)ly [cafe sữa đá](product) size [ét](size) đi em
+- cho tui [mười tám](amount)cốc [cà phê sữa đá](product) [m](size) em ơi
+- [12](amount)chiếc [phin đen nóng](product) size [m](size) bạn ạ
+- cho em [ba](amount)ly [thạch vải](product) size [nhỏ](size) nhé bạn
+- cho bà [19](amount)ly [sen vàng](product) [vừa](size)
+- cho tôi [11](amount)chiếc [cà phê đen đá](product) cỡ [mờ](size) đi ạ
+- [13](amount)chiếc [cafe đen nóng](product) loại [đại](size) nhé
+- cho [chín](amount)cốc [trà thanh đào](product) sai [to](size)
+- cho tui [bảy](amount)chiếc [thạch đào](product) [bé](size) nha em
+- [hai mươi](amount)ly [phin sữa đá](product) size [s](size) đi bạn
+- [17](amount) [sữa đá](product) [l](size)
+- [mười một](amount)cốc [đen đá](product)
+- [6](amount)cốc [phin đen đá](product) size [trung](size)
+- [năm](amount) [cà phê đen nóng](product) cỡ [trung bình](size) đi
+- cho anh [một](amount)ly [cafe đen đá](product) cỡ [l](size)
+- cho tao [mười hai](amount)ly [trà thạch đào](product) size [lờ](size)
+- cho tau [mười bốn](amount)cốc [đen nóng](product) cỡ [s](size) đi em
+- [20](amount)ly [thạch vải](product) [m](size)
+- cho anh [mười bốn](amount)cốc [sen vàng](product) cỡ [l](size)
+- cho chị [mười sáu](amount) [trà thạch vải](product) [vừa](size) nhé em
+- cho [13](amount)chiếc [cafe sữa đá](product) cỡ [s](size)
+- cho tui [mười](amount)ly [cafe đen nóng](product) [l](size) đi em
+- cho tao [hai](amount) [trà thạch đào](product) nhé bạn
+- [18](amount)chiếc [cà phê đen nóng](product) loại [đại](size) nha em
+- cho em [sáu](amount)cốc [thạch đào](product) size [s](size) đi
+- cho bà [mười bảy](amount)cốc [cà phê đen đá](product) [bé](size) nhé
+- cho ông [mười một](amount)cốc [trà thanh đào](product) cỡ [mờ](size) nha
+- cho tôi [mười chín](amount)cốc [phin đen nóng](product) sai [to](size) bạn ơi
+- [8](amount)chiếc [đen đá](product) size [m](size) bạn ạ
+- [10](amount) [cà phê sữa đá](product) size [lớn](size) em ạ
+- [tám](amount)ly [cafe đen đá](product) size [lờ](size)
+- cho tau [12](amount)chiếc [đen nóng](product) size [trung](size) nha bạn
+- cho bác [chín](amount)cốc [sữa đá](product) cỡ [trung bình](size) em ơi
+- [3](amount)cốc [phin sữa đá](product) size [nhỏ](size)
+- [16](amount)chiếc [trà sen vàng](product) size [ét](size)
+- cho tui [năm](amount) [phin đen đá](product) [m](size)
+- [9](amount) [thạch vải](product) cỡ [l](size) đi bạn
+- [19](amount)ly [sen vàng](product) [vừa](size)
+- [5](amount)chiếc [trà thạch vải](product) cỡ [s](size) đi em
+- cho anh [bảy](amount)chiếc [cafe sữa đá](product) [l](size)
+- cho chị [2](amount) [cafe đen nóng](product)
+- cho [mười hai](amount)ly [trà thạch đào](product) loại [đại](size)
+- cho tui [cà phê đen nóng](product) size [s](size)
+- cho tao [bốn](amount)cốc [thạch đào](product) [bé](size) đi ạ
+- [hai mươi](amount)ly [cà phê đen đá](product) cỡ [mờ](size)
+- cho em [15](amount)chiếc [trà thanh đào](product) sai [to](size)
+- cho bà [7](amount) [phin đen nóng](product) size [m](size) nhé em
+- cho ông [mười lăm](amount)chiếc [đen đá](product) size [lớn](size)
+- cho tôi [11](amount)chiếc [cà phê sữa đá](product) size [lờ](size) đi em
+- [14](amount) [cafe đen đá](product) size [trung](size) nhé bạn
+- [ba](amount)ly [đen nóng](product) cỡ [trung bình](size) nha em
+- [17](amount) [sữa đá](product) size [nhỏ](size) đi
+- cho tau [mười ba](amount)chiếc [phin sữa đá](product) size [ét](size) nhé
+- cho bác [một](amount)ly [trà sen vàng](product) [m](size) nha
+- [mười tám](amount)cốc [phin đen đá](product) cỡ [l](size) bạn ơi
+- [1](amount)cốc [thạch vải](product) [vừa](size) bạn ạ
+- cho tui [6](amount)cốc [sen vàng](product) cỡ [s](size) em ạ
+- [4](amount)cốc [trà thạch vải](product) [l](size)
+- cho tui [6](amount)cốc [thạch vải](product) size [lờ](size) đi ạ
+- [1](amount)cốc [cafe đen đá](product) size [lớn](size) đi
+- [9](amount) [phin đen nóng](product) [bé](size) nha
+- [mười lăm](amount)chiếc [thạch đào](product) cỡ [mờ](size)
+- cho tao [sáu](amount)cốc [cafe đen nóng](product) [l](size)
+- cho chị [mười một](amount)cốc [trà thạch đào](product) đi em
+- cho tau [mười chín](amount)cốc [cafe sữa đá](product) size [s](size) nhé bạn
+- cho bà [4](amount)cốc [đen nóng](product) [vừa](size)
+- [2](amount) [cà phê đen đá](product) [m](size) nhé em
+- [bảy](amount)chiếc [trà thạch vải](product) loại [đại](size)
+- cho anh [3](amount)cốc [trà sen vàng](product) size [m](size)
+- cho bác [7](amount) [đen đá](product) size [ét](size) em ạ
+- cho em [chín](amount)cốc [phin đen đá](product) sai [to](size)
+- [mười ba](amount)chiếc [cà phê đen nóng](product) size [nhỏ](size) em ơi
+- cho tôi [19](amount)ly [sữa đá](product) cỡ [s](size)
+- cho tui [14](amount) [cà phê sữa đá](product) size [trung](size)
+- cho [tám](amount)ly [sen vàng](product) cỡ [l](size)
+- [mười sáu](amount) [trà thanh đào](product) cỡ [trung bình](size) nha bạn
+- [5](amount)chiếc [phin sữa đá](product) size [lờ](size) bạn ạ
+- [bốn](amount)cốc [thạch vải](product) size [lớn](size) nha em
+- cho ông [20](amount)ly [cafe đen đá](product) [bé](size)
+- cho tui [ba](amount)ly [phin đen nóng](product) cỡ [mờ](size) nhé
+- [15](amount)chiếc [thạch đào](product) [l](size) đi bạn
+- [18](amount)chiếc [cafe đen nóng](product) bạn ơi
+- [17](amount) [trà thạch đào](product) size [s](size)
+- cho tao [8](amount)chiếc [cafe sữa đá](product) [vừa](size)
+- cho chị [13](amount)chiếc [đen nóng](product) [m](size) đi em
+- cho tau [11](amount)chiếc [cà phê đen đá](product) loại [đại](size) đi ạ
+- cho bà [mười tám](amount)cốc [trà thạch vải](product) size [m](size) đi
+- [12](amount)chiếc [trà sen vàng](product) size [ét](size) nha
+- [năm](amount) [đen đá](product) sai [to](size)
+- cho anh [hai](amount) [phin đen đá](product) size [nhỏ](size)
+- cho bác [mười](amount)ly [cà phê đen nóng](product) cỡ [s](size) đi em
+- cho em [mười bốn](amount)cốc [sữa đá](product) size [trung](size) nhé bạn
+- [một](amount)ly [cà phê sữa đá](product) cỡ [l](size)
+- cho tôi [16](amount)chiếc [sen vàng](product) cỡ [trung bình](size) nhé em
+- cho tui [hai mươi](amount)ly [trà thanh đào](product) size [lờ](size)
+- cho [mười bảy](amount)cốc [phin sữa đá](product) size [lớn](size)
+- [mười hai](amount)ly [thạch vải](product) [bé](size) em ạ
+- [cafe đen đá](product) cỡ [mờ](size)
+- [10](amount) [phin đen nóng](product) [l](size) em ơi
+- cho tau [tám](amount)ly [trà thạch vải](product) size [nhỏ](size)
+- [mười bốn](amount)cốc [phin đen đá](product) size [lớn](size)
+- cho tao [đen nóng](product)
+- [mười ba](amount)chiếc [thạch đào](product) size [lờ](size) đi em
+- [6](amount)cốc [trà sen vàng](product) [vừa](size)
+- [5](amount)chiếc [cà phê đen đá](product) cỡ [mờ](size)
+- cho bác [ba](amount)ly [cà phê sữa đá](product) size [trung](size)
+- cho ông [19](amount)ly [trà thanh đào](product) size [s](size) nhé em
+- cho tui [mười hai](amount)ly [phin sữa đá](product) cỡ [s](size) đi bạn
+- cho chị [2](amount) [cafe sữa đá](product) size [m](size)
+- [20](amount)ly [phin đen nóng](product) size [ét](size) đi ạ
+- cho bà [18](amount)chiếc [cafe đen đá](product) [m](size) em ơi
+- cho [mười lăm](amount)chiếc [sen vàng](product) sai [to](size)
+- cho anh [mười một](amount)cốc [cà phê đen nóng](product) loại [đại](size) nha
+- cho tui [17](amount) [sữa đá](product) cỡ [l](size) nhé bạn
+- [9](amount) [thạch vải](product) cỡ [trung bình](size)
+- cho em [mười chín](amount)cốc [trà thạch đào](product) [l](size) nhé
+- [1](amount)cốc [đen đá](product) [bé](size)
+- [12](amount)chiếc [cafe đen nóng](product) size [nhỏ](size)
+- [mười sáu](amount) [trà thạch vải](product) size [lớn](size) nha bạn
+- cho tôi [mười tám](amount)cốc [phin đen đá](product) đi em
+- cho tau [8](amount)chiếc [đen nóng](product) size [lờ](size)
+- [hai](amount) [thạch đào](product) [vừa](size) em ạ
+- cho tao [chín](amount)cốc [trà sen vàng](product) cỡ [mờ](size) đi
+- [mười](amount)ly [cà phê đen đá](product) size [trung](size) nha em
+- [một](amount)ly [cà phê sữa đá](product) size [s](size) bạn ơi
+- [11](amount)chiếc [trà thanh đào](product) cỡ [s](size) bạn ạ
+- cho bác [15](amount)chiếc [phin sữa đá](product) size [m](size)
+- cho ông [7](amount) [cafe sữa đá](product) size [ét](size)
+- cho tui [bảy](amount)chiếc [phin đen nóng](product) [m](size)
+- cho chị [3](amount)cốc [cafe đen đá](product) sai [to](size) đi em
+- [mười bảy](amount)cốc [sen vàng](product) loại [đại](size)
+- cho bà [hai mươi](amount)ly [cà phê đen nóng](product) cỡ [l](size)
+- cho [10](amount) [sữa đá](product) cỡ [trung bình](size)
+- cho anh [14](amount) [thạch vải](product) [l](size) nhé em
+- cho tui [16](amount)chiếc [trà thạch đào](product) [bé](size) đi bạn
+- [13](amount)chiếc [đen đá](product) size [nhỏ](size)
+- cho em [4](amount)cốc [cafe đen nóng](product) size [lớn](size) đi ạ
+- [năm](amount) [trà thạch vải](product) em ơi
+- [sáu](amount)cốc [phin đen đá](product) size [lờ](size)
+- [bốn](amount)cốc [đen nóng](product) [vừa](size) nha
+- [mười bốn](amount)cốc [cafe đen nóng](product) cỡ [s](size) em ơi
+- cho anh [bảy](amount)chiếc [cafe sữa đá](product) size [trung](size) đi ạ
+- [9](amount) [cà phê sữa đá](product) cỡ [l](size) nhé bạn
+- cho tui [19](amount)ly [trà thanh đào](product) size [lờ](size) đi em
+- cho tôi [10](amount) [trà thạch vải](product) sai [to](size)
+- cho chị [1](amount)cốc [phin đen đá](product) size [ét](size) đi em
+- [11](amount)chiếc [thạch đào](product) [vừa](size)
+- [mười lăm](amount)chiếc [trà sen vàng](product) size [nhỏ](size) đi
+- cho [mười bảy](amount)cốc [đen đá](product) size [m](size)
+- cho bác [14](amount) [phin sữa đá](product) loại [đại](size) nha bạn
+- cho ông [mười hai](amount)ly [sen vàng](product)
+- cho tau [13](amount)chiếc [cà phê đen nóng](product) cỡ [trung bình](size) em ạ
+- [ba](amount)ly [cafe đen đá](product) size [s](size) bạn ạ
+- cho tui [sáu](amount)cốc [phin đen nóng](product) size [lớn](size) đi bạn
+- cho bà [5](amount)chiếc [cà phê đen đá](product) [m](size)
+- [mười](amount)ly [đen nóng](product) [bé](size)
+- cho em [mười một](amount)cốc [thạch vải](product) [l](size) nhé
+- [mười sáu](amount) [sữa đá](product) cỡ [mờ](size)
+- cho tao [mười tám](amount)cốc [trà thạch đào](product) cỡ [s](size) nha
+- [16](amount)chiếc [cafe đen nóng](product) size [trung](size) bạn ơi
+- [7](amount) [cafe sữa đá](product) cỡ [l](size)
+- [mười chín](amount)cốc [cà phê sữa đá](product) size [lờ](size)
+- cho anh [17](amount) [trà thanh đào](product) sai [to](size) nha em
+- [2](amount) [trà thạch vải](product) size [ét](size) nhé em
+- cho tui [4](amount)cốc [phin đen đá](product) [vừa](size)
+- cho tôi [6](amount)cốc [thạch đào](product) size [nhỏ](size)
+- cho chị [15](amount)chiếc [trà sen vàng](product) size [m](size)
+- [năm](amount) [đen đá](product) loại [đại](size) em ơi
+- [tám](amount)ly [phin sữa đá](product) đi ạ
+- cho [bốn](amount)cốc [sen vàng](product) cỡ [trung bình](size) nhé bạn
+- cho bác [3](amount)cốc [cà phê đen nóng](product) size [s](size) đi em
+- cho ông [8](amount)chiếc [cafe đen đá](product) size [lớn](size)
+- cho tau [phin đen nóng](product) [m](size) đi em
+- [chín](amount)cốc [cà phê đen đá](product) [bé](size)
+- cho tui [mười ba](amount)chiếc [đen nóng](product) [l](size) đi
+- cho bà [hai](amount) [thạch vải](product) cỡ [mờ](size)
+- [12](amount)chiếc [sữa đá](product) cỡ [s](size) nha bạn
+- cho em [18](amount)chiếc [trà thạch đào](product) size [trung](size)
+- [một](amount)ly [cafe đen nóng](product) cỡ [l](size) em ạ
+- cho tao [20](amount)ly [cafe sữa đá](product) size [lờ](size) bạn ạ
+- [hai mươi](amount)ly [cà phê sữa đá](product) sai [to](size) đi bạn
+- cho anh [bảy](amount)chiếc [sen vàng](product) size [m](size)
+- [15](amount)chiếc [cà phê sữa đá](product) size [s](size)
+- [16](amount)chiếc [đen nóng](product) loại [đại](size) em ơi
+- cho tôi [sáu](amount)cốc [cafe sữa đá](product) size [lờ](size)
+- [bốn](amount)cốc [thạch đào](product) cỡ [l](size) em ạ
+- [mười sáu](amount) [trà sen vàng](product) sai [to](size) bạn ơi
+- [1](amount)cốc [cà phê đen đá](product) [vừa](size) đi bạn
+- [mười chín](amount)cốc [phin sữa đá](product) [bé](size)
+- cho ông [6](amount)cốc [thạch vải](product) cỡ [trung bình](size) nha
+- cho bác [mười](amount)ly [cafe đen nóng](product)
+- cho tui [mười bảy](amount)cốc [phin đen nóng](product) cỡ [s](size) bạn ạ
+- cho chị [5](amount)chiếc [cà phê đen nóng](product) size [lớn](size) nhé bạn
+- [13](amount)chiếc [cafe đen đá](product) [m](size)
+- cho tao [17](amount) [trà thạch vải](product) [l](size) đi
+- cho tui [năm](amount) [trà thanh đào](product) size [ét](size) đi em
+- [20](amount)ly [sữa đá](product) cỡ [mờ](size)
+- cho bà [mười bốn](amount)cốc [đen đá](product) size [trung](size) nha bạn
+- cho em [4](amount)cốc [phin đen đá](product) size [nhỏ](size)
+- cho [11](amount)chiếc [trà thạch đào](product) size [m](size) đi ạ
+- cho tau [19](amount)ly [sen vàng](product) size [s](size) nhé
+- [cà phê sữa đá](product) loại [đại](size)
+- cho anh [chín](amount)cốc [đen nóng](product) size [lờ](size) nha em
+- [14](amount) [cafe sữa đá](product) cỡ [l](size) nhé em
+- [mười một](amount)cốc [thạch đào](product) sai [to](size)
+- cho tôi [8](amount)chiếc [trà sen vàng](product) [vừa](size)
+- [ba](amount)ly [cà phê đen đá](product) [bé](size)
+- [18](amount)chiếc [phin sữa đá](product) cỡ [trung bình](size) đi em
+- [mười lăm](amount)chiếc [thạch vải](product)
+- [7](amount) [cafe đen nóng](product) cỡ [s](size)
+- cho ông [12](amount)chiếc [phin đen nóng](product) size [lớn](size) em ơi
+- cho bác [9](amount) [cà phê đen nóng](product) [m](size)
+- cho tui [hai](amount) [cafe đen đá](product) [l](size) em ạ
+- cho chị [hai mươi](amount)ly [trà thạch vải](product) size [ét](size) bạn ơi
+- [mười tám](amount)cốc [trà thanh đào](product) cỡ [mờ](size) đi bạn
+- cho tao [tám](amount)ly [sữa đá](product) size [trung](size)
+- cho tui [mười hai](amount)ly [đen đá](product) size [nhỏ](size) nha
+- [mười ba](amount)chiếc [phin đen đá](product) size [m](size)
+- cho bà [3](amount)cốc [trà thạch đào](product) size [s](size) bạn ạ
+- cho em [một](amount)ly [sen vàng](product) loại [đại](size) nhé bạn
+- cho [10](amount) [cà phê sữa đá](product) size [lờ](size)
+- cho tau [2](amount) [đen nóng](product) cỡ [l](size) đi
+- [mười](amount)ly [sữa đá](product) [m](size)
+- [16](amount)chiếc [cà phê đen đá](product) [l](size) nha em
+- cho anh [năm](amount) [trà sen vàng](product) [bé](size) nhé
+- cho chị [mười hai](amount)ly [trà thạch đào](product) size [nhỏ](size) đi bạn
+- cho bác [5](amount)chiếc [phin sữa đá](product) sai [to](size)
+- [mười một](amount)cốc [cafe sữa đá](product) size [m](size)
+- [mười sáu](amount) [thạch đào](product) size [lờ](size) em ơi
+- cho tui [15](amount)chiếc [cà phê sữa đá](product) cỡ [mờ](size) bạn ạ
+- cho ông [bốn](amount)cốc [phin đen đá](product) [vừa](size) bạn ơi
+- cho bà [13](amount)chiếc [cà phê đen nóng](product) size [s](size) nha bạn
+- cho tau [1](amount)cốc [đen đá](product)
+- cho tao [mười chín](amount)cốc [sen vàng](product) size [ét](size) em ạ
+- [mười lăm](amount)chiếc [trà thạch vải](product) loại [đại](size)
+- cho em [14](amount) [trà thanh đào](product) cỡ [trung bình](size)
+- [20](amount)ly [đen nóng](product) cỡ [l](size)
+- cho tui [11](amount)chiếc [cafe đen đá](product) size [trung](size) nhé em
+- [3](amount)cốc [thạch vải](product) size [lớn](size) nhé bạn
+- cho tôi [mười tám](amount)cốc [cafe đen nóng](product) cỡ [s](size)
+- [mười ba](amount)chiếc [phin đen nóng](product) [m](size) đi em
+- cho [ba](amount)ly [sữa đá](product) [l](size) đi em
+- [mười bốn](amount)cốc [cà phê đen đá](product) [bé](size)
+- [2](amount) [trà sen vàng](product) size [nhỏ](size)
+- [10](amount) [trà thạch đào](product) sai [to](size) nha
+- cho anh [một](amount)ly [phin sữa đá](product) size [m](size) đi
+- cho chị [19](amount)ly [cafe sữa đá](product) size [lờ](size) đi ạ
+- cho bác [mười bảy](amount)cốc [thạch đào](product) cỡ [mờ](size)
+- [17](amount) [cà phê sữa đá](product) [vừa](size)
+- [phin đen đá](product) size [s](size)
+- cho tui [hai](amount) [cà phê đen nóng](product) nha em
+- cho ông [12](amount)chiếc [đen đá](product) size [ét](size) nhé
+- cho bà [tám](amount)ly [sen vàng](product) loại [đại](size) đi bạn
+- cho tau [4](amount)cốc [trà thạch vải](product) cỡ [trung bình](size)
+- cho tao [chín](amount)cốc [trà thanh đào](product) cỡ [l](size)
+- [6](amount)cốc [đen nóng](product) size [trung](size) em ơi
+- cho em [7](amount) [cafe đen đá](product) size [lớn](size) bạn ạ
+- [18](amount)chiếc [thạch vải](product) cỡ [s](size) bạn ơi
+- cho tui [sáu](amount)cốc [cafe đen nóng](product) [m](size) nha bạn
+- [8](amount)chiếc [phin đen nóng](product) [l](size)
+- cho tôi [9](amount) [sữa đá](product) [bé](size) em ạ
+- [hai mươi](amount)ly [cà phê đen đá](product) size [nhỏ](size)
+- cho [bảy](amount)chiếc [trà sen vàng](product) sai [to](size)
+- cho tui [trà thanh đào](product) cỡ [vừa](size) nhé em
+- [trà sen vàng](product) size [bé](size)
+- cho tau [cà phê sữa đá](product) size [lớn](size) bạn ơi
+- [trà thạch vải](product) sai [trung](size)
+- [thạch đào](product) [trung bình](size)
+- cho [phin sữa đá](product) [nhỏ](size) đi ạ
+- cho tao [cafe sữa đá](product) cỡ [l](size) em ơi
+- cho tui [thạch vải](product) [s](size)
+- cho bác [phin đen nóng](product) loại [mờ](size)
+- cho chị [cà phê đen đá](product) loại [s](size) đi
+- [cà phê đen nóng](product) [m](size)
+- cho tôi [sen vàng](product) [lờ](size) đi em
+- [cafe đen đá](product) cỡ [to](size)
+- cho bà [cafe đen nóng](product) loại [đại](size)
+- [phin đen đá](product) nha em
+- [sữa đá](product) sai [m](size) nha
+- cho anh [đen đá](product) cỡ [ét](size)
+- cho em [đen nóng](product) loại [l](size) bạn ạ
+- [trà thạch đào](product) cỡ [vừa](size) đi bạn
+- [trà thanh đào](product) size [bé](size) đi em
+- cho ông [trà sen vàng](product) size [lớn](size)
+- cho tui [cà phê sữa đá](product) sai [trung](size)
+- [trà thạch vải](product) [trung bình](size) nhé
+- cho tau [thạch đào](product) [nhỏ](size) nha bạn
+- [phin sữa đá](product) cỡ [l](size) em ạ
+- [cafe sữa đá](product) [s](size)
+- cho [thạch vải](product) loại [mờ](size) nhé bạn
+- cho bác [cà phê sữa đá](product) cỡ [to](size) em ạ
+- cho chị [cà phê đen nóng](product) sai [trung](size)
+- cho tau [cafe sữa đá](product) [trung bình](size)
+- cho bà [sen vàng](product) cỡ [vừa](size)
+- cho tôi [trà thạch vải](product)
+- [cafe đen đá](product) [lờ](size) đi bạn
+- cho tui [phin đen đá](product) [nhỏ](size)
+- [đen nóng](product) sai [m](size)
+- [sữa đá](product) [s](size)
+- cho [trà thạch đào](product) loại [l](size) em ơi
+- cho tui [cafe đen nóng](product) cỡ [l](size)
+- [trà thanh đào](product) cỡ [ét](size) nha em
+- cho ông [phin sữa đá](product) loại [đại](size) nhé em
+- [phin đen nóng](product) [m](size)
+- [trà sen vàng](product) loại [mờ](size)
+- cho em [thạch đào](product) size [lớn](size) nhé
+- [thạch vải](product) size [bé](size) đi ạ
+- [đen đá](product) loại [s](size) đi
+- [cà phê đen đá](product) cỡ [to](size) nha
+- cho tao [cà phê sữa đá](product) sai [trung](size)
+- cho anh [cà phê đen nóng](product) [trung bình](size) nha bạn
+- cho bác [cafe sữa đá](product) cỡ [vừa](size) đi em
+- cho chị [sen vàng](product) bạn ạ
+- cho tau [trà thạch vải](product) [lờ](size)
+- cho bà [cafe đen đá](product) [nhỏ](size) đi em
+- cho tôi [phin đen đá](product) sai [m](size) nhé bạn
+- [đen nóng](product) [s](size) bạn ơi
+- cho [thạch vải](product) [trung bình](size)
+- cho tui [phin đen nóng](product) [nhỏ](size) nhé bạn
+- cho chị [trà sen vàng](product) loại [đại](size) em ạ
+- cho tôi [đen nóng](product) [lờ](size)
+- cho bác [trà thạch vải](product) size [lớn](size) nha bạn
+- cho bà [cafe sữa đá](product) loại [mờ](size)
+- [cà phê sữa đá](product)
+- [trà thạch đào](product) cỡ [l](size)
+- cho tau [phin đen đá](product) cỡ [to](size)
+- cho tao [phin sữa đá](product) sai [m](size) đi ạ
+- [sen vàng](product) sai [trung](size) bạn ạ
+- cho anh [cà phê đen đá](product) cỡ [vừa](size) đi em
+- [sữa đá](product) [s](size) đi
+- [cà phê đen nóng](product) loại [l](size) bạn ơi
+- [thạch đào](product) size [bé](size)
+- [cafe đen đá](product) cỡ [ét](size) đi em
+- cho tui [trà thanh đào](product) [m](size) em ơi
+- cho em [cafe đen nóng](product) loại [s](size) nhé
+- cho ông [đen đá](product) [trung bình](size) nha em
+- [thạch vải](product) [nhỏ](size)
+- [phin đen nóng](product) loại [đại](size) nhé em
+- cho [trà sen vàng](product) [lờ](size) đi bạn
+- cho tui [đen nóng](product) size [lớn](size)
+- cho chị [trà thạch vải](product) loại [mờ](size)
+- cho tôi [cafe sữa đá](product)
+- cho bác [cà phê sữa đá](product) cỡ [l](size) nha
+- cho bà [trà thạch đào](product) cỡ [to](size)
+- cho tau [thạch đào](product) [m](size)
+- cho tui [cà phê đen nóng](product) loại [mờ](size) em ạ
+- cho anh [cà phê sữa đá](product) cỡ [vừa](size) đi em
+- [cafe đen nóng](product) loại [l](size) bạn ơi
+- [cafe sữa đá](product) đi em
+- cho bà [trà thạch đào](product) [lờ](size) nha em
+- cho tui [trà thanh đào](product) [s](size) nhé bạn
+- [trà thạch vải](product) [nhỏ](size) nhé em
+- cho tôi [sen vàng](product) loại [đại](size)
+- [phin đen đá](product) loại [s](size) em ơi
+- cho [đen nóng](product) cỡ [l](size)
+- [đen đá](product) size [lớn](size) bạn ạ
+- cho chị [phin đen nóng](product) [trung bình](size)
+- [thạch vải](product) sai [trung](size) đi
+- cho bác [cafe đen đá](product) cỡ [ét](size)
+- [sữa đá](product) cỡ [to](size)
+- cho tao [trà sen vàng](product) size [bé](size)
+- cho em [phin sữa đá](product) sai [m](size) nha
+- [cà phê đen đá](product) [m](size)
+- cho ông [thạch đào](product) loại [mờ](size) đi bạn
+- [cà phê đen nóng](product) cỡ [vừa](size) đi ạ
+- cho tau [cà phê sữa đá](product) loại [l](size)
+- cho tui [cafe đen nóng](product)
+- cho anh [cafe sữa đá](product) [lờ](size) nhé
+- [trà thạch đào](product) [s](size)
+- [trà thanh đào](product) [nhỏ](size)
+- cho bà [trà thạch vải](product) loại [đại](size) nha bạn
+- cho tui [sen vàng](product) [nhỏ](size)
+- cho bác [trà thanh đào](product) [m](size) nha bạn
+- cho tui [trà thạch đào](product) loại [đại](size)
+- cho [cafe đen nóng](product) size [bé](size)
+- [cà phê đen đá](product) sai [m](size)
+- [trà sen vàng](product) [trung bình](size)
+- cho bà [trà thạch vải](product) cỡ [vừa](size)
+- cho em [cafe đen đá](product) loại [l](size) đi bạn
+- cho chị [cà phê đen nóng](product) nhé
+- cho ông [phin sữa đá](product) sai [trung](size) nhé bạn
+- cho tau [đen đá](product) cỡ [l](size) nha em
+- [cafe sữa đá](product) cỡ [to](size) nhé em
+- [thạch vải](product) [s](size) đi ạ
+- [sữa đá](product) size [lớn](size)
+- cho tôi [cà phê sữa đá](product) cỡ [ét](size) em ạ
+- [phin đen nóng](product) loại [mờ](size)
+- cho anh [đen nóng](product) [lờ](size)
+- [phin đen đá](product) loại [s](size) bạn ạ
+- [thạch đào](product) [nhỏ](size) đi
+- cho tao [sen vàng](product) [m](size)
+- [trà thanh đào](product) loại [đại](size) nha
+- cho tui [trà thạch đào](product) size [bé](size) em ơi
+- cho bác [cafe đen nóng](product) sai [m](size)
+- cho tui [cà phê đen đá](product) [trung bình](size) bạn ơi
+- cho [trà sen vàng](product) cỡ [vừa](size) đi em
+- [trà thạch vải](product) loại [l](size) đi em
+- [cafe đen đá](product)
+- [trà thạch đào](product) loại [s](size)
+- cho tôi [thạch đào](product) cỡ [vừa](size)
+- cho [sen vàng](product) loại [l](size)
+- cho tui [trà sen vàng](product) loại [mờ](size)
+- [cafe đen nóng](product) loại [đại](size) đi em
+- cho chị [phin đen nóng](product) [nhỏ](size) nhé
+- [phin sữa đá](product) [m](size) nha
+- cho ông [cafe đen đá](product) [trung bình](size)
+- cho tao [trà thanh đào](product) sai [m](size)
+- [thạch vải](product) sai [trung](size) bạn ơi
+- cho em [trà thạch vải](product) [s](size)
+- [cà phê sữa đá](product) cỡ [l](size) đi em
+- cho bà [sữa đá](product) cỡ [to](size) đi bạn
+- cho anh [cà phê đen nóng](product) [lờ](size)
+- cho tui [đen đá](product) cỡ [ét](size) bạn ạ
+- [đen nóng](product) nha bạn
+- cho bác [phin đen đá](product) size [bé](size)
+- cho tau [cafe sữa đá](product) size [lớn](size) đi ạ
+- [cà phê đen đá](product) loại [s](size) nhé bạn
+- [trà thạch đào](product) cỡ [vừa](size) nhé em
+- [thạch đào](product) loại [l](size) em ơi
+- [sen vàng](product) loại [mờ](size) đi
+- cho tôi [trà sen vàng](product) loại [đại](size)
+- cho [cafe đen nóng](product) [nhỏ](size) nha em
+- cho tui [phin đen nóng](product) [m](size)
+- [phin sữa đá](product) [trung bình](size)
+- cho chị [cafe đen đá](product) sai [m](size) em ạ
+- cho tao [trà sen vàng](product) cỡ [vừa](size)
+- cho tui [trà thanh đào](product) loại [l](size) em ạ
+- [trà thạch đào](product) sai [m](size) đi
+- [cà phê đen đá](product) [s](size)
+- [cafe đen đá](product) loại [s](size)
+- cho anh [cafe sữa đá](product) [m](size) bạn ơi
+- [trà thạch vải](product) size [lớn](size)
+- [phin đen nóng](product) loại [đại](size)
+- [sen vàng](product) đi em
+- [phin sữa đá](product) cỡ [to](size) em ơi
+- cho em [cà phê đen nóng](product) [lờ](size)
+- cho bà [thạch đào](product) sai [trung](size) nha em
+- cho [sữa đá](product) cỡ [ét](size)
+- [phin đen đá](product) [nhỏ](size) nhé em
+- cho tau [cà phê sữa đá](product) [trung bình](size) nha
+- cho chị [cafe đen nóng](product) loại [mờ](size) nhé
+- cho tôi [đen đá](product) size [bé](size)
+- cho tui [thạch vải](product) cỡ [l](size) đi bạn
+- cho bác [đen nóng](product) cỡ [vừa](size) đi em
+- cho ông [trà sen vàng](product) loại [l](size) đi ạ
+- [trà thanh đào](product) sai [m](size)
+- cho tao [trà thạch đào](product) [s](size)
+- cho tui [cà phê đen đá](product) loại [s](size) nha bạn
+- [cafe đen đá](product) [m](size) bạn ạ
+- [cafe sữa đá](product) size [lớn](size)
+- [trà thạch vải](product) loại [đại](size) nhé bạn
+- cho anh [phin đen nóng](product)
+- cho bác [cafe đen nóng](product) loại [mờ](size) bạn ơi
+- cho em [cafe sữa đá](product) loại [s](size) đi
+- [thạch đào](product) cỡ [l](size) đi bạn
+- [sữa đá](product) loại [l](size)
+- [phin sữa đá](product) cỡ [vừa](size) bạn ạ
+- cho ông [cà phê đen đá](product) sai [m](size) nhé
+- [cafe đen đá](product) size [lớn](size) nhé em
+- cho anh [sen vàng](product) cỡ [to](size)
+- cho tao [cà phê đen nóng](product) sai [trung](size)
+- cho tui [phin đen đá](product) size [bé](size) nha
+- cho tau [phin đen nóng](product) [trung bình](size)
+- [trà thạch vải](product) loại [đại](size) đi em
+- [trà thạch đào](product) [lờ](size) nha bạn
+- [đen nóng](product) em ơi
+- [thạch vải](product) [s](size)
+- cho bà [trà thanh đào](product) [m](size)
+- cho chị [cà phê sữa đá](product) [nhỏ](size) em ạ
+- cho [đen đá](product) cỡ [ét](size) nha em
+- cho tui [trà sen vàng](product) loại [mờ](size)
+- cho tôi [cafe đen nóng](product) loại [s](size) nhé bạn
+- [cafe sữa đá](product) cỡ [l](size)
+- cho bác [thạch đào](product) loại [l](size)
+- cho em [sữa đá](product) cỡ [vừa](size)
+- [phin sữa đá](product) sai [m](size)
+- [cà phê đen đá](product) size [lớn](size)
+- [cafe đen đá](product) cỡ [to](size) đi em
+- cho ông [sen vàng](product) sai [trung](size) đi ạ
+- [phin sữa đá](product) cỡ [l](size)
+- cho ông [đen đá](product) loại [s](size) bạn ơi
+- cho bà [cafe đen đá](product) cỡ [vừa](size) nha em
+- cho bác [cafe đen nóng](product) [s](size) nhé em
+- cho tôi [trà thanh đào](product) [m](size)
+- cho tao [phin đen nóng](product) [trung bình](size) em ạ
+- [thạch đào](product) loại [mờ](size) đi bạn
+- cho tui [trà thạch vải](product) cỡ [to](size) em ơi
+- [trà sen vàng](product) [nhỏ](size)
+- [cà phê đen đá](product) loại [đại](size) nha
+- cho anh [thạch vải](product) loại [l](size)
+- [cà phê sữa đá](product) bạn ạ
+- [phin đen đá](product) cỡ [ét](size)
+- [cafe sữa đá](product) sai [trung](size)
+- cho [sen vàng](product) size [bé](size)
+- cho tui [cà phê đen nóng](product) size [lớn](size) nha bạn
+- [đen nóng](product) sai [m](size) đi em
+- cho tau [sữa đá](product) [lờ](size)
+- cho em [trà thạch đào](product) cỡ [l](size)
+- [phin sữa đá](product) loại [s](size) nhé bạn
+- cho chị [đen đá](product) cỡ [vừa](size) đi ạ
+- [cafe đen đá](product) [s](size) đi
+- cho ông [cafe đen nóng](product) [m](size) nhé
+- cho bà [trà thanh đào](product) [trung bình](size)
+- cho bác [phin đen nóng](product) loại [mờ](size) đi em
+- cho tôi [thạch đào](product) cỡ [to](size)
+- cho tao [trà thạch vải](product) [nhỏ](size)
+- cho tui [trà sen vàng](product) loại [l](size) em ơi
+- [đen nóng](product)
+- [cafe sữa đá](product) cỡ [ét](size)
+- [phin đen đá](product) cỡ [to](size)
+- cho chị [cafe đen đá](product) size [bé](size) nhé em
+- cho [trà thạch đào](product) loại [đại](size) nhé bạn
+- [phin đen nóng](product) sai [m](size)
+- [trà thạch vải](product) cỡ [vừa](size)
+- cho bà [thạch đào](product) sai [trung](size)
+- cho bác [trà thanh đào](product) [lờ](size) đi
+- [cà phê đen đá](product) [trung bình](size) đi em
+- cho tui [cafe đen nóng](product) loại [mờ](size) đi ạ
+- cho tao [thạch vải](product) cỡ [l](size) đi bạn
+- [đen đá](product) [nhỏ](size) nha bạn
+- cho em [phin sữa đá](product) [m](size) bạn ơi
+- cho tau [sen vàng](product) size [lớn](size)
+- [cà phê sữa đá](product) loại [s](size) nha
+- cho ông [sữa đá](product) [s](size)
+- cho tôi [cà phê đen nóng](product) loại [l](size) em ạ
+- [trà sen vàng](product) đi em
+- cho anh [đen nóng](product) cỡ [ét](size) nha em
+- cho tui [cafe sữa đá](product) cỡ [to](size) nhé
+- [phin đen đá](product) size [bé](size)
+- [cafe đen đá](product) loại [đại](size) bạn ạ
+- [trà thạch đào](product) sai [m](size)
+- cho chị [phin đen nóng](product) cỡ [vừa](size)
+- cho [trà thạch vải](product) sai [trung](size)
+- cho anh [sữa đá](product) cỡ [l](size) nha bạn
+- cho tôi [phin sữa đá](product) loại [đại](size)
+- cho tui [cà phê đen đá](product) [m](size)
+- [cafe đen đá](product) sai [m](size) đi bạn
+- [trà thạch vải](product) [lờ](size) em ạ
+- [thạch vải](product) [trung bình](size)
+- [phin đen nóng](product) cỡ [ét](size) đi em
+- cho ông [trà thạch đào](product) size [lớn](size) nhé bạn
+- cho tao [thạch đào](product)
+- cho bác [cà phê đen nóng](product) [s](size) nha
+- [cafe sữa đá](product) loại [mờ](size) đi ạ
+- [trà sen vàng](product) size [bé](size) đi
+- [sen vàng](product) sai [trung](size)
+- [phin đen đá](product) cỡ [vừa](size) nhé
+- [đen nóng](product) cỡ [to](size) bạn ạ
+- cho em [cà phê sữa đá](product) [nhỏ](size)
+- cho [trà thanh đào](product) loại [l](size)
+- cho bà [cafe đen nóng](product) loại [s](size)
+- cho tui [đen đá](product) cỡ [l](size) em ơi
+- cho tau [sữa đá](product) loại [đại](size) nha em
+- cho chị [phin sữa đá](product) [m](size) nhé em
+- cho anh [cà phê đen đá](product) sai [m](size)
+- cho tôi [cafe đen đá](product) [lờ](size) đi em
+- cho tui [trà thạch vải](product) [trung bình](size)
+- [thạch vải](product) cỡ [ét](size)
+- [phin đen nóng](product) size [lớn](size)
+- [trà thạch đào](product) bạn ơi
+- [trà sen vàng](product) [nhỏ](size) đi bạn
+- [cafe đen nóng](product) loại [đại](size) em ạ
+- cho bác [phin đen nóng](product) [trung bình](size) nha bạn
+- [cà phê đen đá](product) cỡ [l](size) đi ạ
+- cho tau [thạch đào](product) sai [m](size) nhé
+- [cà phê sữa đá](product) [s](size)
+- cho anh [trà thanh đào](product) cỡ [vừa](size) nhé bạn
+- cho em [đen đá](product) size [lớn](size) bạn ạ
+- [cà phê đen nóng](product) [lờ](size)
+- cho tui [phin đen đá](product) loại [l](size) nhé em
+- [cafe sữa đá](product) cỡ [to](size)
+- cho tôi [thạch vải](product) cỡ [ét](size) nha em
+- [đen nóng](product) loại [s](size) nha
+- [trà thạch vải](product) loại [mờ](size)
+- cho tui [sen vàng](product) [m](size) đi em
+- cho ông [phin sữa đá](product) sai [trung](size)
+- cho chị [trà thạch đào](product) đi
+- cho [sữa đá](product) size [bé](size) bạn ơi
+- [cafe đen đá](product) [nhỏ](size) đi em
+- cho tao [trà sen vàng](product) loại [đại](size)
+- cho bà [cafe đen nóng](product) [trung bình](size)
+- [phin đen nóng](product) cỡ [l](size)
+- [cà phê đen đá](product) sai [m](size) em ơi
+- cho bác [thạch đào](product) [s](size)
+- [cà phê sữa đá](product) cỡ [vừa](size)
+- cho tau [trà thanh đào](product) size [lớn](size)
+- [đen đá](product) [lờ](size)
+- cho tui [phin đen đá](product) loại [s](size) em ạ
+- cho em [phin đen nóng](product) sai [m](size) đi em
+- [cà phê sữa đá](product) [trung bình](size) bạn ơi
+- cho anh [cà phê đen nóng](product) [s](size) bạn ạ
+- [trà sen vàng](product) cỡ [vừa](size) nha bạn
+- [cafe sữa đá](product) cỡ [ét](size) em ơi
+- [đen đá](product)
+- cho tao [cà phê đen đá](product) size [lớn](size) đi em
+- cho bà [sen vàng](product) loại [mờ](size)
+- cho ông [thạch đào](product) [lờ](size) đi bạn
+- [sữa đá](product) [m](size)
+- cho tui [thạch vải](product) [nhỏ](size) đi ạ
+- [trà thạch vải](product) sai [trung](size) nhé bạn
+- cho [trà thanh đào](product) loại [l](size)
+- cho tôi [đen nóng](product) size [bé](size)
+- [cafe đen đá](product) cỡ [l](size)
+- cho chị [trà thạch đào](product) cỡ [to](size) đi
+- [phin sữa đá](product) loại [đại](size)
+- [cafe đen nóng](product) loại [s](size)
+- cho bác [phin đen đá](product) sai [m](size) nha
+- cho tau [phin đen nóng](product) [trung bình](size) nhé
+- cho tui [cà phê sữa đá](product) [s](size)
+- cho em [cà phê đen nóng](product) cỡ [vừa](size)
+- [trà sen vàng](product) cỡ [ét](size) nhé em
+- cho anh [cafe sữa đá](product) nha em
+- [đen đá](product) size [lớn](size)
+- [cà phê đen đá](product) loại [mờ](size)
+- [phin đen đá](product) [lờ](size) nha em
+- cho ông [phin sữa đá](product) size [lớn](size) bạn ạ
+- cho tui [trà thạch vải](product) [m](size) đi
+- [trà thanh đào](product) [s](size) nha
+- cho anh [sen vàng](product) [trung bình](size)
+- cho tao [cà phê đen nóng](product) sai [trung](size)
+- cho tui [thạch vải](product) loại [đại](size) đi em
+- [thạch đào](product) cỡ [l](size) đi bạn
+- cho em [cafe sữa đá](product) nhé bạn
+- [cafe đen nóng](product) cỡ [to](size) nha bạn
+- [phin đen nóng](product) [nhỏ](size) nhé
+- [sữa đá](product) loại [l](size)
+- cho [đen nóng](product) loại [s](size) em ạ
+- cho tau [trà thạch đào](product) loại [mờ](size) đi ạ
+- cho chị [cà phê đen đá](product) cỡ [ét](size)
+- cho bác [cà phê sữa đá](product) size [bé](size)
+- [trà sen vàng](product) cỡ [vừa](size)
+- cho bà [cafe đen đá](product) sai [m](size) bạn ơi
+- [đen đá](product) [lờ](size)
+- cho tôi [phin đen đá](product) size [lớn](size)
+- [phin sữa đá](product) [m](size) nhé em
+- [trà thạch vải](product) [s](size)
+- cho ông [trà thanh đào](product) [trung bình](size) đi em
+- cho tui [sen vàng](product) sai [trung](size)
+- [cà phê đen nóng](product) loại [đại](size) em ơi
+- cho anh [thạch vải](product) cỡ [l](size)
+- cho tao [thạch đào](product)
+- [thạch vải](product) cỡ [vừa](size) em ạ
+- cho bác [cafe đen nóng](product) cỡ [ét](size) đi bạn
+- [cà phê đen nóng](product) [m](size)
+- cho bà [đen nóng](product) loại [s](size)
+- [trà thanh đào](product) sai [trung](size) nha bạn
+- cho tau [cafe sữa đá](product) loại [mờ](size) bạn ạ
+- [trà thạch đào](product) size [lớn](size) nhé bạn
+- [cà phê sữa đá](product) cỡ [l](size)
+- cho anh [trà thạch vải](product) em ơi
+- cho tui [phin đen đá](product) [nhỏ](size) bạn ơi
+- cho tao [phin đen nóng](product) loại [đại](size) nha em
+- cho tôi [phin sữa đá](product) [trung bình](size) đi em
+- [thạch đào](product) cỡ [to](size)
+- [trà sen vàng](product) [lờ](size)
+- cho chị [sen vàng](product) size [bé](size)
+- cho [cafe đen đá](product) [s](size)
+- cho ông [sữa đá](product) loại [l](size)
+- cho em [cà phê đen đá](product) sai [m](size)
+- [đen đá](product) cỡ [vừa](size) đi em
+- [thạch vải](product) cỡ [ét](size) nha
+- cho tui [cafe đen nóng](product) [m](size)
+- [cà phê đen nóng](product) loại [s](size)
+- cho bác [đen nóng](product) sai [trung](size) đi ạ
+- [trà thanh đào](product) loại [mờ](size) nhé
+- cho bà [cafe sữa đá](product) size [lớn](size)
+- [trà thạch đào](product) cỡ [l](size) nhé em
+- cho tau [cà phê sữa đá](product) đi
+- [thạch đào](product) [m](size) nhé bạn
+- cho bác [trà thạch vải](product) cỡ [vừa](size)
+- [phin sữa đá](product) loại [mờ](size)
+- [cafe sữa đá](product) sai [trung](size)
+- cho [phin đen đá](product) [s](size) nha bạn
+- cho anh [đen đá](product) sai [m](size) đi ạ
+- cho em [cafe đen nóng](product) [trung bình](size) bạn ạ
+- [sen vàng](product) đi
+- cho chị [trà thanh đào](product) loại [s](size)
+- cho tau [cafe đen đá](product) [lờ](size)
+- cho tao [cà phê đen đá](product) loại [đại](size)
+- cho tôi [cà phê đen nóng](product) loại [l](size)
+- [cà phê sữa đá](product) [nhỏ](size) bạn ơi
+- [thạch vải](product) cỡ [to](size) nhé em
+- cho tui [đen nóng](product) size [bé](size) nha em
+- cho bà [trà sen vàng](product) cỡ [ét](size) nhé
+- [sữa đá](product) size [lớn](size)
+- [trà thạch đào](product) cỡ [l](size)
+- cho ông [phin đen nóng](product) [m](size) em ơi
+- cho tui [thạch đào](product) cỡ [vừa](size)
+- [trà thạch vải](product) loại [mờ](size) em ạ
+- [phin sữa đá](product) sai [trung](size)
+- cho bác [cafe sữa đá](product) [s](size) đi em
+- [phin đen đá](product) sai [m](size) đi bạn
+- [đen đá](product) [trung bình](size)
+- cho [cafe đen nóng](product) nha
+- cho anh [sen vàng](product) loại [s](size) đi em
+- cho bà [thạch vải](product) [trung bình](size) nha bạn
+- cho tao [cafe sữa đá](product) [nhỏ](size)
+- cho tau [thạch đào](product) cỡ [vừa](size) đi
+- [trà thanh đào](product) loại [mờ](size) đi ạ
+- [cà phê sữa đá](product) cỡ [l](size) nha em
+- [cà phê đen đá](product) sai [m](size) đi em
+- cho bác [phin đen đá](product) sai [trung](size)
+- cho tui [trà thạch vải](product) cỡ [to](size)
+- cho [cà phê đen nóng](product) loại [l](size) bạn ơi
+- cho em [phin sữa đá](product) [lờ](size) nhé bạn
+- cho ông [đen đá](product) cỡ [ét](size)
+- [trà sen vàng](product) size [bé](size) nha
+- cho tôi [phin đen nóng](product) loại [đại](size)
+- [cafe đen nóng](product) [s](size)
+- [sữa đá](product) loại [s](size)
+- cho anh [trà thạch đào](product)
+- cho chị [đen nóng](product) [m](size) đi bạn
+- [sen vàng](product) size [lớn](size)
+- [cafe đen đá](product) [trung bình](size) bạn ạ
+- cho tui [thạch vải](product) [nhỏ](size)
+- [cafe sữa đá](product) cỡ [vừa](size) nhé
+- cho bà [thạch đào](product) loại [mờ](size)
+- cho tao [trà thanh đào](product) cỡ [l](size) em ơi
+- cho tau [cà phê sữa đá](product) sai [m](size) đi em
+- [cà phê đen đá](product) sai [trung](size) em ạ
+- [phin đen đá](product) cỡ [to](size) nhé em
+- [trà thạch vải](product) loại [l](size)
+- cho chị [đen đá](product) cỡ [to](size) em ạ
+- cho tau [cafe đen nóng](product) cỡ [ét](size)
+- [trà sen vàng](product) [lờ](size) nha
+- [thạch đào](product) loại [đại](size) nhé em
+- cho tao [sữa đá](product) sai [trung](size) nha em
+- [phin đen nóng](product) size [bé](size)
+- [trà thạch đào](product) loại [mờ](size) nhé bạn
+- cho tui [phin đen đá](product) loại [l](size)
+- [cà phê đen đá](product) size [lớn](size) đi
+- [trà thanh đào](product) sai [m](size) nha bạn
+- cho tui [trà thạch vải](product)
+- [đen nóng](product) [m](size) đi ạ
+- cho [cà phê sữa đá](product) loại [s](size)
+- cho em [thạch vải](product) cỡ [l](size)
+- cho bà [cà phê đen nóng](product) [trung bình](size) em ơi
+- cho tôi [cafe đen đá](product) [nhỏ](size) đi bạn
+- cho ông [phin sữa đá](product) [s](size)
+- [cafe sữa đá](product) cỡ [vừa](size) đi em
+- [sen vàng](product) cỡ [to](size)
+- cho bác [đen đá](product) cỡ [ét](size)
+- cho anh [cafe đen nóng](product) [lờ](size) nhé
+- cho chị [trà sen vàng](product) loại [đại](size) đi em
+- cho tau [thạch đào](product) sai [trung](size)
+- [sữa đá](product) size [bé](size) bạn ơi
+- [phin đen nóng](product) loại [mờ](size) bạn ạ
+- cho tao [trà thạch đào](product) loại [l](size)
+- [phin đen đá](product) size [lớn](size)
+- cho chị [sữa đá](product) loại [đại](size) đi em
+- [thạch đào](product) [m](size)
+- cho bác [trà thạch đào](product) [nhỏ](size) đi bạn
+- cho [trà thanh đào](product) loại [s](size)
+- cho anh [phin đen nóng](product) [trung bình](size) đi ạ
+- [cà phê sữa đá](product) size [bé](size)
+- [thạch vải](product) cỡ [ét](size)
+- cho tau [đen nóng](product) cỡ [l](size) nhé em
+- cho ông [phin sữa đá](product) [lờ](size) nhé
+- cho tôi [cafe đen đá](product) loại [mờ](size) nha
+- [cafe đen nóng](product) size [lớn](size) nha bạn
+- [cà phê đen đá](product) cỡ [vừa](size) nha em
+- [đen đá](product) cỡ [to](size)
+- [cafe sữa đá](product) bạn ơi
+- [sen vàng](product) [s](size)
+- cho tui [trà thạch vải](product) loại [l](size) nhé bạn
+- cho tao [phin đen đá](product) sai [trung](size) đi em
+- cho bà [cà phê đen nóng](product) sai [m](size)
+- cho tui [trà sen vàng](product) loại [đại](size)
+- [sữa đá](product) [m](size)
+- cho em [thạch đào](product) [nhỏ](size) đi
+- cho chị [trà thạch đào](product) loại [s](size)
+- [trà thanh đào](product) [trung bình](size)
+- cho bác [phin đen nóng](product) size [bé](size)
+- cho [cà phê sữa đá](product) cỡ [ét](size) em ơi
+- cho anh [thạch vải](product) cỡ [l](size) em ạ
+- [đen nóng](product) [lờ](size) bạn ạ
+- [trà thạch đào](product) cỡ [vừa](size) nha em
+- cho anh [cà phê đen đá](product) [nhỏ](size)
+- cho tao [trà thanh đào](product) cỡ [to](size)
+- [phin sữa đá](product) size [lớn](size)
+- [cà phê đen nóng](product) [lờ](size)
+- cho tau [đen nóng](product) size [bé](size) bạn ạ
+- cho bà [phin đen đá](product) sai [trung](size) nhé bạn
+- cho em [cafe đen đá](product) cỡ [ét](size)
+- cho tôi [trà thạch vải](product) sai [m](size)
+- cho ông [phin đen nóng](product) [trung bình](size) bạn ơi
+- [sữa đá](product) loại [s](size) em ạ
+- [trà sen vàng](product) đi bạn
+- [sen vàng](product) cỡ [l](size) nha bạn
+- cho tui [thạch vải](product) loại [đại](size)
+- [đen đá](product) [s](size)
+- cho bác [thạch đào](product) loại [mờ](size) đi em
+- cho tui [cafe đen nóng](product) [m](size)
+- [cafe sữa đá](product) loại [l](size) em ơi
+- [cà phê sữa đá](product) cỡ [vừa](size) đi ạ
+- cho [trà thạch đào](product) [nhỏ](size) nha
+- cho chị [cà phê đen đá](product) cỡ [to](size)
+- [trà thanh đào](product) size [lớn](size) đi
+- cho anh [phin sữa đá](product) [lờ](size)
+- cho tao [cà phê đen nóng](product) size [bé](size) nhé
+- [đen nóng](product) sai [trung](size) nhé em
+- [phin đen đá](product) cỡ [ét](size)
+- cho tau [cafe đen đá](product) sai [m](size) đi em
+- cho chị [trà sen vàng](product)
+- [mười chín](amount) [đen đá](product) bạn ơi
+- cho ông [10](amount)ly [trà thanh đào](product) em ạ
+- [19](amount) [phin sữa đá](product)
+- [mười tám](amount)chiếc [trà thạch đào](product)
+- cho tôi [5](amount)chiếc [đen nóng](product)
+- cho tau [mười lăm](amount)cốc [cafe đen đá](product) bạn ạ
+- cho tui [mười bảy](amount) [thạch đào](product)
+- [chín](amount)chiếc [cà phê đen nóng](product)
+- [16](amount) [trà thạch vải](product)
+- [9](amount)chiếc [sữa đá](product) đi em
+- cho em [hai](amount)cốc [cafe sữa đá](product) đi bạn
+- cho bà [mười sáu](amount)chiếc [cafe đen nóng](product) em ơi
+- cho tui [một](amount)cốc [phin đen đá](product) nha
+- cho anh [bảy](amount)chiếc [sen vàng](product) nhé em
+- cho [sáu](amount)chiếc [phin đen nóng](product) nhé
+- cho bác [11](amount)cốc [cà phê đen đá](product) đi em
+- [năm](amount)chiếc [thạch vải](product)
+- [hai mươi](amount)cốc [cà phê sữa đá](product)
+- cho tao [12](amount)ly [trà sen vàng](product) nha bạn
+- [mười](amount)chiếc [đen đá](product) nhé bạn
+- cho chị [2](amount) [trà thanh đào](product)
+- [15](amount)ly [phin sữa đá](product)
+- cho ông [8](amount)cốc [trà thạch đào](product) đi ạ
+- [18](amount)ly [đen nóng](product) nha em
+- [tám](amount) [cafe đen đá](product) đi
+- cho tôi [3](amount)ly [thạch đào](product)
+- cho tau [mười bốn](amount) [cà phê đen nóng](product)
+- cho tui [14](amount) [trà thạch vải](product) bạn ơi
+- [6](amount)cốc [sữa đá](product) em ạ
+- [17](amount)ly [cafe sữa đá](product)
+- [ba](amount)cốc [cafe đen nóng](product)
+- cho em [13](amount)ly [phin đen đá](product)
+- cho bà [4](amount)ly [sen vàng](product) bạn ạ
+- cho tui [bốn](amount) [phin đen nóng](product)
+- cho anh [1](amount)chiếc [cà phê đen đá](product)
+- cho [mười ba](amount)chiếc [thạch vải](product)
+- cho bác [20](amount)ly [cà phê sữa đá](product) đi em
+- [mười hai](amount) [trà sen vàng](product) đi bạn
+- [7](amount) [đen đá](product) em ơi
+- cho tao [mười một](amount)ly [trà thanh đào](product) nha
+- [ba](amount)cốc [cà phê sữa đá](product)
+- [mười sáu](amount)chiếc [đen đá](product)
+- cho tau [chín](amount)chiếc [sen vàng](product) em ạ
+- [mười chín](amount) [phin sữa đá](product)
+- [20](amount)ly [phin đen nóng](product)
+- [19](amount) [trà thạch đào](product) đi ạ
+- [16](amount) [trà thạch vải](product) đi em
+- cho [mười tám](amount)chiếc [trà sen vàng](product)
+- cho bác [10](amount)ly [sữa đá](product) nha
+- cho tui [3](amount)ly [cafe sữa đá](product)
+- cho chị [tám](amount) [cafe đen đá](product) đi em
+- cho tôi [18](amount)ly [trà thanh đào](product) bạn ạ
+- cho tao [sáu](amount)chiếc [đen nóng](product)
+- cho tui [một](amount)cốc [cafe đen nóng](product) đi bạn
+- cho anh [17](amount)ly [phin đen đá](product) nha em
+- cho bà [5](amount)chiếc [thạch vải](product)
+- [6](amount)cốc [cà phê đen đá](product) đi
+- cho ông [thạch đào](product) nhé bạn
+- [11](amount)cốc [cà phê đen nóng](product) nhé em
+- cho em [13](amount)ly [cà phê sữa đá](product) nha bạn
+- [14](amount) [đen đá](product)
+- [hai mươi](amount)cốc [sen vàng](product)
+- [bảy](amount)chiếc [phin sữa đá](product)
+- cho tau [mười một](amount)ly [phin đen nóng](product) nhé
+- [hai](amount)cốc [trà thạch đào](product) em ơi
+- [9](amount)chiếc [trà thạch vải](product) bạn ơi
+- [mười bảy](amount) [trà sen vàng](product)
+- [1](amount)chiếc [sữa đá](product)
+- cho [mười](amount)chiếc [cafe sữa đá](product)
+- cho bác [mười lăm](amount)cốc [cafe đen đá](product) em ạ
+- cho tui [4](amount)ly [trà thanh đào](product)
+- cho chị [mười ba](amount)chiếc [đen nóng](product)
+- cho tôi [8](amount)cốc [cafe đen nóng](product) đi ạ
+- cho tao [năm](amount)chiếc [phin đen đá](product) đi em
+- cho tui [15](amount)ly [thạch vải](product)
+- cho anh [2](amount) [cà phê đen đá](product) nha
+- cho bà [mười hai](amount) [thạch đào](product)
+- [mười bốn](amount) [cà phê đen nóng](product) đi em
+- cho ông [12](amount)ly [cà phê sữa đá](product) bạn ạ
+- [7](amount) [đen đá](product)
+- cho em [bốn](amount) [sen vàng](product) đi bạn
+- cho tao [mười bảy](amount) [cafe đen đá](product)
+- cho tau [13](amount)ly [trà thạch đào](product) nhé bạn
+- [9](amount)chiếc [trà thanh đào](product) nhé
+- [một](amount)cốc [thạch vải](product)
+- [bảy](amount)chiếc [cafe đen nóng](product) đi em
+- cho bà [2](amount) [cà phê đen nóng](product) đi em
+- cho tôi [16](amount) [đen nóng](product)
+- cho chị [mười bốn](amount) [trà thạch vải](product) bạn ạ
+- [15](amount)ly [cà phê sữa đá](product) bạn ơi
+- [1](amount)chiếc [đen đá](product) đi
+- cho [18](amount)ly [phin sữa đá](product)
+- [3](amount)ly [phin đen đá](product)
+- cho em [7](amount) [trà sen vàng](product)
+- [hai](amount)cốc [sữa đá](product) nha
+- cho anh [phin đen nóng](product) em ạ
+- cho ông [chín](amount)chiếc [cà phê đen đá](product) em ơi
+- [sáu](amount)chiếc [thạch đào](product) đi bạn
+- cho bác [mười một](amount)ly [sen vàng](product)
+- [17](amount)ly [cafe sữa đá](product) nha em
+- cho tui [mười lăm](amount)cốc [cafe đen đá](product)
+- cho tui [mười sáu](amount)chiếc [trà thạch đào](product)
+- cho tao [4](amount)ly [trà thanh đào](product) nhé em
+- cho tau [tám](amount) [thạch vải](product)
+- [mười ba](amount)chiếc [cafe đen nóng](product)
+- [năm](amount)chiếc [cà phê đen nóng](product) nha bạn
+- [mười hai](amount) [đen nóng](product) đi ạ
+- cho bà [mười](amount)chiếc [trà thạch vải](product)
+- cho tôi [12](amount)ly [cà phê sữa đá](product)
+- cho chị [20](amount)ly [đen đá](product) nhé bạn
+- [mười tám](amount)chiếc [phin sữa đá](product) nhé
+- [ba](amount)cốc [phin đen đá](product)
+- cho [8](amount)cốc [trà sen vàng](product) đi em
+- [5](amount)chiếc [sữa đá](product) đi em
+- cho em [mười chín](amount) [phin đen nóng](product)
+- [10](amount)ly [cà phê đen đá](product) bạn ạ
+- cho anh [11](amount)cốc [thạch đào](product) bạn ơi
+- cho ông [bốn](amount) [sen vàng](product) đi
+- [6](amount)cốc [cafe sữa đá](product)
+- cho bác [19](amount) [cafe đen đá](product)
+- [14](amount) [trà thạch đào](product)
+- cho tui [hai mươi](amount)cốc [trà thanh đào](product) nha
+- [sáu](amount)chiếc [trà thạch vải](product) đi em
+- cho bác [20](amount)ly [cafe đen đá](product) bạn ạ
+- [hai mươi](amount)cốc [sen vàng](product)
+- [một](amount)cốc [phin đen nóng](product) em ạ
+- cho ông [3](amount)ly [thạch vải](product) nha
+- cho tau [chín](amount)chiếc [sữa đá](product) đi bạn
+- cho em [10](amount)ly [phin đen đá](product)
+- cho tôi [7](amount) [cà phê đen nóng](product)
+- [mười sáu](amount)chiếc [thạch đào](product)
+- cho tui [14](amount) [cafe đen nóng](product)
+- [mười](amount)chiếc [đen đá](product) em ơi
+- cho [17](amount)ly [phin sữa đá](product) đi
+- [mười một](amount)ly [đen nóng](product)
+- [2](amount) [cafe sữa đá](product) nha em
+- cho anh [mười hai](amount) [cà phê sữa đá](product) nhé em
+- cho chị [1](amount)chiếc [trà sen vàng](product) nhé
+- cho bà [6](amount)cốc [trà thanh đào](product) bạn ơi
+- [11](amount)cốc [cà phê đen đá](product) nhé bạn
+- cho tui [9](amount)chiếc [trà thạch đào](product) đi em
+- cho tao [13](amount)ly [trà thạch vải](product)
+- [4](amount)ly [cafe đen đá](product)
+- [19](amount) [sen vàng](product) đi ạ
+- cho bác [mười ba](amount)chiếc [phin đen nóng](product)
+- [ba](amount)cốc [thạch vải](product) nha bạn
+- [năm](amount)chiếc [sữa đá](product)
+- cho ông [16](amount) [phin đen đá](product)
+- cho tau [hai](amount)cốc [cà phê đen nóng](product)
+- cho em [mười chín](amount) [thạch đào](product) đi em
+- cho tôi [mười tám](amount)chiếc [cafe đen nóng](product) bạn ạ
+- [12](amount)ly [đen đá](product)
+- cho tui [bảy](amount)chiếc [phin sữa đá](product) em ạ
+- [mười bốn](amount) [đen nóng](product) nha
+- cho [5](amount)chiếc [cafe sữa đá](product) đi bạn
+- [mười bảy](amount) [cà phê sữa đá](product)
+- [8](amount)cốc [trà sen vàng](product)
+- cho anh [tám](amount) [trà thanh đào](product)
+- cho chị [cà phê đen đá](product)
+- cho bà [mười lăm](amount)cốc [trà thạch đào](product) em ơi
+- [15](amount)ly [trà thạch vải](product) đi
+- cho tui [18](amount)ly [cafe đen đá](product)
+- cho tao [bốn](amount) [sen vàng](product) nha em
+- cho anh [sáu](amount)chiếc [trà sen vàng](product)
+- [14](amount) [thạch vải](product) bạn ạ
+- [chín](amount)chiếc [trà thạch đào](product)
+- [15](amount)ly [cafe sữa đá](product) đi em
+- cho tau [8](amount)cốc [đen đá](product) đi ạ
+- cho tui [mười chín](amount) [cafe đen đá](product)
+- cho ông [19](amount) [trà thanh đào](product) em ạ
+- [mười tám](amount)chiếc [phin sữa đá](product) đi bạn
+- cho tui [mười sáu](amount)chiếc [sữa đá](product) nhé bạn
+- [3](amount)ly [trà thạch vải](product)
+- cho tao [một](amount)cốc [sen vàng](product)
+- cho [mười lăm](amount)cốc [đen nóng](product) đi em
+- [20](amount)ly [cà phê đen đá](product) nha bạn
+- [cafe đen nóng](product) nha
+- cho em [mười bảy](amount) [phin đen đá](product) em ơi
+- cho bà [6](amount)cốc [cà phê đen nóng](product)
+- cho chị [mười](amount)chiếc [cà phê sữa đá](product)
+- [12](amount)ly [thạch đào](product) nhé em
+- cho bác [11](amount)cốc [phin đen nóng](product)
+- cho tôi [năm](amount)chiếc [trà sen vàng](product)
+- [mười ba](amount)chiếc [thạch vải](product) đi
+- cho anh [4](amount)ly [trà thạch đào](product)
+- [hai mươi](amount)cốc [cafe sữa đá](product) nha em
+- [mười bốn](amount) [đen đá](product)
+- [10](amount)ly [cafe đen đá](product) nhé
+- cho tau [13](amount)ly [trà thanh đào](product)
+- cho tui [mười một](amount)ly [phin sữa đá](product) bạn ơi
+- cho ông [7](amount) [sữa đá](product)
+- [tám](amount) [trà thạch vải](product) bạn ạ
+- cho tui [bảy](amount)chiếc [sen vàng](product)
+- [mười hai](amount) [đen nóng](product) đi em
+- cho tao [17](amount)ly [cà phê đen đá](product) đi ạ
+- cho [18](amount)ly [cafe đen nóng](product)
+- [ba](amount)cốc [phin đen đá](product) em ạ
+- [hai](amount)cốc [cà phê đen nóng](product) đi bạn
+- cho em [9](amount)chiếc [cà phê sữa đá](product) nhé bạn
+- cho bà [16](amount) [thạch đào](product)
+- cho chị [2](amount) [phin đen nóng](product)
+- [bốn](amount) [trà sen vàng](product) đi em
+- cho bác [5](amount)chiếc [thạch vải](product) nha bạn
+- cho tôi [1](amount)chiếc [trà thạch đào](product) nha
+- [18](amount)ly [trà thanh đào](product) nha
+- [5](amount)chiếc [cà phê đen đá](product)
+- [11](amount)cốc [cà phê đen nóng](product) nha em
+- cho tui [mười](amount)chiếc [trà sen vàng](product)
+- cho ông [ba](amount)cốc [phin sữa đá](product) em ạ
+- cho tui [mười ba](amount)chiếc [cafe sữa đá](product)
+- cho anh [12](amount)ly [trà thạch đào](product) nhé
+- cho tao [15](amount)ly [sữa đá](product) bạn ạ
+- [mười bảy](amount) [đen đá](product)
+- [14](amount) [cafe đen nóng](product)
+- [mười hai](amount) [trà thạch vải](product) nhé em
+- cho tôi [bảy](amount)chiếc [sen vàng](product) đi em
+- cho tau [1](amount)chiếc [cafe đen đá](product) đi ạ
+- cho [2](amount) [phin đen nóng](product) đi bạn
+- [bốn](amount) [thạch đào](product) em ơi
+- cho chị [sáu](amount)chiếc [cà phê sữa đá](product)
+- [9](amount)chiếc [thạch vải](product)
+- cho bác [19](amount) [phin đen đá](product)
+- [chín](amount)chiếc [đen nóng](product)
+- cho em [8](amount)cốc [trà thanh đào](product)
+- cho bà [hai](amount)cốc [cà phê đen đá](product)
+- [tám](amount) [cà phê đen nóng](product) nhé bạn
+- [10](amount)ly [trà sen vàng](product) đi
+- [17](amount)ly [phin sữa đá](product)
+- cho tui [cafe sữa đá](product) đi em
+- cho ông [13](amount)ly [trà thạch đào](product) bạn ơi
+- cho tui [6](amount)cốc [sữa đá](product) nha bạn
+- cho anh [4](amount)ly [đen đá](product) nha
+- cho tao [mười tám](amount)chiếc [cafe đen nóng](product)
+- [3](amount)ly [trà thạch vải](product) nha em
+- [20](amount)ly [sen vàng](product)
+- [16](amount) [cafe đen đá](product) em ạ
+- cho tôi [hai mươi](amount)cốc [phin đen nóng](product)
+- cho tau [mười một](amount)ly [thạch đào](product) nhé
+- cho [mười lăm](amount)cốc [cà phê sữa đá](product) bạn ạ
+- [mười bốn](amount) [thạch vải](product)
+- cho chị [năm](amount)chiếc [phin đen đá](product)
+- [7](amount) [đen nóng](product) nhé em
+- cho bác [một](amount)cốc [trà thanh đào](product) đi em
+- [mười chín](amount) [cà phê đen đá](product) đi ạ
+- cho em [mười sáu](amount)chiếc [cà phê đen nóng](product) đi bạn
+- cho tui [17](amount)ly [sữa đá](product)
+- cho anh [18](amount)ly [cà phê sữa đá](product)
+- [13](amount)ly [cà phê đen đá](product) em ơi
+- cho chị [một](amount)cốc [cafe sữa đá](product) nhé
+- cho tôi [chín](amount)chiếc [trà thạch đào](product)
+- [sáu](amount)chiếc [đen nóng](product) nhé bạn
+- cho tau [16](amount) [sen vàng](product)
+- [9](amount)chiếc [đen đá](product)
+- [bốn](amount) [cà phê đen nóng](product) nhé em
+- cho ông [19](amount) [trà thanh đào](product)
+- [năm](amount)chiếc [phin đen đá](product) đi ạ
+- cho tui [15](amount)ly [thạch đào](product)
+- cho [2](amount) [trà thạch vải](product)
+- cho bà [mười một](amount)ly [phin đen nóng](product) nha
+- cho tao [10](amount)ly [thạch vải](product) nha em
+- cho bác [tám](amount) [cafe đen nóng](product) bạn ơi
+- cho em [7](amount) [phin sữa đá](product)
+- [ba](amount)cốc [cafe đen đá](product) đi
+- [4](amount)ly [trà sen vàng](product) đi em
+- [mười sáu](amount)chiếc [sữa đá](product) nha bạn
+- [mười ba](amount)chiếc [cà phê sữa đá](product)
+- cho tui [cà phê đen đá](product) bạn ạ
+- cho anh [14](amount) [cafe sữa đá](product) em ạ
+- [1](amount)chiếc [trà thạch đào](product) đi em
+- cho chị [mười bốn](amount) [đen nóng](product)
+- cho tôi [mười tám](amount)chiếc [sen vàng](product) đi bạn
+- [11](amount)cốc [đen đá](product)
+- cho tau [8](amount)cốc [cà phê đen nóng](product)
+- [mười bảy](amount) [trà thanh đào](product)
+- [mười lăm](amount)cốc [phin đen đá](product) em ơi
+- cho ông [mười](amount)chiếc [thạch đào](product) nhé
+- [20](amount)ly [trà thạch vải](product)
+- cho tui [5](amount)chiếc [phin đen nóng](product) nhé bạn
+- cho [12](amount)ly [thạch vải](product)
+- cho bà [bảy](amount)chiếc [cafe đen nóng](product)
+- cho tao [mười hai](amount) [phin sữa đá](product) nhé em
+- cho bác [3](amount)ly [cafe đen đá](product)
+- cho em [mười chín](amount) [trà sen vàng](product) đi ạ
+- [6](amount)cốc [sữa đá](product)
+- [hai](amount)cốc [cà phê sữa đá](product)
+- [hai mươi](amount)cốc [cà phê đen đá](product) nha
+- cho tôi [chín](amount)chiếc [đen đá](product) nhé
+- cho tao [16](amount) [trà thanh đào](product) em ơi
+- [4](amount)ly [sen vàng](product)
+- cho bà [mười lăm](amount)cốc [đen nóng](product)
+- cho bác [mười một](amount)ly [phin sữa đá](product)
+- cho em [17](amount)ly [thạch đào](product)
+- [5](amount)chiếc [cafe đen đá](product) nha bạn
+- cho tui [9](amount)chiếc [trà sen vàng](product) nha em
+- [hai mươi](amount)cốc [phin đen nóng](product)
+- [2](amount) [cafe đen nóng](product)
+- [mười tám](amount)chiếc [phin đen đá](product)
+- cho tau [19](amount) [thạch vải](product) đi em
+- cho tui [mười](amount)chiếc [cafe sữa đá](product) bạn ạ
+- [15](amount)ly [sữa đá](product)
+- [năm](amount)chiếc [trà thạch vải](product) đi
+- cho [mười bốn](amount) [cà phê sữa đá](product) nha
+- [14](amount) [cà phê đen đá](product) em ạ
+- [mười chín](amount) [cà phê đen nóng](product)
+- cho anh [8](amount)cốc [trà thạch đào](product) bạn ơi
+- cho chị [3](amount)ly [đen đá](product)
+- cho ông [11](amount)cốc [trà thanh đào](product)
+- cho tôi [tám](amount) [sen vàng](product) đi em
+- cho tao [hai](amount)cốc [đen nóng](product)
+- [1](amount)chiếc [phin sữa đá](product) đi bạn
+- cho bà [một](amount)cốc [thạch đào](product) đi ạ
+- cho bác [ba](amount)cốc [cafe đen đá](product) nhé bạn
+- cho em [mười hai](amount) [trà sen vàng](product) nhé em
+- [12](amount)ly [phin đen nóng](product) nhé
+- cho tui [cafe đen nóng](product) em ơi
+- [mười sáu](amount)chiếc [phin đen đá](product)
+- [6](amount)cốc [thạch vải](product)
+- [mười ba](amount)chiếc [cafe sữa đá](product)
+- cho tau [bảy](amount)chiếc [sữa đá](product)
+- cho tui [13](amount)ly [trà thạch vải](product) nha bạn
+- [10](amount)ly [cà phê sữa đá](product) nha em
+- [mười bảy](amount) [cà phê đen đá](product)
+- cho [bốn](amount) [cà phê đen nóng](product)
+- [20](amount)ly [trà thạch đào](product)
+- [18](amount)ly [đen đá](product) đi em
+- cho anh [7](amount) [trà thanh đào](product) bạn ạ
+- cho chị [sáu](amount)chiếc [sen vàng](product)
+- cho anh [15](amount)ly [trà sen vàng](product) em ạ
+- cho [bốn](amount) [cà phê sữa đá](product) đi bạn
+- cho tui [8](amount)cốc [đen nóng](product) đi
+- cho chị [trà thạch vải](product) đi em
+- cho ông [hai](amount)cốc [sen vàng](product)
+- [3](amount)ly [cafe đen nóng](product) bạn ạ
+- cho bà [7](amount) [cà phê đen đá](product) em ơi
+- [mười tám](amount)chiếc [trà thanh đào](product)
+- cho tui [mười một](amount)ly [phin sữa đá](product) nhé
+- cho tao [18](amount)ly [cà phê đen nóng](product)
+- cho tau [mười chín](amount) [thạch vải](product) đi ạ
+- cho bác [17](amount)ly [sữa đá](product)
+- [14](amount) [cafe đen đá](product)
+- cho tôi [sáu](amount)chiếc [phin đen nóng](product) nha
+- [ba](amount)cốc [thạch đào](product) nha bạn
+- [4](amount)ly [cafe sữa đá](product)
+- cho em [mười sáu](amount)chiếc [phin đen đá](product)
+- [mười ba](amount)chiếc [trà thạch đào](product)
+- [19](amount) [đen đá](product) bạn ơi
+- [12](amount)ly [trà sen vàng](product)
+- [6](amount)cốc [cà phê sữa đá](product)
+- cho anh [tám](amount) [đen nóng](product)
+- cho [mười](amount)chiếc [trà thạch vải](product) nha em
+- cho tui [mười bốn](amount) [sen vàng](product) nhé bạn
+- cho chị [20](amount)ly [cafe đen nóng](product) đi em
+- cho ông [2](amount) [cà phê đen đá](product)
+- [5](amount)chiếc [trà thanh đào](product) nhé em
+- cho bà [chín](amount)chiếc [phin sữa đá](product) em ạ
+- [mười bảy](amount) [cà phê đen nóng](product) đi bạn
+- cho tui [9](amount)chiếc [thạch vải](product) đi
+- cho tao [năm](amount)chiếc [sữa đá](product) đi em
+- cho tau [hai mươi](amount)cốc [cafe đen đá](product)
+- cho bác [một](amount)cốc [phin đen nóng](product) bạn ạ
+- [11](amount)cốc [thạch đào](product) em ơi
+- cho tôi [13](amount)ly [cafe sữa đá](product)
+- [16](amount) [phin đen đá](product) nhé
+- [1](amount)chiếc [trà thạch đào](product)
+- cho em [bảy](amount)chiếc [đen đá](product) đi ạ
+- [mười lăm](amount)cốc [trà sen vàng](product)
+- [10](amount)ly [cà phê sữa đá](product)
+- [mười hai](amount) [đen nóng](product) nha
+- cho anh [bốn](amount) [cafe đen đá](product)
+- [20](amount)ly [cafe sữa đá](product)
+- cho tau [mười sáu](amount)chiếc [phin sữa đá](product) đi em
+- cho tui [13](amount)ly [cà phê sữa đá](product) đi bạn
+- cho ông [mười hai](amount) [đen nóng](product)
+- cho [4](amount)ly [thạch đào](product) đi
+- [19](amount) [phin đen nóng](product) nha bạn
+- cho tui [hai mươi](amount)cốc [cà phê đen đá](product) nhé bạn
+- cho bà [5](amount)chiếc [trà thạch vải](product) em ơi
+- [15](amount)ly [sen vàng](product)
+- [3](amount)ly [sữa đá](product)
+- [18](amount)ly [trà sen vàng](product) nha
+- [11](amount)cốc [cafe đen nóng](product) nhé
+- cho chị [17](amount)ly [trà thạch đào](product)
+- cho bác [mười ba](amount)chiếc [đen đá](product)
+- cho em [2](amount) [cà phê đen nóng](product)
+- [mười chín](amount) [thạch vải](product)
+- cho tôi [1](amount)chiếc [trà thanh đào](product) em ạ
+- [chín](amount)chiếc [phin đen đá](product)
+- cho tao [mười lăm](amount)cốc [cafe đen đá](product) đi ạ
+- [mười bảy](amount) [cafe sữa đá](product) nhé em
+- cho anh [tám](amount) [phin sữa đá](product) nha em
+- [10](amount)ly [cà phê sữa đá](product) bạn ơi
+- cho tau [năm](amount)chiếc [đen nóng](product)
+- cho tui [14](amount) [thạch đào](product) bạn ạ
+- cho ông [16](amount) [phin đen nóng](product)
+- cho [mười tám](amount)chiếc [cà phê đen đá](product) đi em
+- [sáu](amount)chiếc [trà thạch vải](product)
+- cho tui [sen vàng](product)
+- cho bà [một](amount)cốc [sữa đá](product) đi em
+- [mười một](amount)ly [trà sen vàng](product) đi bạn
+- [9](amount)chiếc [cafe đen nóng](product)
+- [ba](amount)cốc [trà thạch đào](product) đi
+- [mười bốn](amount) [đen đá](product) nha bạn
+- cho chị [6](amount)cốc [cà phê đen nóng](product) nhé bạn
+- cho bác [8](amount)cốc [thạch vải](product) em ơi
+- cho em [bảy](amount)chiếc [trà thanh đào](product)
+- [7](amount) [phin đen đá](product)
+- cho tôi [hai](amount)cốc [cafe đen đá](product) nha
+- [12](amount)ly [cafe sữa đá](product) nhé
+- cho tao [mười](amount)chiếc [phin sữa đá](product)
+- cho tui [19](amount) [thạch đào](product)
+- cho tui [3](amount)ly [sen vàng](product) bạn ơi
+- [4](amount)ly [cà phê đen đá](product) nhé bạn
+- cho bà [13](amount)ly [cafe đen đá](product)
+- cho chị [mười lăm](amount)cốc [trà thạch vải](product) nha
+- cho bác [16](amount) [cà phê sữa đá](product) đi bạn
+- cho ông [hai](amount)cốc [phin đen nóng](product)
+- [mười tám](amount)chiếc [sữa đá](product)
+- [2](amount) [trà thanh đào](product) đi em
+- [12](amount)ly [đen đá](product)
+- cho [phin đen đá](product) đi ạ
+- cho tao [20](amount)ly [cafe đen nóng](product)
+- [sáu](amount)chiếc [phin sữa đá](product) nhé em
+- [mười hai](amount) [trà thạch đào](product) bạn ạ
+- cho anh [6](amount)cốc [thạch vải](product) đi
+- [hai mươi](amount)cốc [cà phê đen nóng](product)
+- cho tôi [1](amount)chiếc [cafe sữa đá](product)
+- [mười một](amount)ly [trà sen vàng](product)
+- cho tau [chín](amount)chiếc [đen nóng](product) nha bạn
+- [18](amount)ly [thạch đào](product) em ạ
+- cho em [17](amount)ly [sen vàng](product)
+- cho tui [mười bảy](amount) [cà phê đen đá](product) em ơi
+- cho tui [14](amount) [cafe đen đá](product) đi em
+- [mười ba](amount)chiếc [trà thạch vải](product)
+- cho bà [5](amount)chiếc [cà phê sữa đá](product) nha em
+- cho chị [8](amount)cốc [phin đen nóng](product)
+- cho bác [năm](amount)chiếc [sữa đá](product) nhé
+- cho ông [15](amount)ly [trà thanh đào](product)
+- [9](amount)chiếc [đen đá](product) bạn ơi
+- [10](amount)ly [phin đen đá](product) nhé bạn
+- [bảy](amount)chiếc [cafe đen nóng](product)
+- cho [ba](amount)cốc [phin sữa đá](product) nha
+- cho tao [mười chín](amount) [trà thạch đào](product) đi bạn
+- [11](amount)cốc [thạch vải](product)
+- [mười sáu](amount)chiếc [cà phê đen nóng](product)
+- cho anh [tám](amount) [cafe sữa đá](product) đi em
+- [một](amount)cốc [trà sen vàng](product)
+- cho tôi [7](amount) [đen nóng](product) đi ạ
+- [mười bốn](amount) [thạch đào](product)
+- cho tau [mười](amount)chiếc [sen vàng](product) nhé em
+- [bốn](amount) [cà phê đen đá](product) bạn ạ
+- cho tôi [15](amount)ly [cafe sữa đá](product)
+- cho bà [ba](amount)cốc [cafe đen nóng](product) đi bạn
+- [mười](amount)chiếc [cà phê đen nóng](product) nhé
+- cho anh [tám](amount) [trà sen vàng](product) bạn ạ
+- [3](amount)ly [sen vàng](product) nhé bạn
+- [hai mươi](amount)cốc [phin đen đá](product)
+- cho em [mười sáu](amount)chiếc [trà thạch đào](product) nha
+- cho chị [16](amount) [đen nóng](product)
+- [6](amount)cốc [phin đen nóng](product)
+- [mười bốn](amount) [cà phê sữa đá](product)
+- cho tao [10](amount)ly [trà thạch vải](product) nha em
+- [mười chín](amount) [thạch vải](product) đi em
+- [8](amount)cốc [đen đá](product)
+- cho ông [năm](amount)chiếc [cafe đen đá](product) đi em
+- cho [mười hai](amount) [cà phê đen đá](product)
+- [mười lăm](amount)cốc [thạch đào](product) em ạ
+- cho bác [18](amount)ly [trà thanh đào](product) bạn ơi
+- [mười bảy](amount) [sữa đá](product)
+- cho tau [một](amount)cốc [phin sữa đá](product) đi ạ
+- cho tui [5](amount)chiếc [cafe sữa đá](product)
+- cho tui [2](amount) [cafe đen nóng](product)
+- cho tôi [mười tám](amount)chiếc [cà phê đen nóng](product) em ơi
+- cho bà [1](amount)chiếc [trà sen vàng](product)
+- [11](amount)cốc [sen vàng](product) đi
+- cho anh [sáu](amount)chiếc [phin đen đá](product)
+- [19](amount) [trà thạch đào](product) nhé em
+- [14](amount) [đen nóng](product) nha bạn
+- cho em [mười ba](amount)chiếc [phin đen nóng](product)
+- cho chị [4](amount)ly [cà phê sữa đá](product) đi bạn
+- [mười một](amount)ly [trà thạch vải](product) nhé
+- [bốn](amount) [thạch vải](product) bạn ạ
+- cho tao [7](amount) [đen đá](product) nhé bạn
+- [chín](amount)chiếc [cafe đen đá](product)
+- [12](amount)ly [cà phê đen đá](product) nha
+- cho ông [thạch đào](product)
+- cho [9](amount)chiếc [trà thanh đào](product)
+- [bảy](amount)chiếc [sữa đá](product)
+- cho bác [17](amount)ly [phin sữa đá](product) nha em
+- [hai](amount)cốc [cafe sữa đá](product) đi em
+- cho tau [13](amount)ly [cafe đen nóng](product)
+- cho tui [20](amount)ly [cà phê đen nóng](product) đi em
+- [2](amount) [phin đen nóng](product)
+- [hai](amount)cốc [trà sen vàng](product)
+- [14](amount) [trà thanh đào](product)
+- cho tôi [6](amount)cốc [sen vàng](product)
+- cho bà [19](amount) [cafe đen nóng](product) đi ạ
+- cho em [một](amount)cốc [phin sữa đá](product)
+- cho anh [mười hai](amount) [đen nóng](product) đi em
+- cho tao [8](amount)cốc [cà phê đen đá](product) bạn ơi
+- [15](amount)ly [sữa đá](product)
+- cho [17](amount)ly [cafe sữa đá](product) nhé em
+- [mười một](amount)ly [đen đá](product) đi bạn
+- [mười bảy](amount) [cà phê sữa đá](product) nha bạn
+- [mười tám](amount)chiếc [thạch đào](product) bạn ạ
+- cho tui [1](amount)chiếc [phin đen đá](product) nha
+- cho chị [12](amount)ly [trà thạch đào](product) nhé
+- cho ông [7](amount) [thạch vải](product) đi
+- cho bác [16](amount) [cafe đen đá](product)
+- [mười sáu](amount)chiếc [trà thạch vải](product) đi em
+- cho tui [11](amount)cốc [cà phê đen nóng](product)
+- cho tau [ba](amount)cốc [phin đen nóng](product) em ạ
+- [trà sen vàng](product)
+- [mười lăm](amount)cốc [trà thanh đào](product)
+- [mười chín](amount) [sen vàng](product)
+- [tám](amount) [cafe đen nóng](product) em ơi
+- cho tôi [20](amount)ly [phin sữa đá](product) nha em
+- cho bà [sáu](amount)chiếc [đen nóng](product) nhé bạn
+- cho em [5](amount)chiếc [cà phê đen đá](product)
+- cho anh [4](amount)ly [sữa đá](product)
+- cho tao [mười bốn](amount) [cafe sữa đá](product)
+- [9](amount)chiếc [đen đá](product)
+- cho [18](amount)ly [cà phê sữa đá](product)
+- [13](amount)ly [thạch đào](product) đi ạ
+- [mười ba](amount)chiếc [phin đen đá](product)
+- [mười](amount)chiếc [trà thạch đào](product) đi em
+- cho tui [hai mươi](amount)cốc [thạch vải](product) bạn ơi
+- cho chị [bốn](amount) [cafe đen đá](product)
+- cho ông [10](amount)ly [trà thạch vải](product) nhé em
+- cho bác [3](amount)ly [cà phê đen nóng](product) đi bạn
+- [năm](amount)chiếc [phin đen nóng](product) nha bạn
+- cho tui [bảy](amount)chiếc [trà sen vàng](product) bạn ạ
+- cho tau [chín](amount)chiếc [trà thanh đào](product) nha
+- [ba](amount)cốc [phin đen nóng](product) đi em
+- cho tui [mười lăm](amount)cốc [cafe đen nóng](product)
+- [bốn](amount) [phin đen đá](product) nhé
+- cho chị [cà phê đen nóng](product) đi em
+- cho anh [4](amount)ly [cà phê đen đá](product)
+- [tám](amount) [sữa đá](product) em ơi
+- [20](amount)ly [cafe đen đá](product)
+- cho ông [14](amount) [đen nóng](product) bạn ạ
+- cho tui [5](amount)chiếc [trà sen vàng](product)
+- [một](amount)cốc [phin sữa đá](product)
+- cho bà [mười](amount)chiếc [thạch đào](product)
+- [mười bốn](amount) [trà thạch đào](product)
+- [mười bảy](amount) [trà thanh đào](product) nhé em
+- cho tao [hai mươi](amount)cốc [thạch vải](product) em ạ
+- cho bác [mười ba](amount)chiếc [trà thạch vải](product) bạn ơi
+- cho tôi [mười tám](amount)chiếc [sen vàng](product)
+- cho tau [mười một](amount)ly [đen đá](product) nhé bạn
+- [mười hai](amount) [cafe sữa đá](product)
+- [năm](amount)chiếc [cà phê sữa đá](product) nha em
+- cho [11](amount)cốc [phin đen nóng](product) nha bạn
+- cho em [19](amount) [cafe đen nóng](product)
+- [2](amount) [phin đen đá](product)
+- cho tui [chín](amount)chiếc [cà phê đen nóng](product)
+- [16](amount) [cà phê đen đá](product) nha
+- cho chị [17](amount)ly [sữa đá](product) đi ạ
+- cho anh [3](amount)ly [cafe đen đá](product) đi
+- [18](amount)ly [đen nóng](product) đi bạn
+- [1](amount)chiếc [trà sen vàng](product) đi em
+- cho ông [15](amount)ly [phin sữa đá](product)
+- cho tui [6](amount)cốc [thạch đào](product) nhé
+- [hai](amount)cốc [trà thạch đào](product) đi em
+- cho bà [bảy](amount)chiếc [trà thanh đào](product)
+- [13](amount)ly [thạch vải](product) em ơi
+- [7](amount) [trà thạch vải](product)
+- cho tao [mười chín](amount) [sen vàng](product) bạn ạ
+- cho bác [mười sáu](amount)chiếc [đen đá](product)
+- cho tôi [8](amount)cốc [cafe sữa đá](product)
+- cho tau [10](amount)ly [cà phê sữa đá](product)
+- [sáu](amount)chiếc [phin đen nóng](product)
+- [12](amount)ly [cafe đen nóng](product) nhé em
+- cho [9](amount)chiếc [phin đen đá](product) em ạ
+- cho em [5](amount)chiếc [cà phê đen đá](product) nha bạn
+- cho tui [mười sáu](amount)chiếc [thạch đào](product)
+- cho [bốn](amount) [cafe đen đá](product) em ơi
+- [chín](amount)chiếc [trà thanh đào](product)
+- cho tao [12](amount)ly [đen đá](product) nha
+- [một](amount)cốc [phin đen nóng](product)
+- cho tau [mười bảy](amount) [cafe đen nóng](product) nha em
+- cho anh [4](amount)ly [sữa đá](product)
+- [tám](amount) [trà thạch vải](product)
+- cho bà [bảy](amount)chiếc [cafe sữa đá](product)
+- cho bác [15](amount)ly [sen vàng](product) nhé
+- [9](amount)chiếc [trà sen vàng](product) đi bạn
+- [3](amount)ly [cà phê đen nóng](product) nhé bạn
+- cho chị [mười một](amount)ly [đen nóng](product) đi em
+- [mười chín](amount) [cà phê sữa đá](product) đi ạ
+- [17](amount)ly [phin sữa đá](product)
+- [14](amount) [phin đen đá](product)
+- cho tôi [11](amount)cốc [thạch vải](product)
+- [năm](amount)chiếc [trà thạch đào](product) em ạ
+- cho tui [sáu](amount)chiếc [cà phê đen đá](product)
+- cho ông [16](amount) [thạch đào](product) đi em
+- cho em [hai mươi](amount)cốc [cafe đen đá](product)
+- cho tui [7](amount) [trà thanh đào](product) đi
+- cho [1](amount)chiếc [đen đá](product) bạn ạ
+- [6](amount)cốc [phin đen nóng](product) nhé em
+- cho tao [19](amount) [cafe đen nóng](product) bạn ơi
+- [mười hai](amount) [sữa đá](product)
+- cho tau [trà thạch vải](product) nha bạn
+- cho anh [18](amount)ly [cafe sữa đá](product)
+- [20](amount)ly [sen vàng](product) em ơi
+- cho bà [mười bốn](amount) [trà sen vàng](product)
+- cho bác [mười ba](amount)chiếc [cà phê đen nóng](product) nha
+- [2](amount) [đen nóng](product)
+- [13](amount)ly [cà phê sữa đá](product) nha em
+- cho chị [ba](amount)cốc [phin sữa đá](product)
+- [8](amount)cốc [phin đen đá](product)
+- [hai](amount)cốc [thạch vải](product)
+- [mười](amount)chiếc [trà thạch đào](product) nhé
+- cho tôi [10](amount)ly [cà phê đen đá](product) đi bạn
+- [mười tám](amount)chiếc [thạch đào](product) nhé bạn
+- cho tui [mười lăm](amount)cốc [cafe đen đá](product) đi em
+- cho [mười tám](amount)chiếc [sữa đá](product)
+- cho tau [2](amount) [phin đen nóng](product) nhé
+- cho em [mười bảy](amount) [cà phê sữa đá](product)
+- cho tui [6](amount)cốc [trà sen vàng](product) nha
+- [9](amount)chiếc [trà thanh đào](product) bạn ạ
+- [3](amount)ly [cà phê đen đá](product)
+- [19](amount) [phin sữa đá](product) bạn ơi
+- [10](amount)ly [thạch đào](product) nha bạn
+- cho tui [15](amount)ly [đen nóng](product) đi em
+- cho bà [ba](amount)cốc [thạch vải](product) em ơi
+- cho tôi [mười hai](amount) [phin đen đá](product)
+- [bảy](amount)chiếc [cà phê đen nóng](product) đi
+- [18](amount)ly [sen vàng](product) đi bạn
+- cho chị [mười](amount)chiếc [đen đá](product)
+- [14](amount) [cafe đen nóng](product) em ạ
+- cho anh [hai mươi](amount)cốc [trà thạch vải](product) đi em
+- [mười chín](amount) [cafe đen đá](product)
+- cho ông [cafe sữa đá](product)
+- cho bác [8](amount)cốc [trà thạch đào](product)
+- cho tao [4](amount)ly [sữa đá](product)
+- [một](amount)cốc [phin đen nóng](product)
+- cho [mười ba](amount)chiếc [cà phê sữa đá](product) nhé em
+- cho tau [17](amount)ly [trà sen vàng](product) đi ạ
+- cho em [mười bốn](amount) [trà thanh đào](product)
+- cho tui [mười sáu](amount)chiếc [cà phê đen đá](product) nhé bạn
+- [20](amount)ly [phin sữa đá](product)
+- [tám](amount) [thạch đào](product) nha em
+- [hai](amount)cốc [đen nóng](product)
+- [sáu](amount)chiếc [thạch vải](product) nhé
+- cho tui [1](amount)chiếc [phin đen đá](product)
+- cho bà [16](amount) [cà phê đen nóng](product) nha
+- cho tôi [mười lăm](amount)cốc [sen vàng](product) bạn ạ
+- [12](amount)ly [đen đá](product)
+- [7](amount) [cafe đen nóng](product) bạn ơi
+- cho chị [mười một](amount)ly [trà thạch vải](product) nha bạn
+- [5](amount)chiếc [cafe đen đá](product) đi em
+- cho anh [chín](amount)chiếc [cafe sữa đá](product) em ơi
+- [13](amount)ly [trà thạch đào](product)
+- cho ông [bốn](amount) [sữa đá](product) đi
+- cho bác [11](amount)cốc [phin đen nóng](product) đi bạn
+- cho tao [năm](amount)chiếc [cà phê sữa đá](product)
+- cho tôi [1](amount)chiếc [cafe sữa đá](product) bạn ơi
+- [10](amount)ly [trà thạch vải](product)
+- cho chị [6](amount)cốc [trà sen vàng](product) đi ạ
+- [mười sáu](amount)chiếc [cà phê đen nóng](product)
+- [9](amount)chiếc [thạch vải](product)
+- cho em [mười lăm](amount)cốc [thạch đào](product)
+- cho anh [mười bốn](amount) [trà thạch đào](product) đi em
+- cho tau [2](amount) [cà phê sữa đá](product) em ạ
+- cho tao [hai mươi](amount)cốc [sữa đá](product)
+- cho bác [hai](amount)cốc [trà thanh đào](product)
+- [năm](amount)chiếc [cafe đen nóng](product) đi
+- cho bà [15](amount)ly [đen đá](product)
+- [mười tám](amount)chiếc [cà phê đen đá](product) nha bạn
+- [mười](amount)chiếc [phin đen nóng](product)
+- cho [một](amount)cốc [phin đen đá](product)
+- cho tui [14](amount) [cafe đen đá](product) nhé em
+- cho ông [11](amount)cốc [sen vàng](product) bạn ạ
+- [4](amount)ly [phin sữa đá](product) nha
+- [đen nóng](product) đi bạn
+- cho tui [mười bảy](amount) [cafe sữa đá](product)
+- [5](amount)chiếc [trà thạch vải](product) em ơi
+- cho tôi [20](amount)ly [trà sen vàng](product) nhé bạn
+- [17](amount)ly [cà phê đen nóng](product)
+- cho chị [3](amount)ly [thạch vải](product) nha em
+- [ba](amount)cốc [thạch đào](product) nhé
+- [13](amount)ly [trà thạch đào](product) đi em
+- cho em [16](amount) [cà phê sữa đá](product)
+- cho anh [mười ba](amount)chiếc [sữa đá](product) bạn ơi
+- cho tau [7](amount) [trà thanh đào](product)
+- cho tao [mười hai](amount) [cafe đen nóng](product) đi ạ
+- cho bác [bốn](amount) [đen đá](product)
+- [12](amount)ly [cà phê đen đá](product)
+- cho bà [mười chín](amount) [phin đen nóng](product)
+- [bảy](amount)chiếc [phin đen đá](product) đi em
+- [18](amount)ly [cafe đen đá](product) em ạ
+- cho [sáu](amount)chiếc [sen vàng](product)
+- cho tui [mười một](amount)ly [phin sữa đá](product)
+- cho ông [chín](amount)chiếc [đen nóng](product) đi
+- [tám](amount) [cafe sữa đá](product)
+- [8](amount)cốc [trà thạch vải](product) nha bạn
+- cho tui [19](amount) [trà sen vàng](product)
+- [mười](amount)chiếc [trà thạch đào](product) đi
+- [mười hai](amount) [phin đen đá](product)
+- cho bà [sáu](amount)chiếc [cà phê đen nóng](product) đi ạ
+- cho bác [20](amount)ly [thạch đào](product)
+- [chín](amount)chiếc [trà thanh đào](product) em ơi
+- cho anh [hai](amount)cốc [sen vàng](product)
+- cho ông [1](amount)chiếc [cafe đen nóng](product) đi em
+- cho tôi [ba](amount)cốc [sữa đá](product)
+- cho [mười tám](amount)chiếc [cà phê sữa đá](product)
+- [hai mươi](amount)cốc [cafe đen đá](product)
+- cho tui [3](amount)ly [phin sữa đá](product) em ạ
+- cho em [14](amount) [cafe sữa đá](product) đi bạn
+- [bốn](amount) [trà sen vàng](product) nhé
+- cho tao [mười một](amount)ly [phin đen nóng](product)
+- cho chị [tám](amount) [trà thạch vải](product) nha bạn
+- [2](amount) [cà phê đen đá](product) nhé bạn
+- [mười ba](amount)chiếc [đen đá](product)
+- [19](amount) [thạch vải](product)
+- cho tui [17](amount)ly [đen nóng](product)
+- [mười chín](amount) [trà thạch đào](product) bạn ơi
+- cho tau [9](amount)chiếc [phin đen đá](product)
+- [6](amount)cốc [cà phê đen nóng](product) nha
+- [mười bốn](amount) [thạch đào](product)
+- cho bà [mười bảy](amount) [trà thanh đào](product) nha em
+- cho bác [13](amount)ly [sen vàng](product) nhé em
+- [4](amount)ly [cafe đen nóng](product) bạn ạ
+- cho anh [12](amount)ly [sữa đá](product) đi em
+- cho ông [mười lăm](amount)cốc [cà phê sữa đá](product) đi
+- cho tôi [mười sáu](amount)chiếc [cafe đen đá](product)
+- cho [15](amount)ly [phin sữa đá](product) đi ạ
+- [7](amount) [cafe sữa đá](product)
+- cho tui [5](amount)chiếc [trà sen vàng](product) em ơi
+- cho em [18](amount)ly [phin đen nóng](product)
+- [năm](amount)chiếc [trà thạch vải](product) đi em
+- cho tao [một](amount)cốc [cà phê đen đá](product)
+- cho chị [16](amount) [đen đá](product)
+- [11](amount)cốc [thạch vải](product)
+- [bảy](amount)chiếc [đen nóng](product) em ạ
+- [8](amount)cốc [trà thạch đào](product) đi bạn
+- cho tui [phin đen đá](product) nhé
+- [10](amount)ly [cà phê đen nóng](product)
+- cho anh [ba](amount)cốc [phin đen đá](product)
+- [hai mươi](amount)cốc [cafe sữa đá](product) nhé
+- cho tau [mười tám](amount)chiếc [thạch vải](product)
+- [8](amount)cốc [cà phê đen nóng](product)
+- cho tui [bảy](amount)chiếc [phin đen nóng](product) đi em
+- cho bác [5](amount)chiếc [trà thạch đào](product) đi em
+- cho bà [mười ba](amount)chiếc [phin sữa đá](product)
+- [18](amount)ly [trà thạch vải](product)
+- [mười một](amount)ly [cà phê sữa đá](product) đi ạ
+- cho tôi [mười hai](amount) [cafe đen nóng](product) đi bạn
+- cho em [10](amount)ly [đen đá](product) bạn ạ
+- cho chị [chín](amount)chiếc [trà thanh đào](product) đi
+- cho tao [mười chín](amount) [sen vàng](product)
+- [20](amount)ly [cà phê đen đá](product)
+- [14](amount) [thạch đào](product) bạn ơi
+- [hai](amount)cốc [sữa đá](product) nhé bạn
+- cho [11](amount)cốc [trà sen vàng](product)
+- [năm](amount)chiếc [cafe đen đá](product)
+- cho ông [1](amount)chiếc [đen nóng](product)
+- [16](amount) [phin đen đá](product) nha em
+- cho tui [mười bốn](amount) [cafe sữa đá](product)
+- cho anh [6](amount)cốc [thạch vải](product) nha bạn
+- [mười lăm](amount)cốc [cà phê đen nóng](product) nhé em
+- cho tau [19](amount) [phin đen nóng](product) em ạ
+- [17](amount)ly [trà thạch đào](product) em ơi
+- cho tui [12](amount)ly [phin sữa đá](product) nha
+- cho bác [trà thạch vải](product)
+- cho bà [13](amount)ly [cà phê sữa đá](product)
+- [7](amount) [cafe đen nóng](product) nhé
+- [mười sáu](amount)chiếc [đen đá](product)
+- cho tôi [sáu](amount)chiếc [trà thanh đào](product)
+- cho em [2](amount) [sen vàng](product) đi em
+- cho chị [mười](amount)chiếc [cà phê đen đá](product) đi em
+- cho tao [4](amount)ly [thạch đào](product)
+- [mười bảy](amount) [sữa đá](product)
+- [tám](amount) [trà sen vàng](product) đi ạ
+- [9](amount)chiếc [cafe đen đá](product) đi bạn
+- cho [15](amount)ly [đen nóng](product) bạn ạ
+- [bốn](amount) [phin đen đá](product) đi
+- cho ông [3](amount)ly [cafe sữa đá](product)
+- [một](amount)cốc [thạch vải](product)
+- cho chị [năm](amount)chiếc [trà thạch vải](product) bạn ơi
+- cho anh [bảy](amount)chiếc [cà phê sữa đá](product) đi
+- [hai mươi](amount)cốc [đen nóng](product) đi em
+- cho bà [6](amount)cốc [trà sen vàng](product)
+- cho tao [mười bảy](amount) [trà thạch đào](product)
+- cho tôi [3](amount)ly [thạch đào](product) nha em
+- cho tau [5](amount)chiếc [cà phê đen đá](product)
+- cho tui [4](amount)ly [cafe đen đá](product)
+- cho tui [13](amount)ly [sen vàng](product)
+- [mười tám](amount)chiếc [phin sữa đá](product) đi ạ
+- [2](amount) [phin đen nóng](product) đi em
+- cho em [mười chín](amount) [thạch vải](product) nhé
+- [mười](amount)chiếc [cafe đen nóng](product) nha bạn
+- cho bác [7](amount) [đen đá](product)
+- [một](amount)cốc [trà thanh đào](product)
+- [phin đen đá](product) nha
+- [20](amount)ly [cà phê đen nóng](product)
+- cho [bốn](amount) [sữa đá](product)
+- [mười bốn](amount) [cafe sữa đá](product)
+- cho ông [chín](amount)chiếc [trà thạch vải](product)
+- [17](amount)ly [cà phê sữa đá](product) em ơi
+- cho chị [11](amount)cốc [đen nóng](product)
+- cho anh [1](amount)chiếc [trà sen vàng](product) nhé bạn
+- [mười một](amount)ly [trà thạch đào](product) em ạ
+- cho bà [15](amount)ly [thạch đào](product) nhé em
+- cho tao [14](amount) [cà phê đen đá](product) bạn ạ
+- cho tôi [mười hai](amount) [cafe đen đá](product) đi bạn
+- cho tau [19](amount) [sen vàng](product) bạn ơi
+- cho tui [ba](amount)cốc [phin sữa đá](product) đi
+- cho tui [8](amount)cốc [phin đen nóng](product) đi em
+- [mười sáu](amount)chiếc [thạch vải](product)
+- [sáu](amount)chiếc [cafe đen nóng](product)
+- cho em [16](amount) [đen đá](product) nha em
+- [hai](amount)cốc [trà thanh đào](product)
+- cho bác [18](amount)ly [phin đen đá](product)
+- [mười ba](amount)chiếc [cà phê đen nóng](product)
+- [mười lăm](amount)cốc [sữa đá](product) đi ạ
+- [tám](amount) [cafe sữa đá](product) đi em
+- cho [9](amount)chiếc [trà thạch vải](product) nhé
+- [12](amount)ly [cà phê sữa đá](product) nha bạn
+- cho ông [10](amount)ly [đen nóng](product)
+- cho ông [trà thanh đào](product) em ạ
+- [cà phê đen đá](product) đi em
+- [cà phê đen nóng](product) nha bạn
+- cho tao [đen đá](product)
+- [thạch vải](product) đi ạ
+- [trà sen vàng](product)
+- cho anh [thạch đào](product)
+- [cafe đen nóng](product)
+- cho tôi [cafe đen đá](product) bạn ạ
+- cho tau [cafe sữa đá](product)
+- cho [sữa đá](product) nha
+- cho em [đen nóng](product)
+- cho chị [phin đen nóng](product) nhé bạn
+- [phin sữa đá](product)
+- cho tui [phin đen đá](product) nha em
+- [sen vàng](product)
+- cho bác [trà thạch đào](product) nhé
+- [trà thạch vải](product) đi
+- cho tui [cà phê sữa đá](product) nhé em
+- cho bà [trà thanh đào](product) bạn ơi
+- [cà phê đen đá](product) đi em
+- cho ông [cà phê đen nóng](product)
+- [đen đá](product)
+- [thạch vải](product) đi bạn
+- cho tao [trà sen vàng](product)
+- [thạch đào](product)
+- [cafe đen nóng](product) em ơi
+- cho em [cà phê đen đá](product) đi ạ
+- cho tao [cafe sữa đá](product) nhé bạn
+- cho chị [thạch vải](product) nhé
+- cho tôi [phin đen nóng](product)
+- [sen vàng](product) nha
+- [thạch đào](product) nhé em
+- cho tui [trà thạch vải](product)
+- [sữa đá](product)
+- cho anh [cà phê sữa đá](product) nha bạn
+- [đen nóng](product)
+- cho bác [phin sữa đá](product) bạn ạ
+- cho tui [phin đen đá](product)
+- [cafe đen nóng](product)
+- [cà phê đen nóng](product)
+- cho [trà thanh đào](product) đi em
+- cho bà [đen đá](product)
+- [cafe đen đá](product) đi
+- cho tau [trà thạch đào](product) nha em
+- [trà sen vàng](product) đi em
+- cho ông [cà phê đen đá](product)
+- [cafe sữa đá](product) em ơi
+- cho em [thạch vải](product)
+- cho tao [phin đen nóng](product) em ạ
+- cho chị [sen vàng](product)
+- cho tôi [thạch đào](product)
+- [trà thạch vải](product) bạn ơi
+- [sữa đá](product) đi bạn
+- cho bà [cafe sữa đá](product)
+- cho tui [đen nóng](product)
+- [trà thanh đào](product) nha
+- cho bác [thạch đào](product) đi ạ
+- cho tau [sen vàng](product) đi em
+- cho [sữa đá](product)
+- cho chị [cafe đen đá](product) em ạ
+- [cafe đen nóng](product) nha em
+- cho tao [cà phê sữa đá](product) nhé
+- [phin sữa đá](product) em ơi
+- [thạch vải](product) bạn ơi
+- cho tôi [trà thạch vải](product) đi
+- [trà thạch đào](product)
+- [phin đen đá](product) đi bạn
+- cho ông [cà phê đen nóng](product)
+- [đen đá](product)
+- [trà sen vàng](product)
+- [cà phê đen đá](product) nhé em
+- cho anh [phin đen nóng](product)
+- cho em [cafe sữa đá](product) nhé bạn
+- cho tui [đen nóng](product)
+- cho bà [trà thanh đào](product) đi em
+- cho tui [thạch đào](product)
+- [sen vàng](product)
+- cho bác [sữa đá](product) bạn ạ
+- cho tau [cafe đen đá](product)
+- cho [cafe đen nóng](product) nha bạn
+- cho tao [cafe đen nóng](product)
+- cho chị [cafe sữa đá](product)
+- [trà thạch vải](product) đi bạn
+- cho ông [đen đá](product)
+- cho tau [cà phê đen đá](product)
+- [thạch vải](product) em ạ
+- [phin đen đá](product) đi em
+- cho bà [thạch đào](product)
+- [trà thạch đào](product) nhé bạn
+- [sen vàng](product)
+- cho tôi [phin đen nóng](product)
+- [phin sữa đá](product)
+- cho tui [sữa đá](product)
+- cho [đen nóng](product) đi ạ
+- cho tui [trà sen vàng](product)
+- [cà phê sữa đá](product) nha
+- cho bác [trà thanh đào](product) nhé
+- [cafe đen đá](product) bạn ạ
+- cho anh [cà phê đen nóng](product) nha bạn
+- cho em [cafe đen nóng](product) em ơi
+- [cafe sữa đá](product)
+- cho tao [trà thạch vải](product) bạn ơi
+- cho chị [đen đá](product) nhé em
+- [cà phê đen đá](product)
+- cho ông [thạch vải](product) nha em
+- cho tau [phin đen đá](product) đi
+- [thạch đào](product) đi em
+- cho em [trà sen vàng](product)
+- [thạch đào](product) nhé bạn
+- [cà phê sữa đá](product)
+- cho tui [sen vàng](product) nha em
+- [cafe đen đá](product) em ơi
+- [cà phê đen nóng](product)
+- cho chị [phin sữa đá](product)
+- [trà thạch đào](product) đi ạ
+- cho tôi [sữa đá](product) đi
+- [đen đá](product)
+- [trà thạch vải](product) nha
+- cho tui [đen nóng](product) em ạ
+- cho tau [phin đen đá](product) nhé
+- cho [thạch vải](product) nhé em
+- cho anh [cafe sữa đá](product)
+- [phin đen nóng](product)
+- cho bác [trà thanh đào](product)
+- cho tao [cafe đen nóng](product) đi em
+- cho ông [cà phê đen đá](product)
+- cho bà [trà sen vàng](product) bạn ơi
+- [thạch đào](product) bạn ạ
+- cho em [cà phê sữa đá](product) đi em
+- [sen vàng](product)
+- [cafe đen đá](product) đi bạn
+- cho tui [cà phê đen nóng](product) nha bạn
+- [phin sữa đá](product)
+- [trà thạch đào](product)
+- cho tui [sữa đá](product) đi em
+- [sen vàng](product) nha em
+- [cà phê đen đá](product)
+- cho tôi [đen nóng](product) nha bạn
+- cho tao [trà sen vàng](product)
+- [trà thạch đào](product) đi
+- [phin đen đá](product) nhé
+- [cafe đen nóng](product)
+- cho tui [trà thạch vải](product) đi ạ
+- cho bác [cà phê đen nóng](product)
+- cho em [thạch đào](product) bạn ạ
+- cho tau [đen đá](product)
+- [phin sữa đá](product)
+- [trà thanh đào](product)
+- cho ông [thạch vải](product) em ạ
+- cho [cafe đen đá](product) nhé em
+- cho bà [phin đen nóng](product) nha
+- [cà phê sữa đá](product) em ơi
+- cho chị [cafe sữa đá](product)
+- cho anh [sữa đá](product) đi bạn
+- [sen vàng](product)
+- cho tui [cà phê đen đá](product) nhé bạn
+- [đen nóng](product)
+- [trà sen vàng](product) bạn ơi
+- cho tôi [trà thạch đào](product)
+- cho tao [phin đen đá](product) đi em
+- [cafe đen nóng](product)
+- [phin sữa đá](product)
+- cho bà [cafe sữa đá](product)
+- cho bác [phin đen đá](product)
+- cho tui [đen nóng](product)
+- cho tui [sữa đá](product) đi em
+- [trà sen vàng](product) đi bạn
+- cho tao [sen vàng](product) nha bạn
+- cho [trà thạch đào](product)
+- [thạch đào](product) nhé em
+- [cà phê sữa đá](product) nhé bạn
+- [trà thanh đào](product)
+- cho anh [trà thạch vải](product)
+- [cafe đen đá](product) bạn ơi
+- cho chị [cà phê đen đá](product) đi em
+- cho tôi [đen đá](product) đi ạ
+- cho ông [thạch vải](product) em ơi
+- [phin đen nóng](product) nha em
+- [cafe đen nóng](product)
+- [cà phê đen nóng](product) nhé
+- cho tau [phin sữa đá](product) nha
+- cho em [cafe sữa đá](product) em ạ
+- [phin đen đá](product)
+- cho bà [đen nóng](product)
+- cho bác [sữa đá](product) đi
+- cho tui [trà sen vàng](product)
+- cho tui [sen vàng](product)
+- [trà thạch đào](product) bạn ạ
+- cho ông [thạch đào](product)
+- [cà phê sữa đá](product) em ơi
+- cho bà [sen vàng](product)
+- [đen đá](product)
+- cho tôi [cafe đen nóng](product) nhé em
+- cho [sữa đá](product)
+- cho em [trà thanh đào](product) nhé bạn
+- [trà sen vàng](product)
+- cho bác [cà phê đen nóng](product) bạn ạ
+- cho chị [phin đen đá](product) đi em
+- cho tao [cafe sữa đá](product) nha bạn
+- [trà thạch vải](product)
+- cho anh [phin đen nóng](product) đi bạn
+- [đen nóng](product)
+- cho tau [trà thạch đào](product) đi
+- [cafe đen đá](product) đi em
+- [cà phê đen đá](product)
+- cho tui [thạch vải](product)
+- [phin sữa đá](product)
+- cho tui [thạch đào](product)
+- [cà phê sữa đá](product) nha em
+- cho ông [sen vàng](product) em ạ
+- [đen đá](product)
+- cho bà [cafe đen nóng](product) đi ạ
+- [sữa đá](product) bạn ơi
+- cho tôi [trà thanh đào](product) nhé
+- cho [trà sen vàng](product) nha
+- cho chị [sen vàng](product) bạn ạ
+- cho [đen đá](product) bạn ơi
+- cho tao [phin đen nóng](product) đi ạ
+- [thạch đào](product)
+- [cafe đen nóng](product) nhé
+- cho tui [phin đen đá](product) nhé bạn
+- [cà phê sữa đá](product)
+- cho em [trà thạch vải](product)
+- [cà phê đen nóng](product)
+- cho tôi [cafe đen đá](product) nhé em
+- cho bác [sữa đá](product) đi
+- [đen nóng](product)
+- [phin sữa đá](product) đi em
+- [trà thạch đào](product) nha em
+- cho anh [thạch vải](product)
+- [cà phê đen đá](product) em ạ
+- [trà thanh đào](product)
+- cho tui [cafe sữa đá](product)
+- cho tau [trà sen vàng](product)
+- cho ông [sen vàng](product) đi em
+- cho bà [đen đá](product) nha bạn
+- cho chị [phin đen nóng](product) nha
+- cho [thạch đào](product)
+- cho tao [cafe đen nóng](product)
+- [phin đen đá](product)
+- [cà phê sữa đá](product) đi bạn
+- cho tui [trà thạch vải](product) em ơi
+- cho bà [phin đen nóng](product)
+- [cafe đen nóng](product) bạn ạ
+- [đen đá](product)
+- [trà thạch vải](product)
+- cho tau [thạch vải](product)
+- cho tui [cafe sữa đá](product) nha bạn
+- cho tôi [phin sữa đá](product)
+- cho em [sữa đá](product) em ơi
+- cho bác [trà thạch đào](product) nhé
+- [thạch đào](product) đi
+- cho tao [cà phê sữa đá](product)
+- [sen vàng](product) nhé bạn
+- cho anh [cà phê đen nóng](product) đi ạ
+- [phin đen đá](product) đi em
+- cho ông [trà thanh đào](product)
+- [cà phê đen đá](product) nha em
+- [cafe đen đá](product)
+- cho [đen nóng](product) đi em
+- cho chị [trà sen vàng](product) nhé em
+- [phin đen nóng](product)
+- cho tui [cafe đen nóng](product)
+- cho bà [đen đá](product)
+- [trà thạch vải](product) nha
+- [thạch vải](product) bạn ơi
+- [cafe sữa đá](product) em ạ
+- cho tau [phin sữa đá](product)
+- cho tui [sữa đá](product) đi bạn
+- [sữa đá](product) nhé em
+- [trà thạch vải](product)
+- cho ông [thạch vải](product) bạn ơi
+- cho tui [thạch đào](product) đi bạn
+- [cà phê đen đá](product) đi em
+- cho em [phin đen nóng](product)
+- cho anh [phin đen đá](product)
+- cho bà [cà phê đen nóng](product) nha em
+- cho tôi [đen đá](product) đi em
+- [cafe đen đá](product) em ạ
+- [trà sen vàng](product)
+- [trà thạch đào](product) nhé
+- cho chị [trà thanh đào](product)
+- cho tui [cà phê sữa đá](product)
+- [sen vàng](product) đi ạ
+- [phin sữa đá](product) em ơi
+- cho tao [cafe đen nóng](product)
+- cho tau [đen nóng](product) nha bạn
+- cho [cafe sữa đá](product)
+- [sữa đá](product)
+- cho bác [trà thạch vải](product) bạn ạ
+- [thạch vải](product) đi
+- [thạch đào](product) nha
+- cho ông [cà phê đen đá](product)
+- cho tui [phin đen nóng](product)
+- [phin đen đá](product)
+- cho em [cà phê đen nóng](product) nhé bạn
+- cho tao [sữa đá](product) em ạ
+- cho bác [đen nóng](product) nhé em
+- [cà phê đen đá](product)
+- cho chị [phin đen nóng](product) bạn ơi
+- cho tui [trà thanh đào](product)
+- [phin đen đá](product) nha em
+- cho em [phin sữa đá](product) đi bạn
+- cho tôi [trà thạch vải](product)
+- [sen vàng](product)
+- [cà phê đen nóng](product)
+- [cafe sữa đá](product)
+- cho bà [cafe đen nóng](product) đi ạ
+- cho tau [trà sen vàng](product)
+- cho [cà phê sữa đá](product)
+- cho anh [đen đá](product)
+- [thạch đào](product) em ơi
+- [cafe đen đá](product) đi em
+- [trà thạch đào](product) nha
+- cho ông [thạch vải](product) bạn ạ
+- cho tui [sữa đá](product)
+- [đen nóng](product) nhé
+- cho tao [cà phê đen đá](product)
+- cho bác [phin đen nóng](product)
+- [trà thanh đào](product) nhé bạn
+- cho chị [phin đen đá](product) nha bạn
+- cho tui [phin sữa đá](product) đi em
+- [trà thạch vải](product) đi
+- cho bà [phin sữa đá](product) em ạ
+- [cà phê đen đá](product)
+- [cafe đen nóng](product)
+- [thạch đào](product) nha
+- cho chị [cafe sữa đá](product) bạn ạ
+- cho ông [thạch vải](product) nhé bạn
+- [đen nóng](product) nhé
+- cho tui [trà thạch đào](product) em ơi
+- cho [trà thanh đào](product) bạn ơi
+- [đen đá](product)
+- [sen vàng](product)
+- cho tôi [cà phê sữa đá](product)
+- cho anh [sữa đá](product) nha bạn
+- cho tau [trà thạch vải](product) đi ạ
+- cho em [phin đen nóng](product) nhé em
+- cho bác [trà sen vàng](product)
+- cho tao [cafe đen đá](product)
+- [phin đen đá](product)
+- [cà phê đen nóng](product) nha em
+- [phin sữa đá](product)
+- cho tui [cà phê đen đá](product) đi bạn
+- cho bà [cafe đen nóng](product)
+- [thạch đào](product)
+- [cafe sữa đá](product)
+- [thạch vải](product) đi em
+- cho chị [đen nóng](product) đi em
+- cho ông [trà thạch đào](product) đi
+- cho chị [cà phê sữa đá](product) nha bạn
+- [trà thanh đào](product)
+- [cà phê đen nóng](product) đi
+- [phin đen nóng](product) đi em
+- [cafe đen nóng](product)
+- [thạch vải](product)
+- cho bác [trà sen vàng](product) đi bạn
+- cho tui [thạch đào](product)
+- cho bà [trà thạch vải](product)
+- [cafe đen đá](product)
+- [trà thạch đào](product) bạn ạ
+- cho tui [cafe sữa đá](product) nhé bạn
+- cho [sen vàng](product) nha
+- cho tau [đen đá](product) bạn ơi
+- cho tao [đen nóng](product)
+- cho ông [phin sữa đá](product) đi ạ
+- cho em [phin đen đá](product) nhé em
+- cho anh [sữa đá](product) nha em
+- [cà phê đen đá](product) nhé
+- [cà phê sữa đá](product)
+- cho tôi [trà thanh đào](product)
+- cho chị [cà phê đen nóng](product) em ạ
+- [phin đen nóng](product) đi em
+- [cafe đen nóng](product)
+- [thạch vải](product)
+- [trà sen vàng](product)
+- [thạch đào](product) em ơi
+- [cafe sữa đá](product) em ạ
+- cho tôi [phin sữa đá](product) em ơi
+- cho em [cà phê sữa đá](product)
+- cho tui [trà thanh đào](product)
+- cho bác [cafe đen nóng](product) bạn ơi
+- [đen nóng](product) nha bạn
+- [đen đá](product)
+- [trà thạch đào](product) nha em
+- cho chị [cafe đen đá](product) đi
+- [sữa đá](product)
+- cho anh [cà phê đen đá](product)
+- cho ông [thạch đào](product) nhé em
+- cho bà [phin đen nóng](product) đi em
+- [trà thạch vải](product) nhé
+- cho tau [phin đen đá](product) đi ạ
+- cho tui [sen vàng](product) đi bạn
+- cho [thạch vải](product)
+- [trà sen vàng](product)
+- [cà phê đen nóng](product)
+- cho tao [cafe sữa đá](product) nhé bạn
+- [phin sữa đá](product) bạn ạ
+- [cà phê sữa đá](product)
+- cho tôi [trà thanh đào](product)
+- cho em [cafe đen nóng](product)
+- cho tui [đen nóng](product) nha
+- cho bác [đen đá](product)
+- [trà thạch đào](product) đi em
+- cho [sữa đá](product) đi
+- [thạch đào](product)
+- [trà thạch đào](product) nha
+- [cà phê sữa đá](product) đi ạ
+- [trà sen vàng](product)
+- cho chị [phin sữa đá](product) đi em
+- cho bác [sen vàng](product) bạn ạ
+- [cafe sữa đá](product) nhé bạn
+- cho bà [đen đá](product)
+- cho tao [phin đen nóng](product)
+- cho tui [cà phê đen nóng](product)
+- [phin đen đá](product) em ơi
+- [trà thạch vải](product) đi em
+- cho ông [cafe đen nóng](product) bạn ơi
+- [cà phê đen đá](product) nhé
+- cho em [đen nóng](product)
+- [cafe đen đá](product)
+- cho tau [thạch vải](product)
+- cho tui [trà thanh đào](product) nha bạn
+- cho anh [sữa đá](product)
+- cho tôi [thạch đào](product)
+- cho [trà thạch đào](product) nha em
+- [cà phê sữa đá](product)
+- [trà sen vàng](product) nhé em
+- [phin sữa đá](product) em ạ
+- [sen vàng](product) đi bạn
+- cho chị [cafe sữa đá](product)
+- cho ông [thạch vải](product) nhé bạn
+- cho tao [đen nóng](product) đi ạ
+- cho anh [trà thạch vải](product) bạn ạ
+- cho tau [sữa đá](product)
+- [trà sen vàng](product)
+- cho bà [phin đen đá](product) bạn ơi
+- cho tôi [cafe đen nóng](product) nha em
+- cho tui [sen vàng](product) đi
+- cho chị [cafe đen đá](product)
+- cho [thạch đào](product)
+- cho bác [phin sữa đá](product)
+- [cafe sữa đá](product)
+- [cà phê đen đá](product)
+- [cà phê sữa đá](product) nha bạn
+- [cà phê đen nóng](product) đi bạn
+- [trà thanh đào](product)
+- cho em [đen đá](product) nhé em
+- [phin đen nóng](product) đi em
+- [trà thạch đào](product)
+- cho tui [thạch vải](product) em ạ
+- [đen nóng](product) nhé
+- cho ông [trà thạch vải](product)
+- cho tao [sữa đá](product)
+- cho anh [trà sen vàng](product) đi em
+- cho tau [phin đen đá](product) em ơi
+- [cafe đen nóng](product)
+- cho bà [sen vàng](product) nha
+- [cà phê đen nóng](product)
+- [phin sữa đá](product) em ơi
+- cho tui [sữa đá](product) nha bạn
+- cho ông [cafe sữa đá](product)
+- [cà phê đen đá](product) nha em
+- [đen nóng](product) nhé
+- [cafe đen đá](product) nhé bạn
+- [trà thạch đào](product) bạn ạ
+- cho tui [thạch vải](product)
+- cho tôi [sen vàng](product)
+- cho em [cafe đen nóng](product) em ạ
+- cho bác [phin đen nóng](product) đi
+- [đen đá](product)
+- cho tau [trà thanh đào](product) đi em
+- cho [cà phê sữa đá](product) bạn ơi
+- [thạch đào](product)
+- [phin đen đá](product)
+- cho anh [trà thạch vải](product)
+- cho bà [trà sen vàng](product) đi em
+- cho tao [cà phê đen nóng](product) nha
+- cho chị [phin sữa đá](product) đi ạ
+- [sữa đá](product) đi bạn
+- [cafe sữa đá](product)
+- cho tui [cà phê đen đá](product)
+- cho ông [đen nóng](product)
+- [cafe đen đá](product) nhé em
+- [trà thạch đào](product)
+- [sen vàng](product)
+- [phin đen đá](product) đi bạn
+- cho tôi [cafe đen nóng](product) bạn ạ
+- cho em [cà phê sữa đá](product)
+- [trà thạch vải](product) em ạ
+- cho tao [cà phê đen nóng](product)
+- [đen nóng](product)
+- [trà thanh đào](product) đi
+- [cà phê đen đá](product)
+- cho bà [sữa đá](product)
+- [thạch đào](product) đi em
+- cho bác [trà sen vàng](product)
+- [đen đá](product)
+- cho tau [cafe sữa đá](product) bạn ơi
+- [phin sữa đá](product) nhé
+- cho ông [phin đen nóng](product) em ơi
+- cho [cafe đen đá](product) nha bạn
+- cho tui [trà thạch đào](product) nhé bạn
+- cho chị [thạch vải](product)
+- cho tui [sen vàng](product)
+- cho anh [phin đen đá](product) nha em
+- [cafe đen nóng](product)
+- [cà phê sữa đá](product) nha
+- cho tôi [trà thạch vải](product) nhé em
+- cho em [cà phê đen nóng](product)
+- [đen nóng](product) đi ạ
+- cho tao [trà thanh đào](product) đi em
+- cho [cafe đen nóng](product) đi em
+- [trà thạch vải](product) em ạ
+- [cafe đen đá](product) em ơi
+- cho chị [cafe sữa đá](product) nhé
+- cho tui [thạch đào](product) bạn ơi
+- cho tao [trà sen vàng](product)
+- [trà thạch đào](product)
+- [cà phê đen nóng](product)
+- [đen đá](product) đi ạ
+- [cà phê đen đá](product)
+- [sen vàng](product)
+- cho bà [trà thanh đào](product) nha
+- cho bác [phin sữa đá](product)
+- cho em [phin đen nóng](product)
+- cho tau [thạch vải](product) nhé bạn
+- [cà phê sữa đá](product)
+- [đen nóng](product) đi em
+- cho tui [phin đen đá](product) nha bạn
+- cho ông [sữa đá](product) đi bạn
+- cho anh [cafe đen nóng](product)
+- cho tôi [trà thạch vải](product)
+- cho [cafe đen đá](product) nha em
+- [cafe sữa đá](product) bạn ạ
+- [thạch đào](product) nhé em
+- cho chị [trà sen vàng](product)
+- cho tui [trà thạch đào](product)
+- cho tao [cà phê đen nóng](product) đi
+- cho anh [cà phê sữa đá](product)
+- [thạch đào](product)
+- cho bà [cafe đen nóng](product) nhé
+- cho em [trà sen vàng](product) đi em
+- [phin đen đá](product) đi em
+- [cafe sữa đá](product)
+- [cà phê đen nóng](product)
+- cho tui [thạch vải](product) nha
+- [trà thạch đào](product) bạn ạ
+- cho ông [trà thanh đào](product)
+- cho bác [sen vàng](product)
+- [cà phê đen đá](product)
+- cho tôi [cafe đen đá](product) nhé bạn
+- cho tau [đen đá](product) đi
+- [phin sữa đá](product) nha em
+- cho tao [sữa đá](product) bạn ơi
+- cho tui [phin đen nóng](product)
+- [trà thạch vải](product) nhé em
+- [đen nóng](product) nha bạn
+- cho [cà phê sữa đá](product) đi bạn
+- cho chị [thạch đào](product) đi ạ
+- cho anh [cafe đen nóng](product)
+- [trà sen vàng](product)
+- cho bà [phin đen đá](product) em ạ
+- cho em [cafe sữa đá](product)
+- [cà phê đen nóng](product)
+- [thạch vải](product) em ơi
+- cho tao [cà phê đen nóng](product) đi bạn
+- cho bác [phin đen đá](product) bạn ơi
+- [cà phê đen đá](product)
+- cho tui [thạch vải](product)
+- [thạch đào](product)
+- cho em [sen vàng](product)
+- cho ông [cafe đen nóng](product)
+- cho tôi [trà thanh đào](product)
+- [cafe đen đá](product) đi em
+- [phin đen nóng](product)
+- [sữa đá](product) nhé em
+- [trà thạch đào](product)
+- [đen đá](product)
+- [trà thạch vải](product)
+- cho tui [cafe sữa đá](product) đi ạ
+- cho bà [phin sữa đá](product)
+- cho anh [trà sen vàng](product) nhé
+- [đen nóng](product) đi
+- cho tau [cà phê sữa đá](product) nha
+- cho [cà phê đen nóng](product) nhé bạn
+- cho chị [phin đen đá](product) nha em
+- cho tao [cà phê đen đá](product) nha bạn
+- cho bác [thạch vải](product) em ạ
+- [thạch đào](product) đi em
+- cho tui [sen vàng](product) bạn ạ
+- [cafe đen nóng](product) em ơi
+- cho em [trà thanh đào](product)
+- [cà phê sữa đá](product)
+- cho em [trà thạch vải](product) đi ạ
+- cho bà [cà phê đen đá](product) nha bạn
+- [sữa đá](product)
+- cho tôi [phin sữa đá](product) nha em
+- [thạch vải](product) nha
+- cho tui [đen đá](product) bạn ơi
+- [phin đen nóng](product)
+- cho bác [sen vàng](product) nhé bạn
+- cho ông [cà phê đen nóng](product) đi em
+- [phin đen đá](product) bạn ạ
+- [cafe đen đá](product)
+- cho anh [đen nóng](product) em ạ
+- cho tau [trà thanh đào](product)
+- cho chị [trà sen vàng](product)
+- [trà thạch đào](product)
+- cho tao [cafe sữa đá](product) em ơi
+- cho tui [thạch đào](product) đi bạn
+- [cafe đen nóng](product)
+- [cà phê sữa đá](product) đi
+- cho [trà thạch vải](product)
+- [cà phê đen đá](product) nhé
+- cho em [sữa đá](product)
+- cho bà [phin sữa đá](product)
+- [thạch vải](product) đi em
+- cho tôi [đen đá](product)
+- [phin đen nóng](product) nhé em
+- cho tao [thạch đào](product)
+- [sen vàng](product) đi ạ
+- cho bà [phin sữa đá](product) đi em
+- cho bác [thạch vải](product)
+- [trà thanh đào](product) đi
+- [trà sen vàng](product) đi em
+- cho tui [trà thạch đào](product) đi bạn
+- cho tau [cafe đen nóng](product)
+- [cà phê đen nóng](product) nha
+- cho tui [cà phê sữa đá](product) bạn ơi
+- cho chị [sữa đá](product) nha bạn
+- [cafe đen đá](product) nhé
+- [đen nóng](product)
+- cho em [phin đen nóng](product) nhé em
+- [đen đá](product)
+- cho tôi [phin đen đá](product)
+- [cà phê đen đá](product)
+- cho ông [cafe sữa đá](product) nhé bạn
+- cho [trà thạch vải](product)
+- [thạch đào](product) nha em
+- cho anh [sen vàng](product) em ơi
+- cho tao [phin sữa đá](product)
+- [thạch vải](product)
+- cho bà [trà thanh đào](product) bạn ạ
+- cho bác [trà sen vàng](product)
+- [trà thạch đào](product)
+- [cafe đen nóng](product) em ạ
+- [thạch vải](product) đi em
+- cho tui [cafe sữa đá](product) em ơi
+- cho tui [đen đá](product) đi
+- cho em [cà phê đen nóng](product)
+- cho bà [phin đen đá](product) em ạ
+- [cà phê đen đá](product)
+- cho tôi [cafe đen đá](product) đi em
+- [trà thạch đào](product)
+- [cà phê sữa đá](product)
+- [trà sen vàng](product) nha em
+- [đen nóng](product)
+- cho anh [phin đen nóng](product)
+- cho bác [trà thanh đào](product)
+- [cafe đen nóng](product) nhé em
+- cho tao [trà thạch vải](product)
+- cho tau [phin sữa đá](product) nha
+- [sen vàng](product)
+- [thạch đào](product) đi bạn
+- cho chị [sữa đá](product) nhé
+- cho [thạch vải](product) đi ạ
+- cho ông [cafe sữa đá](product) bạn ạ
+- [đen đá](product)
+- cho tui [cà phê đen nóng](product) bạn ơi
+- cho tui [phin đen đá](product) nhé bạn
+- cho em [cà phê đen đá](product)
+- cho bà [cafe đen đá](product) nha bạn
+- [trà thạch đào](product)
+- cho tao [trà thanh đào](product) nhé em
+- [phin đen nóng](product) đi em
+- [trà sen vàng](product) em ơi
+- cho bà [phin sữa đá](product) đi
+- cho tôi [cà phê sữa đá](product)
+- cho chị [cà phê đen đá](product) đi bạn
+- [cafe đen nóng](product) nhé
+- [cà phê đen nóng](product) đi em
+- cho tau [cafe đen đá](product) nhé bạn
+- [trà thạch đào](product)
+- [thạch vải](product)
+- cho bác [trà thạch vải](product) nha bạn
+- cho anh [thạch đào](product)
+- [đen đá](product) bạn ạ
+- cho [đen nóng](product)
+- cho tui [sen vàng](product) nha em
+- cho em [sữa đá](product) đi ạ
+- cho ông [phin đen đá](product)
+- cho tui [cafe sữa đá](product)
+- [trà thanh đào](product) bạn ơi
+- [phin đen nóng](product)
+- cho tao [trà sen vàng](product)
+- [phin sữa đá](product)
+- [cà phê sữa đá](product) em ạ
+- cho bà [cà phê đen đá](product) nha
+- cho tôi [cafe đen nóng](product)
+- cho chị [cà phê đen nóng](product)
+- cho anh [phin sữa đá](product)
+- cho tui [đen đá](product) nhé
+- [phin đen đá](product)
+- cho tau [cà phê đen đá](product)
+- cho bà [cafe đen đá](product) đi em
+- [cà phê sữa đá](product) đi em
+- cho em [thạch vải](product) em ạ
+- [trà thạch vải](product) đi ạ
+- cho ông [sen vàng](product)
+- cho tôi [cafe đen nóng](product)
+- [trà sen vàng](product)
+- [cà phê đen nóng](product) nha bạn
+- [sữa đá](product)
+- cho tui [trà thạch đào](product)
+- cho bác [phin đen nóng](product)
+- [trà thanh đào](product)
+- [cafe sữa đá](product) đi
+- cho [đen nóng](product) bạn ạ
+- cho chị [thạch đào](product) nha em
+- [phin sữa đá](product)
+- cho tao [đen đá](product) nhé bạn
+- cho anh [phin đen đá](product) nha
+- cho tui [cà phê đen đá](product) bạn ơi
+- [cafe đen đá](product)
+- cho tau [cà phê sữa đá](product) em ơi
+- cho bà [thạch vải](product) nhé em
+- [trà thạch vải](product) đi bạn
+- cho anh [cafe đen nóng](product)
+- [cà phê sữa đá](product) em ơi
+- [sen vàng](product) đi
+- cho em [phin sữa đá](product) nha
+- [cà phê đen đá](product)
+- cho tau [cà phê đen nóng](product)
+- [trà sen vàng](product)
+- cho chị [trà thanh đào](product) bạn ạ
+- [cafe sữa đá](product)
+- [đen đá](product)
+- cho bác [phin đen đá](product) nha em
+- [phin đen nóng](product) nhé em
+- cho tui [sữa đá](product) đi ạ
+- cho tui [cafe đen đá](product) nhé bạn
+- cho bà [thạch vải](product)
+- [trà thạch đào](product) bạn ơi
+- cho tao [thạch đào](product)
+- cho tôi [đen nóng](product) nha bạn
+- [trà thạch vải](product)
+- cho [cafe đen nóng](product)
+- cho ông [cà phê sữa đá](product) đi em
+- cho anh [sen vàng](product) đi em
+- [phin sữa đá](product)
+- [cà phê đen đá](product) nhé
+- cho em [cà phê đen nóng](product)
+- [trà sen vàng](product) em ạ
+- cho tau [trà thanh đào](product) đi bạn
+- [phin đen đá](product) đi
+- cho bà [cà phê sữa đá](product)
+- [thạch vải](product)
+- [phin sữa đá](product) bạn ơi
+- [trà thạch vải](product) em ạ
+- cho tui [phin đen nóng](product)
+- cho bác [trà thạch đào](product)
+- [sen vàng](product) em ơi
+- cho [trà thanh đào](product) đi em
+- [thạch đào](product) đi ạ
+- cho chị [cafe đen đá](product)
+- cho anh [cà phê đen nóng](product) đi em
+- cho tui [cà phê đen đá](product) đi bạn
+- cho em [trà sen vàng](product) bạn ạ
+- [đen nóng](product)
+- cho tôi [sữa đá](product) nha em
+- cho tau [cafe đen nóng](product)
+- [đen đá](product) nha bạn
+- cho tao [cafe sữa đá](product) nha
+- [phin đen đá](product) nhé em
+- cho ông [cà phê sữa đá](product)
+- [thạch vải](product)
+- cho bà [phin sữa đá](product)
+- [trà thạch vải](product) nhé bạn
+- [phin đen nóng](product)
+- [trà thạch đào](product) nhé
+- cho tui [sen vàng](product)
+- cho anh [cafe sữa đá](product) bạn ạ
+- [cà phê sữa đá](product)
+- [phin sữa đá](product) em ạ
+- cho [phin đen nóng](product) đi ạ
+- [trà thạch đào](product)
+- [thạch đào](product) nhé em
+- [trà thạch vải](product) nha
+- cho tui [thạch vải](product)
+- [đen nóng](product) đi em
+- cho tôi [cafe đen đá](product) đi bạn
+- cho tau [cà phê đen đá](product) nhé bạn
+- cho chị [cà phê đen nóng](product)
+- cho bà [phin đen đá](product)
+- cho em [đen đá](product)
+- cho tao [trà thanh đào](product) nha bạn
+- cho ông [trà sen vàng](product) bạn ơi
+- [cafe đen nóng](product) nha em
+- cho tui [sen vàng](product)
+- [sữa đá](product) đi
+- cho bác [cafe sữa đá](product)
+- [cà phê sữa đá](product) nhé
+- cho anh [phin sữa đá](product)
+- [phin đen nóng](product)
+- [trà thạch đào](product) em ơi
+- cho [thạch đào](product)
+- [trà thạch vải](product)
+- [thạch vải](product) đi em
+- cho bà [thạch vải](product) em ạ
+- cho tui [trà thạch vải](product) nha
+- cho anh [sen vàng](product) nha em
+- [cafe đen đá](product) nhé em
+- [trà thạch đào](product)
+- cho tau [đen đá](product)
+- [cà phê sữa đá](product)
+- cho tôi [đen nóng](product) em ơi
+- cho bác [cà phê đen đá](product) đi ạ
+- [trà sen vàng](product) nhé bạn
+- cho ông [cafe đen nóng](product)
+- [cà phê đen nóng](product)
+- [trà thanh đào](product) nhé
+- cho em [thạch đào](product)
+- cho tui [phin đen đá](product) nha bạn
+- [phin đen nóng](product) đi
+- [sữa đá](product)
+- cho tao [cafe sữa đá](product)
+- [phin sữa đá](product)
+- cho chị [thạch vải](product) bạn ạ
+- cho [trà thạch vải](product) đi em
+- cho bà [sen vàng](product)
+- cho tui [cafe đen đá](product)
+- cho anh [trà thạch đào](product) đi bạn
+- [đen đá](product) đi em
+- [cà phê sữa đá](product) bạn ơi
+- cho tau [đen nóng](product)
+- cho anh [cà phê sữa đá](product) bạn ơi
+- [cà phê đen đá](product) nha
+- cho [phin đen nóng](product)
+- cho chị [phin sữa đá](product)
+- cho em [cà phê đen nóng](product)
+- cho ông [trà thạch vải](product)
+- cho tui [trà thanh đào](product) nhé
+- [trà sen vàng](product) đi bạn
+- [trà thạch đào](product) đi em
+- cho tui [thạch đào](product) đi
+- [đen nóng](product)
+- cho bà [sữa đá](product)
+- cho bác [sen vàng](product) bạn ạ
+- cho tau [phin đen đá](product) đi em
+- [đen đá](product)
+- [cafe sữa đá](product) nhé bạn
+- cho tôi [thạch vải](product) nha em
+- [cafe đen nóng](product)
+- cho tao [cafe đen đá](product) nha bạn
+- [cà phê sữa đá](product)
+- [cà phê đen đá](product)
+- cho anh [phin đen nóng](product) đi ạ
+- [phin sữa đá](product) em ơi
+- cho [cà phê đen nóng](product)
+- cho chị [trà thạch vải](product) nhé em
+- cho em [trà thanh đào](product) em ạ
+- cho ông [trà sen vàng](product)
+- [phin sữa đá](product) bạn ơi
+- cho tôi [cà phê đen nóng](product) em ơi
+- cho tau [đen đá](product)
+- [phin đen đá](product) nhé em
+- [trà sen vàng](product) đi ạ
+- [sữa đá](product) nha bạn
+- cho tui [cafe đen đá](product) nha
+- [trà thạch đào](product) đi em
+- cho bác [đen nóng](product) nhé bạn
+- [cà phê đen đá](product)
+- [cafe đen nóng](product)
+- [thạch vải](product)
+- [trà thạch vải](product)
+- cho anh [sen vàng](product) đi em
+- cho bà [thạch đào](product) đi
+- cho chị [cà phê sữa đá](product)
+- cho [phin đen nóng](product) bạn ạ
+- cho tui [trà thanh đào](product)
+- cho em [cafe sữa đá](product) em ạ
+- cho tao [phin sữa đá](product) đi bạn
+- cho ông [cà phê đen nóng](product)
+- [đen đá](product)
+- cho tôi [phin đen đá](product)
+- cho tau [trà sen vàng](product)
+- [sữa đá](product) nha em
+- [cafe đen đá](product)
+- [trà thạch đào](product) nhé
+- [đen nóng](product) đi
+- cho tao [cafe đen đá](product) nha
+- cho bác [sữa đá](product)
+- [trà thạch đào](product) đi ạ
+- [thạch đào](product)
+- cho tui [trà thanh đào](product)
+- cho em [thạch vải](product)
+- [phin đen đá](product)
+- cho bà [cafe sữa đá](product)
+- cho tui [đen đá](product) nha em
+- cho chị [sen vàng](product) bạn ạ
+- cho [cà phê đen đá](product) nhé em
+- cho anh [cà phê sữa đá](product) em ơi
+- cho tau [trà thạch vải](product)
+- cho tôi [cafe đen nóng](product)
+- [phin sữa đá](product) đi bạn
+- [cà phê đen nóng](product) em ạ
+- [phin đen nóng](product) nhé bạn
+- [trà sen vàng](product)
+- [đen nóng](product)
+- cho ông [cafe đen đá](product)
+- [sữa đá](product) đi em
+- cho tao [trà thạch đào](product) bạn ơi
+- cho bác [thạch đào](product) nha bạn
+- [trà thanh đào](product) nhé
+- [thạch vải](product) đi em
+- cho tui [phin đen đá](product)
+- [trà thanh đào](product)
+- cho ông [trà sen vàng](product) đi em
+- [cafe đen nóng](product)
+- [phin đen đá](product) đi em
+- [sen vàng](product) nhé em
+- cho tao [cà phê sữa đá](product) em ạ
+- [cà phê đen nóng](product) bạn ạ
+- cho tau [cà phê đen đá](product)
+- cho [cafe đen đá](product)
+- [phin sữa đá](product)
+- [thạch đào](product) nha em
+- cho tôi [trà thạch vải](product) đi bạn
+- cho anh [trà thạch đào](product) nha
+- cho bác [đen nóng](product)
+- [thạch vải](product) nhé bạn
+- [cafe sữa đá](product)
+- cho em [sữa đá](product)
+- cho tui [phin đen nóng](product) đi
+- cho tui [đen đá](product) nhé
+- cho chị [trà thanh đào](product) đi ạ
+- cho bà [trà sen vàng](product)
+- [cafe đen nóng](product) nha bạn
+- cho ông [phin đen đá](product) em ơi
+- [sen vàng](product)
+- [cà phê sữa đá](product)
+- [cà phê đen nóng](product) bạn ơi
+- cho tao [cà phê đen đá](product)
+- [đen đá](product)
+- cho tau [cà phê đen đá](product) nhé
+- cho tao [phin đen nóng](product)
+- [trà sen vàng](product) bạn ơi
+- cho chị [cafe đen nóng](product) em ơi
+- [thạch đào](product)
+- [sen vàng](product)
+- [trà thạch đào](product)
+- cho bác [cà phê đen nóng](product)
+- [trà thạch vải](product) đi
+- [sữa đá](product) đi em
+- cho tôi [cà phê sữa đá](product) nhé em
+- cho anh [đen nóng](product)
+- [cafe sữa đá](product) bạn ạ
+- cho ông [phin đen đá](product)
+- cho tui [thạch vải](product) nha em
+- [phin sữa đá](product) nha
+- cho tui [trà thanh đào](product)
+- cho bà [cafe đen đá](product) nhé bạn
+- cho [đen đá](product)
+- cho em [cà phê đen đá](product) đi bạn
+- [phin đen nóng](product) đi ạ
+- cho tau [trà sen vàng](product) nha bạn
+- cho tao [cafe đen nóng](product) đi em
+- [thạch đào](product) em ạ
+- cho chị [sen vàng](product)
+- [trà thạch đào](product)
+- cho tau [sen vàng](product) nhé bạn
+- [phin đen đá](product) em ạ
+- cho em [đen nóng](product) đi bạn
+- [cafe đen đá](product)
+- cho bà [trà sen vàng](product)
+- [cà phê đen nóng](product)
+- [cafe đen nóng](product) đi em
+- cho anh [sữa đá](product) nha em
+- cho [cà phê sữa đá](product) nha
+- [cà phê đen đá](product)
+- cho bác [cafe sữa đá](product)
+- cho tao [phin đen nóng](product)
+- cho tui [đen đá](product) bạn ạ
+- cho ông [thạch vải](product) đi ạ
+- cho tôi [trà thạch vải](product) nha bạn
+- [trà thạch đào](product) bạn ơi
+- [thạch đào](product)
+- cho chị [phin sữa đá](product) nhé em
+- [trà thanh đào](product)
+- cho tui [sen vàng](product)
+- [phin đen đá](product)
+- cho tau [đen nóng](product) em ơi
+- [cafe đen đá](product)
+- cho em [trà sen vàng](product)
+- [cà phê đen nóng](product) nhé
+- cho bà [cafe đen nóng](product) đi em
+- [sữa đá](product) đi
+- [trà sen vàng](product)
+- cho anh [thạch vải](product)
+- cho tui [trà thạch vải](product)
+- cho chị [phin đen nóng](product)
+- [đen nóng](product) đi em
+- [sữa đá](product)
+- cho [cafe đen nóng](product) nhé
+- cho bà [thạch đào](product)
+- cho bác [sen vàng](product)
+- cho tui [phin đen đá](product) nhé bạn
+- cho tau [cafe sữa đá](product)
+- cho em [trà thanh đào](product)
+- [trà thạch đào](product) đi em
+- [phin sữa đá](product) nha bạn
+- [cà phê sữa đá](product) nha em
+- [cà phê đen nóng](product)
+- [cà phê đen đá](product) nhé em
+- [cafe đen đá](product) nha
+- cho tao [đen đá](product) em ơi
+- cho tôi [trà sen vàng](product) bạn ơi
+- cho ông [thạch vải](product) đi
+- [trà thạch vải](product) đi ạ
+- cho anh [phin đen nóng](product)
+- cho tui [đen nóng](product) em ạ
+- cho chị [sữa đá](product) bạn ạ
+- [cafe đen nóng](product) đi bạn
+- [thạch đào](product)
+- cho ông [trà sen vàng](product)
+- cho anh [phin đen nóng](product) em ạ
+- cho tui [cafe đen đá](product)
+- cho bà [thạch vải](product) đi ạ
+- [sen vàng](product)
+- [cà phê đen nóng](product) đi
+- cho tao [cà phê đen đá](product)
+- [trà thạch vải](product) đi em
+- [thạch đào](product) bạn ơi
+- cho chị [sữa đá](product)
+- cho tau [cà phê sữa đá](product) đi bạn
+- [phin sữa đá](product) nhé
+- [cafe đen nóng](product)
+- cho em [đen nóng](product) nhé em
+- [cafe sữa đá](product)
+- [đen đá](product)
+- cho tôi [trà thanh đào](product)
+- cho bác [trà thạch đào](product) nha bạn
+- [phin đen đá](product) nha em
+- cho [trà sen vàng](product)
+- cho tui [phin đen nóng](product)
+- cho ông [cafe đen đá](product) đi em
+- cho anh [thạch vải](product) nha
+- cho tui [sen vàng](product)
+- cho bà [cà phê đen nóng](product) bạn ạ
+- [cà phê đen đá](product) nhé bạn
+- [trà thạch vải](product) em ơi
+- cho em [cà phê đen đá](product)
+- [trà thạch vải](product)
+- [cafe đen nóng](product) nha bạn
+- cho tao [phin đen nóng](product)
+- cho tui [cà phê sữa đá](product) đi em
+- cho tau [cafe đen đá](product)
+- [đen nóng](product) bạn ạ
+- cho [thạch vải](product)
+- cho chị [trà sen vàng](product)
+- [phin đen đá](product)
+- cho anh [cà phê đen nóng](product) nha
+- cho tui [phin sữa đá](product)
+- [thạch đào](product) nhé em
+- cho tôi [đen đá](product) nhé bạn
+- cho bà [trà thanh đào](product) em ơi
+- [sữa đá](product) nhé
+- cho bác [cafe sữa đá](product) em ạ
+- [trà thạch đào](product)
+- cho ông [sen vàng](product)
+- [cà phê đen đá](product) đi ạ
+- [trà thạch vải](product)
+- cho em [cafe đen nóng](product) đi bạn
+- [phin đen nóng](product)
+- [cà phê sữa đá](product) đi
+- cho tao [cafe đen đá](product) bạn ơi
+- cho tui [đen nóng](product) đi em
+- cho tau [thạch vải](product) nha em

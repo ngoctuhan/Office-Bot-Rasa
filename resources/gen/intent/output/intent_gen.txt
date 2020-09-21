@@ -1,0 +1,64 @@
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "ngo":"1", "street":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "ngo":"1", "street":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "ngo":"1", "street":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "ngo":"1", "street":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "ngo":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "ngo":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "ngo":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "ngo":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "street":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "street":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "street":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "street":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngach":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"number":"1", "ngo":"1", "street":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngo":"1", "street":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngo":"1", "street":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngo":"1", "street":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngo":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngo":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngo":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "ngo":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"number":"1", "street":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "street":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "street":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "street":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"number":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"ngach":"1", "ngo":"1", "street":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "ngo":"1", "street":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "ngo":"1", "street":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "ngo":"1", "street":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "ngo":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "ngo":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "ngo":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "ngo":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"ngach":"1", "street":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "street":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "street":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "street":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngach":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"ngo":"1", "street":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngo":"1", "street":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngo":"1", "street":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngo":"1", "street":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngo":"1", "district":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngo":"1", "district":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngo":"1", "county":"1"} > action_confirm_location_2
+> action_ask_location_2 > show_location{"ngo":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"street":"1", "district":"1", "county":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"street":"1", "district":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"street":"1", "county":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"street":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"district":"1", "county":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"district":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{"county":"1"} > action_fallback_operator_location
+> action_ask_location_2 > show_location{} > action_fallback_operator_location

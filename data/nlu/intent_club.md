@@ -1,0 +1,25 @@
+## intent: intent_club
+- Trong công ty có club gì không
+- Công ty có club nào không
+- Công ty có câu lạc bộ gì không
+- Công ty có câu lạc bộ nào không
+- Công ty có câu lạc bộ nhảy không
+- Công ty có câu lạc bộ gym không
+- Công ty có club dành cho người tập gym không
+- Mọi người có thành lập club nào không
+- Mọi người có thành lập câu lạc bộ nào không
+- Có club nào hoạt động không
+- Công ty có câu lạc bộ bơi không
+- Công ty có nhiều câu lạc bộ không
+- Công ty có câu lạc bộ dạy học không
+- Vào công ty có tạo club được không
+- Anh chị có tạo club riêng không
+- Anh chị có tạo câu lạc bộ gì không
+- Clb trong công ty thế nào
+- Công ty có những clb nào
+- Các clb công ty hoạt động ra sao
+- Công ty có nhiều câu lạc bộ không
+- Công ty có club về gì
+- Công ty có clb nào cho người mới
+- Có được thành lập các clb trong công ty không
+- Tôi muốn lập clb riêng được không

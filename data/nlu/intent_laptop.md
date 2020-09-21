@@ -1,0 +1,24 @@
+## intent: intent_laptop
+- Tôi có được cấp laptop khi làm việc không
+- Tôi có được cấp máy tính khi làm việc không
+- Công ty có cấp sẵn máy tính cho nhân viên không
+- Công ty có cấp sẵn laptop cho nhân viên không
+- Làm việc bằng máy tính công ty hay máy tính cá nhân
+- Nhân viên làm việc bằng máy tính công ty hay máy tính cá nhân
+- Nhân viên làm việc bằng máy của mình hay gì
+- Nhân viên làm việc bằng laptop của mình hay gì
+- Tôi có cần mang máy tính đi làm không
+- Anh có cần mang máy tính đi làm không
+- Chị có cần mang máy tính đi làm không
+- Tôi có cần mang laptop đi làm không
+- Tôi có phải mang lap đi làm không
+- Tôi có phải mang máy tính đi làm không
+- Công ty cấp sẵn máy tính cho nhân viên chứ
+- Công ty cấp sẵn laptop cho nhân viên chứ
+- Máy tính được cấp sẵn chứ
+- Máy tính là công ty cấp sẵn phải không
+- Tôi mang máy tính của tôi đi làm được không
+- Tôi làm bằng máy tính của tôi được không
+- Tôi làm bằng laptop của tôi có được không
+- Công ty có yêu cầu tự mang laptop không
+- Công ty có yêu cầu tự mang máy tính không

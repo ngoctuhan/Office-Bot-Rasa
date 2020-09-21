@@ -1,0 +1,33 @@
+## intent: intent_laudatory
+- Chính sách khen thưởng của công ty như nào
+- Chính sách khen thưởng của công ty như thế nào
+- Chính sách khen thưởng của công ty ra sao
+- Công ty có thưởng nhiều không
+-  Svmc được thưởng nhiều không
+-  Nghỉ lễ được thưởng như nào
+-  Nghỉ lẽ được thưởng ra sao
+-  Tết có được thưởng không
+-  Thưởng tết như nào
+-  Thưởng tết được nhiều không
+-  Thưởng tết được mấy tháng lương
+-  Quốc khánh có được thưởng không
+-  02/09 được thưởng không
+-  Công ty có thưởng ngày quốc khánh không
+-  Svmc có thưởng quốc khánh không
+-  Quốc tế lao động có được thưởng không
+-  01/05 được thưởng không
+-  Công ty có chính sách khen thưởng như nào
+-  Đi làm đầy đủ có được khen thưởng không
+-  Đi làm đầy đủ có được tăng lương không
+-  Làm sao để tăng lương
+-  Công ty trả phụ cấp như nào
+-  Svmc có phụ cấp như nào
+-  Công ty có phụ cấp gì không
+-  Svmc có phụ cấp gì không
+-  Làm lâu năm có được lương cao không
+-  Làm lâu có được tăng lương không
+-  Thâm niên cao thì được thưởng không
+-  Thâm niên cao thì thưởng nhiều hơn không
+-  Có phải Samsung có 19 tháng lương không
+-  Samsung thưởng nhiều lắm phải không
+-  Thấy bảo Samsung thưởng đến 19 tháng lương à

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Rasa Core Visualisation</title>
+    <script src="https://dagrejs.github.io/project/dagre-d3/latest/dagre-d3.min.js"></script>
+    <script src="https://dagrejs.github.io/project/dagre/latest/dagre.min.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://dagrejs.github.io/project/graphlib-dot/v0.6.3/graphlib-dot.js"></script>
+</head>
+<body>
+<div id="errormsg" style="color: #b00"></div>
+<svg>
+    <style>
+        .node.invisible > rect {
+            display: none;
+        }
+
+        .node.start > rect {
+            fill: #7f7;
+            rx: 30;
+            ry: 18;
+        }
+
+        .node.end > rect {
+            fill: #f77;
+            rx: 30;
+            ry: 18;
+        }
+
+        .node:not(.active) > rect, .node:not(.active) > .label {
+            opacity: 0.4;
+        }
+
+        .edgePath:not(.active) path {
+            opacity: 0.4;
+        }
+
+        .node.ellipsis > rect {
+            fill: #CCC;
+        }
+
+        .node.intent > rect {
+            fill: #7ff;
+        }
+
+        .node.dashed > rect {
+            stroke-dasharray: 5;
+        }
+
+        text {
+            font-weight: 300;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serf, serif;
+            font-size: 14px;
+            color: #1f1d1d;
+        }
+
+        .node rect {
+            stroke: #444;
+            fill: #fff;
+            stroke-width: 1.5px;
+        }
+
+        .edgePath path {
+            stroke: #333;
+            stroke-width: 1.5px;
+        }
+
+        svg {
+            position: fixed;
+            top: 10px;
+            left: 0;
+            height: 100%;
+            width: 100%
+        }
+    </style>
+    <g></g>
+</svg>
+<script>
+
+  function serveGraph() {
+    let oldInputGraphValue;
+
+    const url = 'visualization.dot';
+    const refreshInterval = 500;
+
+    // trigger a refresh by fetching an updated graph
+    setInterval(function () {
+      fetch(url).then(r => r.text()).then(dot => {
+        document.getElementById('errormsg').innerHTML = '';
+        if (oldInputGraphValue === dot) return;
+
+        oldInputGraphValue = dot;
+        drawGraph(dot);
+      }).catch(err => {
+        document.getElementById('errormsg').innerHTML =
+          'Failed to update plot. (' + err.message + ')';
+      });
+    }, refreshInterval);
+  }
+
+  function drawGraph(graph) {
+    let g = graphlibDot.read(graph);
+    // Set margins, if not present
+    if (!g.graph().hasOwnProperty("marginx") &&
+      !g.graph().hasOwnProperty("marginy")) {
+      g.graph().marginx = 20;
+      g.graph().marginy = 20;
+    }
+    g.graph().transition = function (selection) {
+      return selection.transition().duration(300);
+    };
+    // Render the graph into svg g
+    d3.select("svg g").call(render, g);
+  }
+  // Set up zoom support
+  const svg = d3.select("svg"),
+    inner = d3.select("svg g"),
+    zoom = d3.zoom().on("zoom", function () {
+      inner.attr("transform", d3.event.transform);
+    });
+  svg.call(zoom);
+
+  // Create and configure the renderer
+  const render = dagreD3.render();
+
+  let isClient = false;
+  isClient = true;
+
+  if (isClient) {
+    // Mark all nodes and their edges as active
+    cssRules = document.styleSheets[0].cssRules;
+    cssRules[3].style.opacity = 1;
+    cssRules[4].style.opacity = 1;
+
+    let graph;
+    graph = `digraph  {
+START;
+action_degree;
+action_commit;
+action_exp;
+action_fields;
+END;
+action_old;
+action_where;
+action_club;
+action_timework;
+action_step_interview;
+action_health;
+action_hellow;
+action_laudatory;
+action_overtime;
+action_laptop;
+action_canteen;
+action_partTime;
+action_maternity;
+action_bye;
+action_resignation;
+action_brief;
+action_englishDegree;
+action_condition;
+action_trainning;
+action_salary;
+action_employee;
+action_holiday;
+action_submitCV;
+action_sport;
+action_insurrance;
+action_GPA;
+START -> action_degree  [key=0, label=intent_degree];
+START -> action_commit  [key=0, label=intent_commit];
+START -> action_exp  [key=0, label=intent_exp];
+START -> action_old  [key=0, label=intent_old];
+START -> action_where  [key=0, label=intent_where];
+START -> action_club  [key=0, label=intent_club];
+START -> action_health  [key=0, label=intent_health];
+START -> action_laudatory  [key=0, label=intent_laudatory];
+START -> action_overtime  [key=0, label=intent_overtime];
+START -> action_laptop  [key=0, label=intent_laptop];
+START -> action_canteen  [key=0, label=intent_canteen];
+START -> action_partTime  [key=0, label=intent_partTime];
+START -> action_hellow  [key=0, label=intent_hellow];
+START -> action_bye  [key=0, label=intent_bye];
+START -> action_resignation  [key=0, label=intent_resignation];
+START -> action_step_interview  [key=0, label=intent_step_interview];
+START -> action_employee  [key=0, label=intent_employee];
+START -> action_trainning  [key=0, label=intent_trainning];
+START -> action_timework  [key=0, label=intent_timework];
+START -> action_maternity  [key=0, label=intent_maternity];
+START -> action_englishDegree  [key=0, label=intent_englishDegree];
+START -> action_holiday  [key=0, label=intent_holiday];
+START -> action_brief  [key=0, label=intent_brief];
+START -> action_submitCV  [key=0, label=intent_submitCV];
+START -> action_condition  [key=0, label=intent_condition];
+START -> action_GPA  [key=0, label=intent_GPA];
+START -> action_insurrance  [key=0, label=intent_insurrance];
+START -> action_fields  [key=0, label=intent_fields];
+START -> action_salary  [key=0, label=intent_salary];
+START -> action_sport  [key=0, label=intent_sport];
+action_degree -> END  [key=0, label=None];
+action_commit -> END  [key=0, label=None];
+action_exp -> END  [key=0, label=None];
+action_fields -> END  [key=0, label=None];
+action_old -> END  [key=0, label=None];
+action_where -> END  [key=0, label=None];
+action_club -> END  [key=0, label=None];
+action_timework -> END  [key=0, label=None];
+action_step_interview -> END  [key=0, label=None];
+action_health -> END  [key=0, label=None];
+action_hellow -> END  [key=0, label=None];
+action_laudatory -> END  [key=0, label=None];
+action_overtime -> END  [key=0, label=None];
+action_laptop -> END  [key=0, label=None];
+action_canteen -> END  [key=0, label=None];
+action_partTime -> END  [key=0, label=None];
+action_maternity -> END  [key=0, label=None];
+action_bye -> END  [key=0, label=None];
+action_resignation -> END  [key=0, label=None];
+action_brief -> END  [key=0, label=None];
+action_englishDegree -> END  [key=0, label=None];
+action_condition -> END  [key=0, label=None];
+action_trainning -> END  [key=0, label=None];
+action_salary -> END  [key=0, label=None];
+action_employee -> END  [key=0, label=None];
+action_holiday -> END  [key=0, label=None];
+action_submitCV -> END  [key=0, label=None];
+action_sport -> END  [key=0, label=None];
+action_insurrance -> END  [key=0, label=None];
+action_GPA -> END  [key=0, label=None];
+}
+`;
+    drawGraph(graph);
+  } else {
+    serveGraph();
+  }
+
+
+</script>
+</body>
+</html>

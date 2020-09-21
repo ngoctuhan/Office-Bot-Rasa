@@ -1,0 +1,18 @@
+## intent: intent_training
+- Tôi được đào tạo gì sau khi vào công ty
+- Nhân viên được đào tạo những gì sau khi vào công ty
+- Sau khi vào công ty được đào tạo những gì
+- Các chính sách đào tạo nhân viên của công ty thế nào
+- Các chính sách đào tạo nhân viên của công ty như thế nào
+- Các chính sách đào tạo nhân viên của công ty thì sao
+- Các chính sách đào tạo nhân viên của công ty có gì hot không
+- Các chính sách đào tạo nhân viên của công ty có gì đăc sắc
+- Các chính sách đào tạo nhân viên mới có những gì
+- Ad cho xin chính sách đào tạo nhân viên sau khi vào công ty
+- Ad cho xin các thông tin về đào tạo nhân viên mới
+- Ad cho hỏi nhân viên mới vào công ty được đào tạo những gì
+- Công ty có chính sách đào tạo nhân viên mới không hả ad
+- SVMC có những chính sách đào tạo nhân viên mới nào
+- SVMC có những chương trình đào tạo nào cho nhân viên mới
+- Có các chương trình đào tạo cho nhân viên mới không
+- Có những chương trình đào tạo nào cho nhân viên mới

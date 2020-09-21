@@ -1,0 +1,67 @@
+session_config:
+  session_expiration_time: 60.0
+  carry_over_slots_to_new_session: true
+
+intents:
+  - intent_hellow
+  - intent_bye
+  - intent_laudatory
+  - intent_condition
+  - intent_brief
+  - intent_step_interview
+  - intent_old
+  - intent_club
+  - intent_laptop
+  - intent_resignation
+  - intent_employee
+  - intent_englishDegree
+  - intent_exp
+  - intent_fields
+  - intent_GPA
+  - intent_health
+  - intent_holiday
+  - intent_overtime
+  - intent_salary
+  - intent_sport
+  - intent_submitCV
+  - intent_timework
+  - intent_trainning
+  - intent_where
+  - intent_partTime
+  - intent_maternity
+  - intent_canteen
+  - intent_insurrance
+  - intent_commit
+  - intent_degree
+
+actions:
+  - action_hellow
+  - action_bye
+  - action_laudatory
+  - action_condition
+  - action_brief
+  - action_step_interview
+  - action_old
+  - action_club
+  - action_laptop
+  - action_resignation
+  - action_employee
+  - action_englishDegree
+  - action_exp
+  - action_fields
+  - action_GPA
+  - action_health
+  - action_holiday
+  - action_overtime
+  - action_salary
+  - action_sport
+  - action_submitCV
+  - action_timework
+  - action_trainning
+  - action_where
+  - action_partTime
+  - action_maternity
+  - action_canteen
+  - action_insurrance
+  - action_commit
+  - action_degree

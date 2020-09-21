@@ -1,0 +1,47 @@
+## intent: intent_brief
+- Hồ sơ tuyển dụng gồm những gì
+- Hồ sơ tuyển dụng cần những gì
+- Phải chuẩn bị giấy tờ gì để ứng tuyển vào công ty
+- Phải chuẩn bị giấy tờ gì để ứng tuyển svmc
+- Cần chuẩn bị những giấy tờ gì để ứng tuyển
+- Ứng tuyển svmc cần bằng cấp 3 không
+- Ứng tuyển svmc cần photo sổ đỏ không
+- Ứng tuyển svmc cần chứng minh nhân dân không
+- Ứng tuyển svmc cần căn cước công dân không
+- Đăng ký svmc cần những giấy tờ gì
+- Đăng ký svmc cần chuẩn bị hồ sơ như nào
+- Hồ sơ xin việc svmc yêu cầu những gì
+- Hồ sơ xin việc cần những gì
+- Hồ sơ xin việc ra sao
+- Tôi mất chứng minh nhân dân thì phải làm sao để ứng tuyển
+- Tôi mất chứng minh nhân dân thì có ứng tuyển được không
+- Tôi nộp căn cước công dân thay chứng minh nhân dân được không
+- Hồ sơ của tôi thiếu chứng minh nhân dân có được không
+- Hồ sơ của tôi không có bản sao sổ hộ khẩu có sao không
+- Hồ sơ của tôi bị thiếu có bị loại không
+- Hồ sơ thiếu giấy tờ có bị bỏ không
+- Hồ sơ xin việc cần đơn xin việc không
+- Hồ sơ tuyển dụng cần có đơn xin việc không
+- Tôi không nộp đơn xin việc có bị loại không
+- Cv xin việc có yêu cầu gì không
+- Cv xin việc yêu cầu như thế nào
+- Sơ yếu lý lịch cần viết chi tiết không
+- Sơ yếu lý lịch cần công chứng không
+- Tôi cần công chứng những gì để làm hồ sơ
+- Hồ sơ xin việc cần công chứng những gì
+- Hồ sơ xin việc cần có những gì?
+- Hồ sơ xin việc cần có những gì
+- CV cần những gì
+- CV cần phải điền những gì
+- CV xin việc cần những gì
+- CV xin việc cần điền những nội dung gì
+- Trong hồ sơ xin việc cần những cái gì
+- Hồ sơ xin việc gồm loại giấy tờ nào
+- CV cần những giấy tờ gì
+- Hồ sơ xin việc gồm những cái gì
+- Thông tin nào cần có trong hồ sơ xin việc
+- Thông tin nào cần có trong CV
+- CV cần có những thông tin nào
+- Hồ sơ xin việc gồm loại giấy tờ nào
+- Các giấy tờ cần có trong hồ sơ xin việc
+- Những thứ cần có trong hồ sơ xin việc

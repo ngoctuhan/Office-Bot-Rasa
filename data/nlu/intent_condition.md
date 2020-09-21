@@ -1,0 +1,32 @@
+## intent: intent_condition
+- Vào công ty có phát triển được không
+- Công ty có làm web không
+- Học ai vào làm ở công ty có được không
+- Có phải công ty chỉ làm android không
+- Vào svmc có phát triển được không
+- Vào Samsung nhàn lắm phải không
+- Vào svmc có thể phát triển được không
+- Làm ở đây sau có bị tù người không
+- Thấy bảo vào Samsung nhàn lắm à
+- Em muốn theo web thì có phát triển được không
+- Em muốn theo ai thì có làm được không
+- Có bộ phận nào làm ai không
+- Có bộ phận nào làm html không
+- Em chưa có kinh nghiệm vào có được đào tạo không
+- Em chưa biết android vào có được đào tạo không
+- Công ty có đào tạo nhân viên không
+- Svmc có đào tạo trước không
+- Công ty có phát triển kỹ năng mềm không
+- Svmc có phát triển kỹ năng mềm không
+- Svmc có hoạt động ngoại khóa không
+- Điều kiện phát triển như nào
+- Điều kiện phát triển ra sao
+- Công ty có thể làm boss được không
+- Công ty thăng tiến ra sao
+- Công ty có được đi nước ngoài không
+- Làm ở công ty được đi nước ngoài không không
+- Có thể phát triển kĩ năng lãnh đạo ở công ty không
+- Được đào tạo gì
+- Được học gì
+- Trong công ty bắt làm android à
+- Làm web được không

@@ -1,0 +1,17 @@
+## intent: intent_degree
+- Tôi có bằng X có được ưu tiên gì không
+- Tôi có thêm bằng X có được ưu tiên gì không
+- Tôi có bằng X có được hơn gì không
+- Tôi có thêm bằng X có được ưu tiên hơn cái gì không
+- Có được ưu tiên gì khi có bằng X không
+- Có bằng X có được hơn gì không
+- Có thêm bằng X được ưu tiên gì không
+- Tôi có bằng X có được ưu tiên gì khi vào công ty không
+- Có bằng X khi vào công ty có được ưu tiên gì không
+- Tôi có bằng X có được ưu tiên gì không hả ad
+- Bằng X có cần thiết khi vào công ty không
+- Công ty có yêu cần bằng X không
+- Khi có bằng X vào công ty thì sao
+- Có bằng X có được lợi gì khi vào công ty không
+- Ưu tiên gì khi tôi có bằng X
+- Lợi thế của việc có bằng X

@@ -1,0 +1,30 @@
+## intent: intent_old
+- Độ tuổi ứng tuyển là bao nhiêu
+- Độ tuổi được tuyển dụng là bao nhiêu
+- Bao nhiêu tuổi thì được vào làm
+- Bao nhiêu tuổi thì vào làm svmc được
+- Bao nhiêu tuổi thì vào công ty được
+- Tôi 35 tuổi có xin việc được không
+- Tôi 35 tuổi có ứng tuyển được không
+- Tôi 17 tuổi có ứng tuyển được không
+- Già rồi có xin việc được không
+- Tôi lớn tuổi rồi có ứng tuyển được không
+- Công ty có yêu cầu về tuổi tác không
+- Svmc có yêu cầu gì vể tuổi không
+- Độ tuổi nào phù hợp vào svmc
+- Vào svmc tuổi như nào thì phù hợp
+- Công ty tuyển sinh viên năm nhất không 
+- Năm nhất tuyển không ạ
+- Năm hai tuyển không a
+- Năm ba được không ạ
+- Công ty có tuyển người già không
+- Công ty tuyển trẻ em không
+- Độ tuổi tuyển dụng bao nhiêu
+- Độ tuổi 
+- Tuyển người tuổi nào
+- Tuổi nào được tuyển
+- Tuổi nào sẽ được tuyển
+- Sinh viên năm mấy được vào công ty
+- Sinh viên ra trường được tuyển không
+- Công ty tuyển em không ạ
+- 40 tuổi vào công ty được không

@@ -1,0 +1,26 @@
+## intent: intent_step_interview
+- Quy trình phỏng vấn như nào
+- Quy trình phỏng vấn ra sao
+- Phỏng vấn gồm mấy bước
+- Phỏng vấn xin việc là xong à
+- Đi phỏng vấn có test không
+- Có cần test trước khi phỏng vấn không
+- Có phải kiểm tra gì trước khi phỏng vấn không
+- Có phải thi code trước khi phỏng vấn không
+- Có phải test iq trước khi phỏng vấn không
+- Để là nhân viên cần qua bao nhiêu bước
+- Để là nhân viên cần phải thi những gì
+- Quy trình để thành nhân viên chính thức như nào
+- Tôi phải thi những gì để thành nhân viên chính thức
+- Em phải thi những gì để thành nhân viên chính thức
+- Quy trình phỏng vấn
+- Phỏng vấn gồm bước gì
+- Phỏng vấn mấy vòng
+- Phỏng vấn có lâu khônng
+- Phỏng vấn với ai
+- Phỏng vấn thì có giai đoạn nào
+- Phỏng vấn gồm những gì
+- Phỏng vấn giai đoạn gì 
+- Làm sao là nhân viên chính thức
+- Công ty có phỏng vấn online không
+- Công ty có cần phỏng vấn không

@@ -1,0 +1,26 @@
+## intent: intent_commit
+- Tôi có cần cam kết làm việc bao nhiêu tháng không
+- Tôi có cần cam kết làm việc bao nhiêu tháng khi vào công ty không
+- Tôi có bắt buộc phải cam kết làm việc bao nhiêu tháng không
+- Tôi ít nhất phải làm việc bao nhiêu tháng cho công ty
+- Tôi phải làm việc cho công ty ít nhất bao lâu có thể rời đi
+- Công ty có bắt tôi cam kết làm việc bao nhiêu tháng không
+- Vào công ty tôi có phải cam kết làm việc bao nhiêu tháng không
+- Khi vào công ty tôi ít nhất phải làm việc bao nhiêu tháng
+- Muốn rời công ty thì tôi phải làm việc ít nhất mấy tháng
+- Số tháng tối thiểu mà tôi phải cam kết đi làm khi vào công ty
+- Số tháng tối thiểu tôi phải đi làm khi muốn rời công ty
+- Tôi bắt buộc phải làm ít nhất bao nhiêu tháng thì mới có thể rời công ty
+- Khi vào công ty tôi có phải cam kết làm việc bao nhiêu tháng không ad
+- Khi kí hợp đồng tôi phải cam kết làm việc bao nhiêu tháng cho công ty
+- Thời gian làm ít nhất bao lâu
+- Có loại hợp đồng nào thời gian nào trong công ty
+- Cam kết làm ít nhất bao lâu
+- Làm ít nhất thời gian bao lâu
+- Thời gian cam kết hợp đồng là bao lâu
+- Tôi làm 6 tháng rồi nghỉ được không
+- Tôi làm 1 năm rồi nghỉ được không
+- Tôi được rời công ty khi làm bao lâu
+- Tôi cần làm ít nhất bao tháng tại công ty
+- Tôi nghỉ trước hợp đồng được không
+- Công ty yêu cầu làm nhân viên ít nhất lâu

@@ -1,0 +1,22 @@
+## intent: intent_submitCV
+- Cách thức nộp hồ sơ tuyển dụng
+- Tôi muốn nộp hồ sơ tuyển dụng
+- Tôi muốn nộp CV thì nộp cho ai
+- Tôi sẽ nộp CV như thế nào
+- Hồ sơ tuyển dụng sẽ nộp cho ai
+- Cho tôi xin email của phòng nhân sự
+- Email để nộp hồ sơ tuyển dụng là gì 
+- Thông tin cách thức nộp hồ sơ tuyển dụng
+- Làm thế nào để nộp hồ sơ tuyển dụng
+- Làm thế nào để nộp CV
+- Làm thế nào để nộp CV xin việc
+- Tôi muốn nộp CV xin việc cần làm gì
+- Email để nộp CV xin việc là gì
+- Email để nộp CV là gì
+- Email để nộp CV xin việc là gì
+- Ad cho em hỏi em nộp CV xin việc thì nộp thế nào
+- Làm thế nào để nộp hồ sơ xin việc
+- Nộp hồ sơ xin việc đến đâu
+- Xin email nộp hồ sơ
+- Apply như nào
+- Sao để nộp hồ sơ tuyển dụng
